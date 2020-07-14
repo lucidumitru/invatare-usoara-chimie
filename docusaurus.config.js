@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'My Site',
-    tagline: 'The tagline of my site',
+    title: 'Invăţarea uşoară a chimiei',
+    tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
     baseUrl: '/invatare-usoara-chimie/',
     favicon: 'img/favicon.ico',
@@ -8,69 +8,56 @@ module.exports = {
     projectName: 'invatare-usoara-chimie', // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: 'Invăţare uşoară la Chimie',
+            title: 'Invăţarea uşoară a chimiei',
             logo: {
                 alt: 'My Site Logo',
                 src: 'img/logo.svg',
             },
             links: [{
-                    to: 'docs/',
+                    to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1-teorie',
                     activeBasePath: 'docs',
-                    label: 'Docs',
+                    label: 'Documentaţii',
                     position: 'left',
                 },
                 { to: 'blog', label: 'Blog', position: 'left' },
-                {
-                    href: 'https://github.com/facebook/docusaurus',
-                    label: 'GitHub',
-                    position: 'right',
-                },
             ],
         },
         footer: {
             style: 'dark',
             links: [{
-                    title: 'Docs',
+                    title: 'Documentaţii',
                     items: [{
-                            label: 'Style Guide',
-                            to: 'docs/',
+                            label: 'Invăţarea uşoară a chimiei',
+                            to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1-teorie',
                         },
                         {
-                            label: 'Second Doc',
-                            to: 'docs/doc2/',
+                            label: 'Ghidul de chimie versus accidentele',
+                            to: 'docs/ghidul-de-chimie-versus-accidentari',
                         },
                     ],
                 },
                 {
-                    title: 'Community',
+                    title: 'Comunitate',
                     items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: 'Facebook',
+                            href: 'https://www.facebook.com/danielaelena.dumitru.7',
                         },
                         {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
-                        },
-                        {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            label: 'Youtube',
+                            href: 'https://www.youtube.com/channel/UCCVEIyugABtorLa_FIEPazw?view_as=subscriber',
                         },
                     ],
                 },
                 {
-                    title: 'More',
+                    title: 'Extra',
                     items: [{
                             label: 'Blog',
                             to: 'blog',
                         },
-                        {
-                            label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
-                        },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Invatare usoara la Chimie. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Invatarea usoara a chimiei. Built with Docusaurus.`,
         },
     },
     presets: [

@@ -1,7 +1,8 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: chimie
+title: Notiuni Generale Despre Chimie
+sidebar_label: Notiuni generale
+tags: chimie invatare usoara
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
@@ -11,9 +12,6 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 To serve as an example page when styling markdown based Docusaurus sites.
 
 ## Headers
-
-# H1 - Daniela te iubesc - Chimie1!
-
 
 # H1 - Create the best documentation
 
