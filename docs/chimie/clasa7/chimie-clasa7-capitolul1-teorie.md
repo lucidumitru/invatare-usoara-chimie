@@ -5,6 +5,12 @@ sidebar_label: Teorie
 tags: chimie clasa7 invatare usoara capitolul1 teorie chimia știință a naturii
 ---
 
+
+import Img from '@site/src/components/Img'
+import Video from '@site/src/components/Video'
+
+<a class="video" href="#video-tutorial">Video Tutorial</a>
+
 ## I.1. Ce este chimia ?
 
 Chimia este știința naturii care studiază alcătuirea, proprietățiile și transformările substanțelor din natură. Chimia 
@@ -86,9 +92,11 @@ evacuarea gazelor toxice.
 
 **Eprubete:**
 
+<Img src="chimie/clasa7/capitolul1/1_1_Eprubete_test-glass-157103_1280.png" />
 
 
+## Video tutorial
 
-
+<Video src="https://www.youtube.com/embed/od8vK-hJ-f8" />
 
 
