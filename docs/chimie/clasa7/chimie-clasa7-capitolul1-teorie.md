@@ -9,7 +9,7 @@ tags: chimie clasa7 invatare usoara capitolul1 teorie chimia știință a naturi
 import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
-<a class="video" href="#video-tutorial">Video Tutorial</a>
+
 
 ## I.1. Ce este chimia ?
 
@@ -87,8 +87,8 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 
 ## I.2. Laboratorul de chimie
-Laboratorul de chimie este dotat cu ustensile și aparate specifice, substanțe chimice(reactivi), mobilier si nișă pentru
-evacuarea gazelor toxice.
+
+#### Laboratorul de chimie este dotat cu ustensile și aparate specifice, substanțe chimice(reactivi), mobilier si nișă pentru evacuarea gazelor toxice.
 
 **Eprubete**
 
@@ -275,7 +275,9 @@ evacuarea gazelor toxice.
 
 
 
-### I.3.1. Experimentele se efectuează numai sub îndrumarea profesorului, respectând cu strictețe instrucțiunile acestuia.
+### I.3.1. Efectuarea experimentelor.
+
+#### Experimentele se efectuează numai sub îndrumarea profesorului, respectând cu strictețe instrucțiunile acestuia.
 
 ### I.3.2. Sursele de încălzire şi încălzirea corpurilor.
 
@@ -293,30 +295,28 @@ evacuarea gazelor toxice.
 
 #### •	La încălzirea lichidelor în vase de sticlă, vasul se pune pe o sită metalică cu azbest.
 
-<Img src="chimie/clasa7/capitolul1/2_ProtectiaMuncii_IncalzireaCorectaAUnuiPaharCuLichid.jpg" />
+<Video src="https://www.youtube.com/embed/1LIKxfudu-s" />
  
 
 #### •	Substanţele inflamabile(naftalina, acetona, alcoolul etc) se încălzesc numai pe baie de apă.
 
-<Img src="chimie/clasa7/capitolul1/2_ProtectiaMuncii_IncalzireaCorectaAUnuiMaterialInflamabil.jpg" />
- 
+
+<Video src="https://www.youtube.com/embed/7JBibSntLyQ" />
 
 
 #### •	La încălzirea eprubetei se foloseşte cleştele de lemn; gura eprubetei nu trebuie să fie îndreptată spre vreo persoană. Pentru a nu se sparge, eprubeta se roteşte în flacără.
 
-<Img src="chimie/clasa7/capitolul1/2_ProtectiaMuncii_IncalzireaCorectaAEprubeteiCuLichid.jpg" />
 
+<Video src="https://www.youtube.com/embed/44SKM_e7dqo" />
 
 
 #### •	Pericol de incendiu prezintă şi supraîncălzirea firelor electrice (constatat prin mirosul de cauciuc încălzit), caz în care se întrerupe imediat curentul.
-
-
 
 #### •	Pentru a asigura protecţia contra incendiilor e necesar ca în laborator să se găsească următoarele: apă, stingătoare, nisip, pături, azbest, faianţă.
 
 #### •  Flacăra oricărui lichid (inflamabil, ulei aprins etc) sau incendiul electric, nu se stinge cu apă, ci se acoperă cu un izolant pentru a evita contactul cu aerul. Dacă hainele unei persoane au luat foc, acesta se înveleşte imediat într-o pătură.
 
-#### • De exemplu, când prăjiți cartofi și ați pus prea mulți cartofi sau prea mult ulei în tigaie, uleiul iese din tigaie și se aprinde. Cum trebuie să procedați: întâi stingeți aragazul și acoperiți tigaia cu un capac. Dacă nu aveți capac, acoperiți cu un prosop sau o pătură uscată. 
+#### • De exemplu, când prăjiți cartofi și ați pus prea mulți cartofi sau prea mult ulei în tigaie, uleiul iese din tigaie și se aprinde. Cum trebuie să procedați: întâi stingeți aragazul și acoperiți tigaia cu un capac. Dacă nu aveți capac, acoperiți cu un prosop sau o pătură uscată. Este Interzis să aruncaţi apă peste uleiul încins întrucât uleiul aprins ar sări din tigaie şi v-ar produce arsuri grave.    
 
 #### •	Manipularea solvenţilor inflamabili (sodiul şi potasiul metalic ţinute sub petrol, disulfura de carbon, alcool, eter, benzen, cloroform, acetonă etc.) se face sub nişă şi cu stingerea surselor de încălzire.
 
@@ -332,7 +332,12 @@ evacuarea gazelor toxice.
 
 #### •	Agitarea unui lichid se face cu bagheta prin mișcări circulare fără a se atinge pereții.
 
+<Video src="https://www.youtube.com/embed/mjtQgRYAMwo" />
+
+
 #### •	Nu e permis să se guste substanţe chimice, să se amestece substanţe la întâmplare şi să se atingă cu mâna.
+
+<Video src="https://www.youtube.com/embed/oFXULaetZ-c" />
 
 #### •	În timpul experimentelor nu se vor purta haine cu mâneci largi și părul va fi strâns la spate.
 
@@ -344,7 +349,7 @@ evacuarea gazelor toxice.
 
 #### •	Mirosirea unei substanţe se face în mod indirect, aducând cu mâna vaporii spre nas.
 
-<Img src="chimie/clasa7/capitolul1/2_ProtectiaMuncii_MirosireaCorectaAUneiSubstante.jpg" />
+<Video src="https://www.youtube.com/embed/4DPrG6j3EEs" />
 
 #### •	Pentru protejarea ochilor în cazul transvazării lichidelor caustice (acizi sau baze concentrate), când se efectuează experienţe cu sodiu şi potasiu metalic, la prelucrarea sticlei, la sfărâmarea substanţelor solide(alcalii), la efectuarea unor experienţe explozive este necesară purtarea ochelarilor de protecţie.
 
@@ -354,12 +359,390 @@ evacuarea gazelor toxice.
 
 #### •	Când se lucrează cu obiecte ascuţite, acestea nu se indreaptă spre noi sau alte persoane.
 
+<Video src="https://www.youtube.com/embed/kqz3cPJgETs" />
+
+
+#### •	Pentru realizarea circuitelor electrice, elevii vor folosi baterii electrice. Nu au voie sa foloseasca prizele.
+
+#### •	După terminarea experimentelor se lasă ordine și se spală pe mâini.
+
+#### •	Este total interzisă joaca în laborator sau ridicarea din bancă.
+
+#### •	În timpul orelor experimentale este interzisă consumarea de băuturi sau alimente.
+
+#### •	Reactivii corosivi (hidroxizi alcalini, acizii concentraţi, sol. conc. de amoniac, perhidrol 30%, bromul etc.) se vor transvaza în eprubetă cu ajutorul pipetei.
+
+#### •	Se va lucra cu deosebită grijă cu substanţele toxice.
+
+#### •	Rămăşiţele de substanţe periculoase (metale alcaline, fosfor, acizi şi baze concentrate, lichidele inflamabile) nu se vor arunca la canal, deoarece pot provoca explozii şi coroziuni şi se vor neutraliza.
+
+#### •	Manipularea substanţelor explozive (nitroderivaţi, cloraţi, percloraţi, peroxizi, acidul percloric etc.) trebuie făcută cu multă grijă, fără lovire şi fără a se încălzi până la descompunere.
+
+
+
+### I.3.4. Simboluri internaționale de avertizare. 
+
+#### I.3.4.1. SUBSTANȚĂ INFLAMABILĂ
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_1_SubstantaInflamabila.png" />
+
+#### •	Se produce foarte uşor aprinderea în contact cu o sursă de energie (flacără, scânteie).
+#### •	Se va păstra departe de flăcări, scântei sau de orice sursă de căldură.  
+
+****
+
+#### I.3.4.2. SUBSTANȚĂ EXPLOZIVĂ
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_2_SubstantaExploziva.png" />
+
+#### •	Prezintă un pericol de explozie (gaz butan, propan, materiale explozive, artificii etc.).
+#### •	Se vor evita căldura, şocurile, frecarea şi scânteile.  
+
+****
+
+#### I.3.4.3. SUBSTANȚĂ OTRĂVITOARE
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_3_SubstantaOtravitoare.png" />
+
+#### •	Poate provoca leziuni grave sau chiar moartea prin inhalare, ingestie sau penetrare cutanată (insecticide, îngrăşaminte, ierbicide etc.).
+#### •	Se va evita orice contact cu corpul.  
+
+
+****
+
+#### I.3.4.4. SUBSTANȚĂ GRAV IRITANTĂ 
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_4_SubstantaIritanta.png" />
+
+
+#### •	Poate fi mortal în caz de înghiţire sau de pătrundere in căile respiratorii. Poate provoca leziuni ale organelor (terbentină, benzină, petrol lampant etc.). În caz de inhalare: dacă respiraţia este dificilă, transportaţi victima la aer liber şi menţineţi-o în stare de repaus, într-o poziţie confortabilă pentru respiraţie.
+#### •	Se va evita orice contact cu pielea, ochii şi inhalarea de vapori.   
+
+****
+
+#### I.3.4.5. SUBSTANȚĂ UŞOR IRITANTĂ 
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_5_SubstantaUsorIritanta.png" />
+
+
+#### •	Poate provoca iritarea pielii, a ochilor sau a căilor respiratorii. Absorbţia lor poate duce la leziuni uşoare (praf de curăţat vesela, clor etc.).
+#### •	Se va evita orice contact cu pielea, ochii şi inhalarea de vapori.  
+
+
+****
+
+#### I.3.4.6. SUBSTANȚĂ COROZIVĂ 
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_6_SubstantaCoroziva.png" />
+
+
+#### •	Produs care prin simplul contact sau prin ingurgitare poate arde sau distruge ţesuturile (pielea sau mucoasa) - clor concentrat, sodă caustică, acizi etc.
+#### •	Se va evita inhalarea de vapori sau contactul cu pielea, ochii şi hainele.  
+
+
+****
+
+#### I.3.4.7. SUBSTANȚĂ OXIDANTĂ 
+
+#### Simbol: 
+
+<Img src="chimie/clasa7/capitolul1/1_34_7_SubstantaOxidanta.png" />
+
+
+#### •	Produs care favorizează aprinderea materiilor combustibile, întreţinerea combustiei  (pastile de clor efervescente, O2).
+#### •	Se va evita orice contact cu substanţele inflamabile.  
 
 
 
 
-## Video tutorial
+### I.3.5. Aplică ce ai învăţat în legătură cu normele de protecția muncii în laborator.
 
-<Video src="https://www.youtube.com/embed/od8vK-hJ-f8" />
+:::caution Temă
+
+**1.** Caută simbolurile de avertizare pe etichetele diferitelor produse pe care le ai în casă (Spray-uri, Produse de curăţat, Produse de desfundat ţevi şi grupează-le după aceste simboluri).
+
+:::
 
 
+:::caution Temă
+
+**2.** Urmărește imaginile următoare și găsește ce reguli au fost încălcate și care ne-ar pune  în pericol viața:
+
+:::
+
+#### I.3.5.1. .............................................................................................................. 
+
+<Img src="chimie/clasa7/capitolul1/1_35_1_Incalzirea-corecta-a-eprubetei.jpg" />
+
+****
+
+#### I.3.5.2. ..............................................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_35_2_Dezordine-masa.jpg" />
+
+
+****
+
+#### I.3.5.3. ..............................................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_35_3_Aprinderea-incorecta-a-spirtierei.jpg" />
+
+
+****
+
+#### I.3.5.4. ..............................................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_35_4_Maneci-largi-2.jpg" />
+
+
+****
+
+#### I.3.5.5. ..............................................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_35_5_Mirosirea-incorecta.jpg" />
+
+
+****
+
+#### I.3.5.6. ..............................................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_35_6_Par-desfacut.jpg" />
+
+
+****
+
+#### I.3.5.7. ..............................................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_35_7_Incalzirea-incorecta-a-paharului.jpg" />
+
+
+
+
+
+
+
+
+
+
+
+
+## I.4. Materie. Corp. Substanță.
+
+### I.4.1. Materie.
+
+:::important Definiţie
+
+**Materia** reprezintă tot ceea ce ne înconjoară.
+
+:::
+
+#### Ea are două  forme de existență:
+
+#### •	Substanță sau material.
+
+#### •	Câmp: 
+- **gravitațional** (în jurul unei particule care are masă sau în jurul Pământului);
+- **electostatic** (în jurul unui corp electrizat);
+- **electric** (în jurul unui circuit electric );
+- **magnetic** (în jurul unui magnet sau unui circuit electric);
+- **electromagnetic** (generării reciproce a câmpului electric și al celui magnetic).
+
+
+### I.4.2. Corp.
+
+:::important Definiţie
+
+**Corpul** reprezintă porțiunea de materie cu formă proprie și volum propriu (bine determinat).
+
+:::
+
+
+
+ 
+Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
+
+#### Corpurile sunt alcătuite din materie cu:
+
+- Compoziție (alcătuire) omogenă în toată masa sa numite **substanțe** (ex.metale, apa, oxigenul, dioxidul de carbon, diamant, sare de bucătarie,piatra vânătă, azotul, etc).
+- Compoziție  eterogenă (care nu este la fel) numite **materiale**. De exemplu: lemn (conține celuloză, lignină, apă), hârtie(celuloză), ciment, beton, porțelan, granit, materiale plastice, sticlă, etc.).
+
+### I.4.3. Substanță.
+
+:::important Definiţie
+
+**Substanța** reprezintă acea formă de existenţă a materiei ce are o compoziţie omogenă în toată masa sa.
+
+:::
+
+ 
+#### După proveniență , substanțele pot fi :
+
+- **Naturale**: aur, diamant, cauciuc natural, sare, gaz metan, oxigen.
+
+- **Artificiale (sintetice)**: cauciuc sintetic, mase plastice, medicamente, fire sintetice, detergenți, insecticide, îngrășăminte artificiale, sticlă, porțelan.
+
+### I.4.4. Aplică ce ai învăţat în legătură cu Materie-Corp-Substanţă.
+
+
+
+:::caution Temă
+
+**3.** Alege din următoarele enunțuri ce reprezintă fiecare: corp / substanță / material, după următorul model:
+
+:::
+
+
+#### I.4.4.1. Cuiul : cuiul este un corp fiindcă are formă proprie și volum propriu.
+
+<Img src="chimie/clasa7/capitolul1/1_44_1_Cuiul.png" />
+
+****
+
+#### I.4.4.2. Fierul: fierul este o substanță fiindcă nu are formă proprie și poate lua mai multe forme: de cui, clanță, masă, scaun, dulap, etc.
+
+<Img src="chimie/clasa7/capitolul1/1_44_2_Fierul.png" />
+
+
+****
+
+#### I.4.4.3. Apa dintr-un pahar: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_3_ApaDinPahar.jpg" />
+
+
+****
+
+#### I.4.4.4. Aerul dintr-un balon: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_4_AerulDinBalon.jpg" />
+
+
+****
+
+#### I.4.4.5. Apa râului: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_5_ApaUnuiRau.jpg" />
+
+
+****
+
+#### I.4.4.6. Lemnul: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_6_Lemn.jpg" />
+
+
+****
+
+#### I.4.4.7. Ochelari: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_7_Ochelari.jpg" />
+
+
+****
+
+#### I.4.4.8. Cuburi de gheaţă: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_8_CuburiDeGheata.jpg" />
+
+
+****
+
+#### I.4.4.9. Sarea de bucătărie: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_9_SareaDeBucatarie.jpg" />
+
+
+****
+
+#### I.4.4.10. Sarea din solniţă: ....................................................................................
+
+<Img src="chimie/clasa7/capitolul1/1_44_10_SolnitaSare.jpg" />
+
+
+
+
+## I.5. Fenomene fizice și chimice.
+
+### I.5.1. Fenomene fizice.
+
+:::important Definiţie
+
+**Fenomenele fizice** sunt transformările unui corp în urma cărora compoziția substanței din care este alcătuit corpul rămâne neschimbată.
+
+:::
+
+
+#### Exemple de fenomene fizice:
+
+#### •	Toate fenomenele care au loc cu schimbarea stării de agregare:
+
+- **Topirea** (trecerea substanței din stare solidă în stare lichidă, prin încălzire);
+- **Solidificarea** (trecerea substanței din stare lichidă în stare solidă, prin răcire);
+- **Vaporizarea** (trecerea substanței din stare lichidă în stare gazoasă, prin încălzire);
+- **Condensarea** (trecerea substanței din stare gazoasă în stare lichidă, prin răcire);
+- **Sublimarea** (trecerea substanței din stare solidă în stare gazoasă, prin încălzire);
+- **Desublimarea** (trecerea substanței din stare gazoasă în stare solidă, prin răcire).
+
+#### •	Deformarea (schimbarea formei);
+#### •	Mișcarea (schimbarea poziției față de reper);
+#### •	Încălzirea / Răcirea (schimbarea temperaturii);
+#### •  Dilatarea / Contractarea (schimbarea temperaturii și volumului);
+#### •	Colorarea (schimbarea culorii); 
+#### •	Sfărâmițarea (schimbarea dimensiunii cristalelor);
+#### •	Trecerea curentului electric printr-un circuit; 
+#### •	Interacțiune magneților sau a corpurilor electrizate (atracția sau respingerea); 
+#### •	Reflexia și Refracția luminii (întoarcerea luminii în primul mediu, respectiv trecerea luminii în al doilea mediu, cu schimbarea direcției de propagare), 
+#### •	Formarea curcubeului(descompunerea luminii albe în culorile curcubeului) etc.
+
+
+
+
+### I.5.2. Fenomene chimice.
+
+:::important Definiţie
+
+**Fenomenele chimice** sunt transformările care schimbă compoziția substanțelor, în urma lor rezultând alte substanțe.
+
+:::
+
+
+#### Exemple de fenomene chimice:
+
+#### •	Arderea combustibililor(transformarea substanței în prezența oxigenului în dioxid de carbon și apă);
+#### •	Ruginirea fierului (fierul se transformă în rugină, roșiatică);
+#### •	Coclirea cuprului (cupru se transformă în cocleală, verzulie, toxică);
+#### •	Fermentarea mustului (se obține vin);
+#### •	Acrirea vinului (se obține oțet);
+#### •	Fermentarea laptelui(se obține lapte bătut);
+#### •	Putrezirea plantelor (este cauzată de o ciupercă care distruge planta); 
+#### •	Fotosinteza( plantele în prezența luminii transformă dioxidul de carbon în oxigen);
+#### •	Carbonizarea zahărului;
+#### •	Oxidările lente din organism (respirația ființelor,  oxidarea grăsimilor, proteinelor şi a hidraţilor de carbon proveniţi din alimente).
+
+
+
+
+### I.5.3. Aplică ce ai învăţat în legătură cu Fenomene fizice şi chimice.
+
+
+
+:::caution Temă
+
+**4.** Privește cu atenție cele 12 imagini următoare  și scrie ce fenomen ilustrează și ce fel de fenomen este (fizic / chimic):
+
+:::
+
+
+#### I.5.3.1. 
