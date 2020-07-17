@@ -1,8 +1,8 @@
 ---
-id: chimie-clasa7-capitolul1-teorie
-title: I. CHIMIA, ȘTIINȚĂ A NATURII - Teorie.
-sidebar_label: Teorie
-tags: chimie clasa7 invatare usoara capitolul1 teorie chimia știință a naturii
+id: chimie-clasa7-capitolul1
+title: I. CHIMIA, ȘTIINȚĂ A NATURII.
+sidebar_label: I.Chimia, știință a naturii
+tags: chimie clasa7 invatare usoara capitolul1 chimia știință a naturii
 ---
 
 
@@ -720,14 +720,14 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 #### Exemple de fenomene chimice:
 
-#### •	Arderea combustibililor(transformarea substanței în prezența oxigenului în dioxid de carbon și apă);
+#### •	Arderea combustibililor (transformarea substanței în prezența oxigenului în dioxid de carbon și apă);
 #### •	Ruginirea fierului (fierul se transformă în rugină, roșiatică);
 #### •	Coclirea cuprului (cupru se transformă în cocleală, verzulie, toxică);
 #### •	Fermentarea mustului (se obține vin);
 #### •	Acrirea vinului (se obține oțet);
-#### •	Fermentarea laptelui(se obține lapte bătut);
+#### •	Fermentarea laptelui (se obține lapte bătut);
 #### •	Putrezirea plantelor (este cauzată de o ciupercă care distruge planta); 
-#### •	Fotosinteza( plantele în prezența luminii transformă dioxidul de carbon în oxigen);
+#### •	Fotosinteza (plantele în prezența luminii transformă dioxidul de carbon în oxigen);
 #### •	Carbonizarea zahărului;
 #### •	Oxidările lente din organism (respirația ființelor,  oxidarea grăsimilor, proteinelor şi a hidraţilor de carbon proveniţi din alimente).
 
@@ -745,4 +745,35 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 :::
 
 
-#### I.5.3.1. 
+#### I.5.3.1. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_1_PaharApaCuGheata_vers2.jpg" />
+
+
+****
+
+#### I.5.3.2. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_2_Curcubeu.jpg" />
+
+
+****
+
+#### I.5.3.3. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_3_Pahar-berzelius-pe-o-spirtiera.jpg" />
+
+
+****
+
+
+#### I.5.3.4. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_4_Rugina.jpg" />
+
+
+****
