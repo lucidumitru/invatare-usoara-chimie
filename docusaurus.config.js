@@ -14,7 +14,7 @@ module.exports = {
                 src: 'img/logo.svg',
             },
             links: [{
-                    to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1-teorie',
+                    to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
                     position: 'left',
