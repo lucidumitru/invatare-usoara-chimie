@@ -28,7 +28,7 @@ module.exports = {
                     title: 'Documentaţii',
                     items: [{
                             label: 'Invăţarea uşoară a chimiei',
-                            to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1-teorie',
+                            to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1',
                         },
                         {
                             label: 'Ghidul de chimie versus accidentele',
