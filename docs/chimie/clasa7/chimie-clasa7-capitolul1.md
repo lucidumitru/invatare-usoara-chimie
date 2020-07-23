@@ -777,3 +777,244 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 
 ****
+
+
+#### I.5.3.5. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_5_PutrezireaLemnului_vers2.jpg" />
+
+
+****
+
+
+#### I.5.3.6. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_6_FierbereaApei.jpg" />
+
+
+****
+
+
+#### I.5.3.7. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_7_ArdereaLemnului.jpg" />
+
+
+****
+
+#### I.5.3.8. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_8_Capilaritatea-si-difuzia-la-lichide-Partea2.jpg" />
+
+
+****
+
+
+#### I.5.3.9. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_9_ResortIntins.jpg" />
+
+
+****
+
+
+#### I.5.3.10. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_10_Coclirea-cuprului.jpg" />
+
+
+****
+
+#### I.5.3.11. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_11_OameniInMiscare.jpg" />
+
+
+****
+
+#### I.5.3.12. ........................................................................................................ 
+
+
+<Img src="chimie/clasa7/capitolul1/1_53_12_EliberareOxigenDeCatrePlante_Fotosinteza.jpg" />
+
+
+****
+
+
+## I.6. Proprietăți fizice și chimice.
+
+:::important Definiţie
+Însușirile caracteristice, cu ajutorul cărora se recunoaște o substanță se numesc **proprietăți**.
+:::
+
+
+**Proprietăţile** pot fi fizice și chimice.
+
+### I.6.1. Proprietăţi fizice.
+
+:::important Definiţie
+
+**Proprietăţile fizice** sunt acele însușiri care se referă la aspectul sau la transformări care nu schimbă  compoziția substanței.
+
+:::
+
+
+**Proprietăţile fizice** se pot clasifica în:
+
+
+#### I.6.1.1. **Observabile** cu ajutorul organelor de simț: 
+
+
+- **Prin văz**: 
+  - starea de agregare (solidă, lichidă,gazoasă);
+   - culoarea (incolor-fără culoare sau colorat);
+   - luciu (strălucirea).
+- **Prin miros**: 
+  - inodor(nu are miros);
+   - plăcut;
+   - iritant;
+   - miros specific (laptele, clorul, oțetul - spunem că au miros specific).
+- **Prin pipăit**: 
+  - plasticitate; 
+  - elasticitate;
+  - moale (duritate);
+  - tare (duritate).
+
+#### I.6.1.2. **Măsurabile** cu ajutorul unor aparate: 
+
+- **Constante fizice**: 
+  - **Temperatura de topire** (temperatura la care începe să se topească o substanță solidă=Tt);
+  - **Temperatura de fierbere** (temperatura la care începe să fiarbă un lichid = Tv);
+  - **Densitatea**           <Img src="chimie/clasa7/capitolul1/1_61_2_Densitatea_equation_vme_23072020_131833.svg" />
+  - **Indicele de refracție**    <Img src="chimie/clasa7/capitolul1/1_61_2_IndiceRefractie_equation_vme_23072020_182920.svg" />
+  - **Solubilitatea**;
+  - **Duritatea** (se măsoară după o scară de duritate de la 1 la 10, numită „Scala lui Mohs”, în care talcul are 1 și diamantul cea mai mare duritate 10);
+  - **Conductibilitatea electrică și termică** (trecerea curentului electric, respectiv a căldurii, fără deplasare de substanță).
+
+
+
+### I.6.2. Proprietăţi chimice.
+
+:::important Definiţie
+
+**Proprietăţile chimice** sunt acele însușiri care se referă la transformări care schimbă compoziția substanței.
+
+:::
+
+#### Exemple de proprietăţi chimice:
+
+
+#### •	Proprietatea de a arde (după arderea hârtiei, nu mai avem hârtie, avem cenușă);
+#### •	Proprietatea de grăsimilor de a râncezi (râncezeala este o altă substanță decât uleiul nerâncezit);
+#### •	Proprietatea vinului de a se oțeti (oțetul este altă substanță decât vinul);
+#### •	Proprietatea  laptelui de a se acri (laptele acru are altă compoziție și alte proprietăți decât laptele dulce);
+#### •	Proprietatea fierului de a rugini (rugina este altă substanță decât fierul);
+#### •	Proprietatea cuprului de cocli (cocleala este o substanță diferită de cupru ;
+#### •	Proprietatea lemnului de a putrezi (putregaiul are altă compoziție decât lemnul).
+
+
+### I.6.3. Observarea proprietăților fizice și chimice ale unor substanțe.
+
+:::tip Experiment
+
+**1.** Proprietatea fierului de a rugini.
+
+:::
+
+**Materiale necesare:** eprubetă, pilitură de fier, vas cu apă.
+
+**Descrierea experimentului:** Umezește o eprubetă și pune pe fundul ei pilitură de fier și răstoarn-o cu gura în jos într-un vas cu apă. Așteaptă o zi și vezi ce se întâmplă.
+
+<Video src="https://www.youtube.com/embed/SKqwwUQPAGI" />
+
+<br></br>
+
+**Concluzia experimentului:** Fierul are proprietatea de a rugini - proprietate chimică, fiindcă fierul își schimbă compoziția și se transformă în rugină.
+
+
+<br></br>
+<br></br>
+
+:::tip Experiment
+
+**2.** Proprietatea unor substanțe de a arde.
+
+:::
+
+**Materiale necesare:** magneziu, spirtieră, clește metalic, chibrit.
+
+**Descrierea experimentului:** 
+
+•	Se ține cu cleștele o panglică de magneziu în vârful flăcării une spirtiere și se observă că după un timp, magneziu se aprinde și arde cu o flacără orbitoare și se transformă într-un praf alb.
+
+
+<Video src="https://www.youtube.com/embed/01ATTRJp7Bo" />
+
+<br></br>
+
+:::warning Atenţie
+
+A nu se privi flacăra orbitoare de la arderea magneziului întrucât aceasta produce leziuni ale ochilor!
+
+:::
+
+
+**Concluzia experimentului:** Unele substanțe au proprietatea de a arde - proprietate chimică, întrucât substanța și-a schimbat compoziția (magneziul s-a transformat în oxid de magneziu).
+
+
+<br></br>
+<br></br>
+
+:::tip Experiment
+
+**3.** Proprietatea fierului de a se transforma în cupru atunci când este pus într-o soluție de piatră vânătă.
+
+:::
+
+**Materiale necesare:**: un cui de fier, un pahar Berzelius, soluție de piatră vânătă.
+
+**Descrierea experimentului:** Se introduce cuiul în paharul cu soluție de piatră vânătă,  asfel încât o parte a sa să rămână în aer. După puțin timp se observă că partea cuiului din soluție s-a acoperit cu o substanță arămie(cupru).
+
+
+<Video src="https://www.youtube.com/embed/8E7UoWwzo7Q" />
+
+<br></br>
+
+**Concluzia experimentului:** Fierul are proprietatea de a se transforma în cupru când este  pus într-o soluţie de piatră vânătă - proprietate chimică întrucât fierul și-a schimbat compoziția.
+
+
+
+<br></br>
+<br></br>
+
+:::tip Experiment
+
+**4.** Conductibilitatea electrică a unor substanțe.
+
+:::
+
+**Materiale necesare:**: circuit format dintr-o baterie, fire de legătură, bec, sârme metalice, mină de grafit, lemn, sticlă, gumă de cauciuc.
+
+**Descrierea experimentului:** Leagă becul la baterie și la capetele două capete libere ale circuitului se intercalează diferite substanțe (fier, cupru, aur, argint, zinc, plumb, aluminiu, grafit, sticlă, lemn, cauciuc) și observă la care substanțe becul se aprinde.
+
+
+<Img src="chimie/clasa7/capitolul1/1_63_4_Exp-4.1.jpg" />
+
+
+<br></br>
+
+**Concluzia experimentului:** Unele substanțe au proprietatea de a fi conductoare electrice, numită conductibilitate electrică și lasă să treacă curentul prin ele (toate metalele, grafitul) – proprietate fizică fiincă nu schimbă compoziția substanței. Alte substanțe sunt izolatoare electrice-nu lasă să treacă curentul prin ele.
+
+
+
+
+<br></br>
+<br></br>
+
