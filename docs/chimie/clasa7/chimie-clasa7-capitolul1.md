@@ -10,7 +10,6 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
-
 ## I.1. Ce este chimia ?
 
 Chimia este știința naturii care studiază alcătuirea, proprietățiile și transformările substanțelor din natură. Chimia 
@@ -482,48 +481,48 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 :::
 
-#### I.3.5.1. .............................................................................................................. 
+#### I.3.5.1. ..................................................... 
 
 <Img src="chimie/clasa7/capitolul1/1_35_1_Incalzirea-corecta-a-eprubetei.jpg" />
 
 ****
 
-#### I.3.5.2. ..............................................................................................................
+#### I.3.5.2. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_2_Dezordine-masa.jpg" />
 
 
 ****
 
-#### I.3.5.3. ..............................................................................................................
+#### I.3.5.3. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_3_Aprinderea-incorecta-a-spirtierei.jpg" />
 
 
 ****
 
-#### I.3.5.4. ..............................................................................................................
+#### I.3.5.4. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_4_Maneci-largi-2.jpg" />
 
 
 ****
 
-#### I.3.5.5. ..............................................................................................................
+#### I.3.5.5. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_5_Mirosirea-incorecta.jpg" />
 
 
 ****
 
-#### I.3.5.6. ..............................................................................................................
+#### I.3.5.6. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_6_Par-desfacut.jpg" />
 
 
 ****
 
-#### I.3.5.7. ..............................................................................................................
+#### I.3.5.7. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_7_Incalzirea-incorecta-a-paharului.jpg" />
 
@@ -617,56 +616,56 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.4.4.3. Apa dintr-un pahar: ....................................................................................
+#### I.4.4.3. Apa dintr-un pahar: .......................
 
 <Img src="chimie/clasa7/capitolul1/1_44_3_ApaDinPahar.jpg" />
 
 
 ****
 
-#### I.4.4.4. Aerul dintr-un balon: ....................................................................................
+#### I.4.4.4. Aerul dintr-un balon: .....................
 
 <Img src="chimie/clasa7/capitolul1/1_44_4_AerulDinBalon.jpg" />
 
 
 ****
 
-#### I.4.4.5. Apa râului: ....................................................................................
+#### I.4.4.5. Apa râului: ................................
 
 <Img src="chimie/clasa7/capitolul1/1_44_5_ApaUnuiRau.jpg" />
 
 
 ****
 
-#### I.4.4.6. Lemnul: ....................................................................................
+#### I.4.4.6. Lemnul: ....................................
 
 <Img src="chimie/clasa7/capitolul1/1_44_6_Lemn.jpg" />
 
 
 ****
 
-#### I.4.4.7. Ochelari: ....................................................................................
+#### I.4.4.7. Ochelari: ...................................
 
 <Img src="chimie/clasa7/capitolul1/1_44_7_Ochelari.jpg" />
 
 
 ****
 
-#### I.4.4.8. Cuburi de gheaţă: ....................................................................................
+#### I.4.4.8. Cuburi de gheaţă: ............................
 
 <Img src="chimie/clasa7/capitolul1/1_44_8_CuburiDeGheata.jpg" />
 
 
 ****
 
-#### I.4.4.9. Sarea de bucătărie: ....................................................................................
+#### I.4.4.9. Sarea de bucătărie: ..........................
 
 <Img src="chimie/clasa7/capitolul1/1_44_9_SareaDeBucatarie.jpg" />
 
 
 ****
 
-#### I.4.4.10. Sarea din solniţă: ....................................................................................
+#### I.4.4.10. Sarea din solniţă: ...........................
 
 <Img src="chimie/clasa7/capitolul1/1_44_10_SolnitaSare.jpg" />
 
@@ -745,7 +744,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 :::
 
 
-#### I.5.3.1. ........................................................................................................ 
+#### I.5.3.1. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_1_PaharApaCuGheata_vers2.jpg" />
@@ -753,7 +752,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.2. ........................................................................................................ 
+#### I.5.3.2. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_2_Curcubeu.jpg" />
@@ -761,7 +760,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.3. ........................................................................................................ 
+#### I.5.3.3. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_3_Pahar-berzelius-pe-o-spirtiera.jpg" />
@@ -770,7 +769,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.4. ........................................................................................................ 
+#### I.5.3.4. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_4_Rugina.jpg" />
@@ -779,7 +778,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.5. ........................................................................................................ 
+#### I.5.3.5. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_5_PutrezireaLemnului_vers2.jpg" />
@@ -788,7 +787,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.6. ........................................................................................................ 
+#### I.5.3.6. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_6_FierbereaApei.jpg" />
@@ -797,7 +796,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.7. ........................................................................................................ 
+#### I.5.3.7. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_7_ArdereaLemnului.jpg" />
@@ -805,7 +804,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.8. ........................................................................................................ 
+#### I.5.3.8. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_8_Capilaritatea-si-difuzia-la-lichide-Partea2.jpg" />
@@ -814,7 +813,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.9. ........................................................................................................ 
+#### I.5.3.9. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_9_ResortIntins.jpg" />
@@ -823,7 +822,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.10. ........................................................................................................ 
+#### I.5.3.10. .............................................. 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_10_Coclirea-cuprului.jpg" />
@@ -831,7 +830,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.11. ........................................................................................................ 
+#### I.5.3.11. .............................................. 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_11_OameniInMiscare.jpg" />
@@ -839,7 +838,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.12. ........................................................................................................ 
+#### I.5.3.12. .............................................. 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_12_EliberareOxigenDeCatrePlante_Fotosinteza.jpg" />
@@ -1005,16 +1004,155 @@ A nu se privi flacăra orbitoare de la arderea magneziului întrucât aceasta pr
 **Descrierea experimentului:** Leagă becul la baterie și la capetele două capete libere ale circuitului se intercalează diferite substanțe (fier, cupru, aur, argint, zinc, plumb, aluminiu, grafit, sticlă, lemn, cauciuc) și observă la care substanțe becul se aprinde.
 
 
-<Img src="chimie/clasa7/capitolul1/1_63_4_Exp-4.1.jpg" />
-
+<Video src="https://www.youtube.com/embed/D6DwEd43Fhk" />
 
 <br></br>
 
 **Concluzia experimentului:** Unele substanțe au proprietatea de a fi conductoare electrice, numită conductibilitate electrică și lasă să treacă curentul prin ele (toate metalele, grafitul) – proprietate fizică fiincă nu schimbă compoziția substanței. Alte substanțe sunt izolatoare electrice-nu lasă să treacă curentul prin ele.
 
+<br></br>
+<br></br>
 
+
+:::tip Experiment
+
+**5.** Conductibilitatea termică a unor metale.
+
+:::
+
+**Materiale necesare:**: lumânare, spirtieră, clește metalic, eprubetă, apă, sârmă de cupru, chibrit.
+
+
+**Descrierea experimentului:** 
+- Aprinde o lumânare și prelinge ceara topită de-a lungul sârmei, lasă să se întărească bobițele de ceară.
+- Ține cu cleștele sârma ceruită în flacăra spirtierei și observă cum se topesc bobițele de ceară. 
+
+<Video src="https://www.youtube.com/embed/uEb7YnWsEXw" />
+
+<br></br>
+
+:::warning Atenţie
+
+Atenţie să nu te arzi!  Nu uita să ai părul strâns la spate și fără mâneci largi!
+
+:::
+
+<br></br>
+
+**Concluzia experimentului:** Metalele au proprietatea de a conduce căldura prin ele de la capătul încălzit spre cel neîncălzit, numită conductibilitate termică, adică sunt conductoare termice – proprietate fizică fiincă nu schimbă compoziția substanței.
+
+<br></br>
+<br></br>
+
+:::tip Experiment
+
+**6.** Conductibilitatea  termică a lichidelor.
+
+:::
+
+**Materiale necesare:**: lumânare, spirtieră, clește metalic, eprubetă, apă, chibrit.
+
+
+**Descrierea experimentului:** 
+- Umple o eprubetă cu apă (cam jumătate);
+- La flacăra unei spirtiere, încălzeşte apa din eprubeta la partea superioară, ţinând eprubeta cu mâna de partea de jos şi  îndreptată cu gura în partea  opusă a ta. 
+ 
+
+<Video src="https://www.youtube.com/embed/lJXKmFISUpY" />
+
+<br></br>
+
+:::warning Atenţie
+
+Atenţie să nu te arzi!  
+
+:::
+
+<br></br>
+
+**Concluzia experimentului:** 
+- După puţin timp, apa de la suprafaţă începe să fiarbă, în timp ce în partea de jos  nu se simte deloc căldura.
+- Apa este rău conductoare de căldură. Toate lichidele (cu excepţia mercurului, care este metal) sunt izolatoare termice. Încălzirea uniformă a lichidelor şi gazelor are loc prin convecţie, cu ajutorul curenţilor (deplasare de substanţă).
+ 
 
 
 <br></br>
 <br></br>
+
+
+:::tip Experiment
+
+**7.** Conductibilitatea  termică a gazelor.
+
+:::
+
+**Materiale necesare:**: lumânare, spirtieră, clește metalic, eprubetă, chibrit.
+
+
+**Descrierea experimentului:** 
+- Ia eprubeta goală (adică, cu aer) şi introdu la capătul deschis al eprubetei un deget al mâinii;
+- Încălzeşte-o la fund (partea închisă) în flacăra spirtierei, agitând-o continuu pentru a nu se sparge. 
+
+<Video src="https://www.youtube.com/embed/YVmB-YIRIVo" />
+
+<br></br>
+
+:::warning Atenţie
+
+Atenţie să nu te arzi!
+
+:::
+
+<br></br>
+
+**Concluzia experimentului:** 
+- Degetul din eprubetă  nu simte deloc căldura. 
+- Aerul este rău conductor de căldură. În general, toate gazele sunt izolatoare  termice, dar mai ales gazele rarefiate. Fibrele hainelor de lână, blana  animalelor, penele păsărilor, zăpada sunt izolatoare termice, deoarece conţin aer.
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**8.** Apa are proprietatea de a fierbe la 100°C.
+
+:::
+
+**Materiale necesare:**: pahar Erlenmayer  cu apă distilată, dop de cauciuc prevăzut cu termometru, sită de azbest, spirtieră, chibrit, ceas sau cronometru.
+
+
+
+**Descrierea experimentului:** 
+- Închide apa din pahar cu ajutorul dopului prevăzut cu termometru asfel încât termometrul să nu intre în apă și încălzește apa prin intermediul sitei la flacăra spirtierei. 
+- Măsoară timpul de la începerea încălzirii și completează următorul tabel :
+
+
+| T(°C)      |   20   |   30  |   40   |   50  |   60   |   70  |   80   |   90  |   100  |   100  |   100  |
+| ---------- | :----: | ----: |  ----: | ----: | :----: | ----: |  ----: | ----: | ----: | ----: | ----: |
+| t (Min)    |        |       |        |       |        |       |        |       |       |       |       |
+
+
+
+<Video src="https://www.youtube.com/embed/cL01iloQrHQ" />
+
+<br></br>
+
+:::warning Atenţie
+
+Atenţie să nu te arzi! !  Nu uita să ai părul strâns la spate și fără mâneci largi!
+
+
+:::
+
+<br></br>
+
+**Concluzia experimentului:** 
+- Apa are proprietatea de a fierbe la 100°C – proprietate fizică, fiincă nu schimbă compoziția substanței (aburul este tot apă, dar în stare gazoasă) 
+- Fiecare lichid începe să fiarbă la o anumită temperatură, numită temperatură de fierbere, care este o constantă de material (vezi tabel cu constante de la sfârșitul manualului). Pe parcursul fierberii, temperatura de fierbere este constantă. 
+
+<br></br>
+<br></br>
+
 
