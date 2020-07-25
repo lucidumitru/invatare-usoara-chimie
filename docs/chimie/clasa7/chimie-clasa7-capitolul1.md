@@ -605,13 +605,13 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 #### I.4.4.1. Cuiul : cuiul este un corp fiindcă are formă proprie și volum propriu.
 
-<Img src="chimie/clasa7/capitolul1/1_44_1_Cuiul.png" />
+<Img src="chimie/clasa7/capitolul1/1_44_1_Cuiul.jpg" />
 
 ****
 
 #### I.4.4.2. Fierul: fierul este o substanță fiindcă nu are formă proprie și poate lua mai multe forme: de cui, clanță, masă, scaun, dulap, etc.
 
-<Img src="chimie/clasa7/capitolul1/1_44_2_Fierul.png" />
+<Img src="chimie/clasa7/capitolul1/1_44_2_Fierul.jpg" />
 
 
 ****
@@ -1155,4 +1155,30 @@ Atenţie să nu te arzi! !  Nu uita să ai părul strâns la spate și fără m�
 <br></br>
 <br></br>
 
+
+
+
+### I.6.3. Aplică ce ai învăţat în legătură cu Proprietăţi fizice şi chimice.
+
+
+
+:::caution Temă
+
+**5.** Precizează felul proprietății: fizică sau chimică. 
+
+:::
+
+
+
+
+#### I.6.3.1. Piatra vânătă este solubilă în apă.
+#### I.6.3.2. Lemnul are proprietatea de a putrezi.
+#### I.6.3.3. Hârtia are proprietatea de a arde.
+#### I.6.3.4. Fierul are proprietatea de a fi atras de magnet.
+#### I.6.3.5. Dioxidul de carbon este un gaz incolor.
+#### I.6.3.6. Cuprul are proprietatea de a cocli.
+#### I.6.3.7. Sulful este izolator termic și electric.
+#### I.6.3.8. Mercurul este lichid.
+#### I.6.3.9. Ceața se formează prin condensarea vaporilor de apă din aer la suprafața pământului.
+#### I.6.3.10. Gheața se topește în palmele copilului.
 
