@@ -12,10 +12,14 @@ import Video from '@site/src/components/Video'
 
 ## I.1. Ce este chimia ?
 
-Chimia este știința naturii care studiază alcătuirea, proprietățiile și transformările substanțelor din natură. Chimia 
-este o poveste despre atomi, molecule și intreacțiunea dintre ele.
+:::important Definiţie
 
-### Scurt istoric al chimiei :				
+**Chimia** este știința naturii care studiază alcătuirea, proprietățiile și transformările substanțelor din natură. Chimia 
+este o poveste despre atomi, molecule și interacțiunea dintre ele.
+
+:::
+
+### I.1.1. Scurt istoric al chimiei.				
 Încă din cele mai vechi timpuri, oamenii au început să studieze proprietățile fizice și chimice ale corpurilor din 
 natură. Utilizarea focului a stat la baza apariției primelor noțiuni ale practicii chimice. Pregătirea hranei, olăritul,
 prelucrarea minereurilor și a metalelor rezultate, toate acestea l-au făcut pe om să observe cum substanțele se 
@@ -1027,7 +1031,7 @@ A nu se privi flacăra orbitoare de la arderea magneziului întrucât aceasta pr
 - Aprinde o lumânare și prelinge ceara topită de-a lungul sârmei, lasă să se întărească bobițele de ceară.
 - Ține cu cleștele sârma ceruită în flacăra spirtierei și observă cum se topesc bobițele de ceară. 
 
-<Video src="https://www.youtube.com/embed/uEb7YnWsEXw" />
+<Video src="https://www.youtube.com/embed/fZ2WRoAQCow" />
 
 <br></br>
 

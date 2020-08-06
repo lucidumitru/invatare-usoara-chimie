@@ -28,7 +28,7 @@ module.exports = {
 
     'Ghidul de chimie': ['ghidul-de-chimie-versus-accidentari'],
     'Experimente distractive': ['experimente-distractive-chimie'],
-
+     'Blibliografie Chimie': ['bibliografie'],
 
 
 
