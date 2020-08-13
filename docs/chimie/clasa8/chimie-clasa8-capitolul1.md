@@ -807,7 +807,7 @@ Această lege este demonstrată experimental, în 1774 de chimistul francez, **L
 
 :::
 
-<Video src="https://www.youtube.com/embed/8oELZy2r_c8" />
+<Video src="https://www.youtube.com/embed/IGoq972QfBo" />
 
 
 **Materiale necesare:**: cântar sau balanță, sulfat de cupru, pilitură de fier, apă, spatulă, 2 pahare Berzelius, baghetă. 
@@ -876,7 +876,7 @@ Reacțiile chimice au următoarele caracteristici :
 
 Pentru a înțelege noțiunea de ecuație chimică, scriem reacția chimică de ardere a sulfului în oxigenul din aer:
 
-S + O2 	 =>     SO2, 
+S + O<sub>2</sub> 	 =>  SO<sub>2</sub>, 
 
 folosind simbolurile pentru substanțele simple și formulele chimice pentru substanțele compuse (compușii chimici).
 
@@ -890,7 +890,7 @@ Ca să ajungem de la o reacție chimică la o **ecuație (egalitate)** chimică,
 
 Deci, este realizat bilanțul atomilor și putem pune, în loc de săgeată, semnul egal și asfel am scris ecuația reacției chimice.
 
-S + O2  = SO2
+S + O<sub>2</sub>  = SO<sub>2</sub>
 
 
 
@@ -942,6 +942,600 @@ Când nu avem egalitate dintre numărul atomilor de același fel (care intră ș
 
 
 
+:::caution Problemă model
+
+2) Scrie ecuația reacției dintre aluminiu ( Al ) și oxigen ( O<sub>2</sub> ) :
+
+:::
+
+
+- Prima dată scriem reacția chimică, scriind în stânga reactanții și în dreapta produșii de reacție:
+
+  - Al + O<sub>2</sub>  =>  Al<sub>2</sub>O<sub>3</sub> (oxid de aluminiu)
+
+- Apoi facem bilanțul atomilor.
+
+- Intră 1 atom de Al și ies 2 atomi de Al. Punem coeficientul 2 în fața simbolului Al:
+  - 2Al + O<sub>2</sub>  =>  Al<sub>2</sub>O<sub>3</sub>
+  
+- Intră 2 atomi de O și ies 3 atomi de O. Pentru a realiza egalitatea atomilor de oxigen , punem coeficientul 2 în fața formulei oxidului  de  aluminiu și coeficientul 3 în fața oxigenului (Când avem într-o parte 2 atomi și în cealaltă parte 3 atomi, se face produsul lor) :
+  - 2Al + 3O<sub>2</sub>  => 2Al<sub>2</sub>O<sub>3</sub>
+- Dar, punând 2 în fața oxidului,  am stricat egalitatea atomilor de Al (Acum ies 4 atomi de Al). Prin urmare, ștergem coeficientul 2 și punem coeficientul 4 și în fața aluminului. Vă recomand să scrieți cu creionul sau cu pix pilot, pentru a putea șterge cu guma:
+
+  - 4Al + 3O<sub>2</sub> => 2Al<sub>2</sub>O<sub>3</sub>
+
+- Facem verificarea finală: intră 4 atomi de Al și ies tot 4 atomi de Al.
+
+- Intră 6 atomi de O (coeficientul 3 ori indicele 2)  și ies tot 6 atomi de O (coeficientul 2 ori indicele 3).
+
+- Odată terminat bilanțul atomilor, în loc de săgeată punem semnul egal, adică am scris ecuația chimică:
+ 
+  - **4Al + 3O<sub>2</sub>  =  2Al<sub>2</sub>O<sub>3</sub>**
 
 
 
+:::caution Problemă model
+
+3)	Scrie ecuația reacției dintre aluminiu ( Al ) și acid clorhidric ( HCl ):
+
+:::
+
+- Prima dată scriem reacția chimică, scriind în stânga reactanții și în dreapta produșii de reacție :
+
+  - Al + HCl  => AlCl<sub>3</sub> (clorură de aluminiu) + H<sub>2</sub> 
+                 	
+- Apoi facem bilanțul atomilor.
+
+- Intră 1 atom de Al și iese 1 atom de Al.
+ 
+- Intră 1 atom de H și ies 2 atomi de H. Pentru a realiza egalitatea atomilor de H, punem coeficientul 2 în fața formulei acidului clorhidric (HCl) :
+
+  - Al + 2HCl  => AlCl<sub>3</sub>  + H<sub>2</sub>
+  
+- Intră 2 atomi de Cl și ies 3 atomi de Cl. Punem coeficientul 6 în fața HCl și coeficienul 2 în fața  AlCl<sub>3</sub> :
+
+  - Al + 6HCl    =>        2AlCl<sub>3</sub>  + H<sub>2</sub>. Observăm că am stricat atît bilanțul atomilor de Al și punem în fața Al coeficientul 2, cât și bilanțul atomilor de H și punem coeficientul 3 în fața H<sub>2</sub> :
+  - 2Al + 6HCl   =>        2AlCl<sub>3</sub>  + 3H<sub>2</sub>
+
+- Facem verificarea finală: intră 2 atomi de Al și ies tot 2 atomi de Al.
+
+- Intră 6 atomi de H și ies tot 6 atomi de H (coeficientul 3 ori indicele 2).  
+
+- Intră 6 atomi de Cl și ies tot 6  atomi de Cl (coeficientul 2 ori indicele 3).
+
+- Odată terminat bilanțul atomilor, în loc de săgeată punem semnul egal, adică am scris ecuația chimică :
+ 
+  - 2Al + 6HCl  = 2AlCl<sub>3</sub>  + 3H<sub>2</sub>.
+
+
+
+:::caution Problemă model
+
+4)	Scrie ecuația reacției dintre acid fosforic - H<sub>3</sub>PO<sub>4</sub>  și hidroxid de magneziu - Mg(OH)<sub>2</sub> :
+
+:::
+
+
+- Prima dată scriem reacția chimică, scriind în stânga reactanții și în dreapta produșii de reacție:
+  - H<sub>3</sub>PO<sub>4</sub> + Mg(OH)<sub>2</sub>	 =>   Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> (Fosfat de magneziu) + H<sub>2</sub>O
+			                 	
+- Apoi facem bilanțul atomilor.
+
+- Când grupările radicalilor acizi se regăsesc și la produși, facem bilanțul grupărilor și nu al atomilor grupării (este mai simplu) și spunem intră 1 grupare fosfat (PO<sub>4</sub>) și ies 2 grupări fosfat (PO<sub>4</sub>)<sub>2</sub>. Punem coeficientul 2 în fața acidului fosforic:
+
+  - 2H<sub>3</sub>PO<sub>4</sub> + Mg(OH)<sub>2</sub>	=>    Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> + H<sub>2</sub>O
+
+- Intră 1 atom de Mg și ies 3 atomi de Mg. Pentru a realiza egalitatea atomilor de Mg , punem coeficientul 3 în fața formulei hidroxidului de magneziu :
+
+  - 2H<sub>3</sub>PO<sub>4</sub> + 3Mg(OH)<sub>2</sub>	=>    Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> + H<sub>2</sub>O
+  
+- Intră 12 atomi de H (2x3=6 de la acidul fosforic + 3x2=6 de la hidroxidul de magneziu) și ies 2 atomi de H. Punem coeficientul 6 în fața  apei:
+
+  - 2H<sub>3</sub>PO<sub>4</sub> + 3Mg(OH)<sub>2</sub>	=>    Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> + 6H<sub>2</sub>O
+
+- Mai avem bilanțul atomilor de oxigen: intră 6 atomi de O (luăm numai oxigenul de la hidroxidul de magneziu, fiindcă O din acidul fosforic l-am luat la grupări) și ies tot 6 atomi de oxigen.
+
+- Facem verificarea finală: intră 12 atomi de H și ies tot 12 atomi de H.
+
+- Intră 2 grupări PO<sub>4</sub> și ies tot 2 grupări fosfat.
+
+- Intră 3 atomi de Mg și ies tot 3 atomi de Mg.
+
+- Intră 6 atomi de O și ies tot 6 atomi de O.
+
+- Odată terminat bilanțul atomilor, în loc de săgeată punem semnul egal, adică am scris ecuația chimică: 
+
+  - 2H<sub>3</sub>PO<sub>4</sub> + 3Mg(OH)<sub>2</sub>  = Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> + 6H<sub>2</sub>O.
+
+
+
+
+
+
+:::tip Experiment
+
+**4.** Ce este un precipitat ?
+
+:::
+
+<Video src="https://www.youtube.com/embed/11wa49-wGlo" />
+
+
+**Materiale necesare:**: sulfat de cupru (CuSO<sub>4</sub>), hidroxid de sodiu (NaOH) , apă, spatulă, 1 pahare Berzelius, baghetă, creuzet, pipetă. 
+
+:::warning
+
+Atenție, hidroxidul de sodiu, denumit și sodă caustică, poate produce arsuri grave în contact cu pielea!
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Pune puțin sulfat de cupru cu spatula în paharul Berzelius, adaugă apă până se dizolvă toate cristalele. 
+- Toarnă acestă soluție într-un creuzet.
+- Cu ajutorul pipetei pune soluție de hidroxid de sodiu în soluția de sulfat de cupru.
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+În scurt timp se formează o substanță insolubilă în lichidul rezultat, gelatinoasă și albastră. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Ecuația reacției chimice este : CuSO<sub>4</sub>  + 2NaOH = Na<sub>2</sub>SO<sub>4</sub> + Cu(OH)<sub>2</sub>
+
+Precipitatul albastru este hidroxidul de cupru : Cu(OH)<sub>2</sub> .
+ 
+
+
+:::important
+
+După ce ai învățat să scrii o ecuație chimică, mai trebuie să ții cont de încă două aspecte pentru a scrie corect o ecuație chimică:
+
+**1)** Dacă un produs de reacție iese sub formă gazoasă (spunem că se degajă), după formula lui se pune o săgeată în sus:  ↑ . De exemplu , la experimentul nr.1, la arderea sulfului în oxigen, s-a degajat un gaz albicios, de dioxid de sulf.  Deci, vom scrie ecuația chimică completă, astfel:
+
+S + O<sub>2</sub>  = SO<sub>2</sub> ↑
+
+**2)** Dacă un produs de reacție iese sub formă de precipitat (substanță insolubilă), după formula lui se pune o săgeată în jos ( ↓). De exemplu, la experimentul nr. 4, vom scrie ecuația chimică completă, astfel: 
+
+CuSO<sub>4</sub>  + 2NaOH = Na<sub>2</sub>SO<sub>4</sub> + Cu(OH)<sub>2</sub> ↓
+
+#### Ecuația chimică are o dublă semnificație:
+
+- **Calitativă:** indică natura reactanților și a produșilor de reacție.
+
+  - **2Al + 6HCl  = 2 AlCl<sub>3</sub>  + 3 H<sub>2</sub>↑**
+
+  - **Aluminiu + Acid clordidric se transformă în clorură de aluminiu + hidrogen↑**
+
+- **Cantitativă:** indică raportul în care se combină reactanții pentru a forma produși de reacție.
+
+  - **2Al + 6HCl  = 2 AlCl<sub>3</sub>  + 3 H<sub>2</sub>↑**
+
+  - **2 moli de aluminiu + 6 moli de acid clordidric se transformă în 2 moli de clorură de aluminiu + 3 moli de hidrogen↑**
+  
+  - **2 atomi de aluminiu  + 6 molecule de acid clordidric se transformă în 2 molecule de clorură de aluminiu + 3 molecule  de hidrogen↑**
+ 
+
+:::
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+## I.2. Tipuri de reacții chimice.
+
+#### Reacțiile chimice sunt de patru tipuri: 
+- Reacții de combinare;
+- Reacții de descompunere;
+- Reacții de substituție;
+- Reacții de schimb.
+
+
+### I.2.1. Reacția de combinare
+
+Știind că următoarele două reacții sunt reacții de combinare, descoperă caracteristică comună  a celor două reacții.
+
+S + O<sub>2</sub>  = SO<sub>2</sub> ↑
+
+4Al + 3O<sub>2</sub>  =  2Al<sub>2</sub>O<sub>3</sub>
+
+**Observăm că avem doi reactanți și un singur produs de reacție.**
+
+:::important Definiţie
+
+**Reacția de combinare** este reacția în care se obține un singur produs de reacție prin unirea a mai multor reactanți (doi sau mai mulți).
+
+**Schema reacției de combinare : A + B = C**
+
+:::
+
+
+:::note Observaţie
+
+- Reactanții (A și B) pot fi atât substanțe simple (metale/ nemetale), cât și substanțe compuse.
+
+- Produșii reacției (C) de combinare sunt întotdeauna  substanțe compuse.
+ 
+
+:::
+
+
+
+:::note Observaţie
+
+- Reacția metalelor cu oxigenul (Reacție de ardere).
+- Reacția nemetalelor cu oxigenul (Reacție de ardere).
+- Reacția metalelor cu nemetalele.
+- Reacția dintre două substanțe compuse.
+
+:::
+
+
+:::caution Aplicaţii
+
+Reacția de combinare este importantă întrucât se obțin substanțe chimice cu multe utilizări: 
+
+- var stins – Ca(OH)<sub>2</sub>;
+- clorură de amoniu - NH<sub>4</sub>Cl;
+- amoniac - NH<sub>3</sub>;
+- acid clorhidric - HCl, etc.
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+:::tip Experiment
+
+**5.** Cum  arde cuprul ?
+
+:::
+
+<Video src="https://www.youtube.com/embed/dXYjuTGyfG8" />
+
+
+**Materiale necesare:**: spirtieră, sârmă de cupru, chibrit, clește metalic. 
+
+:::warning
+
+Atenție când lucrezi cu surse de încălzire !
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Încălzește sârma de cupru, cu ajutorul unui clește, în flacăra spirtierei.
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+Sârma de cupru se înnegrește și arde cu o flacără verde. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Cuprul se combină cu oxigenul din aer, la cald și formează oxid de cupru II (oxid cupric), de culoare neagră. Aceasta este o reacție de combinare, întrucât avem un singur produs de reacție. 
+
+2Cu + O<sub>2</sub> = 2CuO (Oxid cupric)
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**6.** O flacără orbitoare !
+
+:::
+
+<Video src="https://www.youtube.com/embed/Rp4hqbCM-rA" />
+
+
+**Materiale necesare:**: spirtieră, panglică (pilitură) de magneziu, chibrit, clește metalic 
+
+:::warning
+
+Atenție când lucrezi cu surse de încălzire ! Nu privi flacăra orbitoare decât câteva secunde ! Altfel, îți poate afecta vederea! Pilitura de magneziu este inflamabilă ! Ai grijă să nu te arzi de la așchiile incandescente !
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Încălzește panglica de magneziu, cu ajutorul unui clește, în flacăra spirtierei. Dacă ai pulbere de magneziu, presar-o direct în flacăra spirtierei.
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+Panglica de magneziu se aprinde și arde cu o flacără extrem de stălucitoare. În urma arderii se obține o pulbere albă. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Magneziul arde cu oxigenul din aer cu o flacără orbitoare, formând oxid de magneziu, de culoare albă. Aceasta este o reacție de combinare, întrucât avem un singur produs de reacție. 
+
+2Mg + O<sub>2</sub> = 2MgO (Oxid de magneziu)
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**7.** Cum arde fierul ?
+
+:::
+
+<Video src="https://www.youtube.com/embed/4_CRNTq3wks" />
+
+
+**Materiale necesare:**: spirtieră, pilitură de fier, chibrit, spatulă.  
+
+:::warning
+
+Atenție când lucrezi cu surse de încălzire ! Pilitura de fier este inflamabilă ! Ai grijă să nu te arzi de la așchiile incandescente !
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Presară pilitură de fier în flacăra spirtierei
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+Pilitura de fier se aprinde în oxigen și arde cu scântei strălucitoare. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Fierul se combină cu oxigenul din aer, la cald și formează magnetita (oxid feroferic = FeO ∙ Fe<sub>2</sub>O<sub>3</sub> ), de culoare neagră. Aceasta este o reacție de combinare, întrucât avem un singur produs de reacție. 
+3Fe + 2O<sub>2</sub> = Fe<sub>3</sub>O<sub>4</sub> (Magnetită)	
+
+
+<br></br>
+<br></br>
+
+
+
+
+:::tip Experiment
+
+**8.** Reacția de ardere a zincului 
+
+:::
+
+<Video src="https://www.youtube.com/embed/A3smmwoS5BE" />
+
+
+**Materiale necesare:**: spirtieră, pilitură de zinc, chibrit, spatulă  
+
+:::warning
+
+Atenție când lucrezi cu surse de încălzire ! Pilitura de zinc este inflamabilă ! Stai departe de scântei!
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Presară pilitură de zinc  în flacăra spirtierei.
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+Pilitura de zinc se aprinde în oxigen și arde cu scântei verzi-albăstrui. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Zincul se combină cu oxigenul din aer, la cald și formează oxid de zinc . Aceasta este o reacție de combinare, întrucât avem un singur produs de reacție. 
+
+2Zn + O<sub>2</sub> = 2ZnO (Oxid de zinc)
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**9.** Să facem un jar! 
+
+:::
+
+<Video src="https://www.youtube.com/embed/VgJ9nZJGeWo" />
+
+
+**Materiale necesare:**: spirtieră, cărbune pisat, chibrit, spatulă, lingură de ars.  
+
+:::warning
+
+Atenție când lucrezi cu surse de încălzire ! Nu inspira fumul! Experimentul se efectuează sub nișă !
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Pune într-o lingură de ars o cantitate mică de cărbune și încălzește-o în flacăra spirtierei (aragazului). 
+- După ce s-a aprins carbonul pune lingura de ars într-un pahar Berzelius și vino cu un chibrit deasupra sa.
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+Carbonul  se aprinde în oxigen și arde cu scântei. Dioxidul de carbon rezultat stinge flacăra chibritului. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Carbonulul arde în oxigenul din aer, la cald și formează dioxid de carbon, un gaz incolor, care nu întreține arderea.  Aceasta este o reacție de combinare, întrucât avem un singur produs de reacție.
+ 
+C + O2 = CO<sub>2</sub> (Dioxid de carbon) ↑ ( reacția de ardere completă a carbonului)
+	        	
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**10.** O reacție exotermă.
+
+:::
+
+<Video src="https://www.youtube.com/embed/b6ot03tA-3Q" />
+
+
+**Materiale necesare:**: epubetă, chibrit, spatulă, pilitură de fier, pulbere de sulf, spirtieră, cântar.  
+
+:::warning
+
+**Experiment demonstrativ efectuat numai de către profesor !**
+
+Atenție când lucrezi cu surse de încălzire ! Atenție, reacția fierului cu sulful este o reacție puternic exotermă ( degajare mare de căldură) ! Pentru a nu exploda amestecul, se încălzește până la apariția unor puncte incandescente, după care se oprește încălzirea !
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Pune în pilitura de fier și pulberea de sulf în proporție de 0,87g Fe : 0,5g S. 
+- Încălzește la flacăra spirtierei acest amestec până la apariția unor puncte incandescente (roșii). Stinge spirtiera. 
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+Fierul  se combină  la cald cu sulful. Se formează o substanță neagră. 
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Fierul reacționează cu sulful și formează sulfura de fier II, de culoare neagră.  Reacția fierului cu sulful  este o reacție de combinare, întrucât avem un singur produs de reacție. 
+
+Fe + S = FeS (Sulfură de fier II)
+
+
+<br></br>
+<br></br>
+
+
+
+:::tip Experiment
+
+**11.** Mercurul se combină cu sulful la temperatura camerei
+
+:::
+
+<Video src="https://www.youtube.com/embed/HD-Hgq-YkrY" />
+
+
+**Materiale necesare:**: mojar cu pistil, sulf,  o picătură de mercur.  
+
+:::warning
+
+**Experiment demonstrativ efectuat numai de către profesor !**
+
+Atenție! Mercurul este extrem de toxic ! Nu inhala vaporii săi! Nu îl atinge și nu il gusta!
+
+:::
+
+
+
+**Descrierea experimentului:** 
+
+- Pune într-un mojar pulbere de sulf și o picătură de mercur  și amestecă cu pistilul. 
+ 
+- Ce observi ?
+
+
+:::note Observaţie
+
+În scurt timp se observă formarea unei pulberi de culoare  neagră.  
+
+:::
+
+
+
+
+**Concluzia experimentului:**
+
+Mercurul reacționează cu sulful și formează sulfura de mercur, de culoare neagră.  Reacția mercurului cu sulful  este o reacție de combinare, întrucât avem un singur produs de reacție.
+ 
+Hg + S = HgS (Sulfură de mercur)
+
+
+
+<br></br>
+<br></br>

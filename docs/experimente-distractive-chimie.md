@@ -73,3 +73,15 @@ import Video from '@site/src/components/Video'
 
 <br></br>
 <br></br>
+
+:::tip Experiment
+
+**6.** Focul rece?
+
+:::
+
+<Video src="https://www.youtube.com/embed/WtH5Dq7lV9s" />
+
+
+<br></br>
+<br></br>
