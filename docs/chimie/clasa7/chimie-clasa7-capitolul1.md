@@ -10,7 +10,7 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
-## I.1. Ce este chimia ?
+## 1.1. Ce este chimia ?
 
 :::important Definiţie
 
@@ -19,7 +19,7 @@ este o poveste despre atomi, molecule și interacțiunea dintre ele.
 
 :::
 
-### I.1.1. Scurt istoric al chimiei.				
+### 1.1.1. Scurt istoric al chimiei.				
 Încă din cele mai vechi timpuri, oamenii au început să studieze proprietățile fizice și chimice ale corpurilor din 
 natură. Utilizarea focului a stat la baza apariției primelor noțiuni ale practicii chimice. Pregătirea hranei, olăritul,
 prelucrarea minereurilor și a metalelor rezultate, toate acestea l-au făcut pe om să observe cum substanțele se 
@@ -89,7 +89,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 în alte domenii, ca biochimie, chimia-fizică, geochimia, etc.
 
 
-## I.2. Laboratorul de chimie
+## 1.2. Laboratorul de chimie
 
 #### Laboratorul de chimie este dotat cu ustensile și aparate specifice, substanțe chimice(reactivi), mobilier si nișă pentru evacuarea gazelor toxice.
 
@@ -274,15 +274,15 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 
 
-## I.3. Norme de protecția muncii în laborator
+## 1.3. Norme de protecția muncii în laborator
 
 
 
-### I.3.1. Efectuarea experimentelor.
+### 1.3.1. Efectuarea experimentelor.
 
 #### Experimentele se efectuează numai sub îndrumarea profesorului, respectând cu strictețe instrucțiunile acestuia.
 
-### I.3.2. Sursele de încălzire şi încălzirea corpurilor.
+### 1.3.2. Sursele de încălzire şi încălzirea corpurilor.
 
 
 #### •	Sursele de încălzire trebuie folosite cu atenţie. 
@@ -327,7 +327,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 
 
-### I.3.3. Manipularea substanţelor chimice. 
+### 1.3.3. Manipularea substanţelor chimice. 
 
 #### • Manipularea substanţelor chimice începe cu o primă condiţie, şi anume cunoaşterea proprietăţilor principale ale substanţei respective, din punct de vedere al securităţii muncii: toxic, exploziv, inflamabil, caustic, iritantă, oxidantă (indicate cu ajutorul unor etichete).
 
@@ -383,9 +383,9 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 
 
-### I.3.4. Simboluri internaționale de avertizare. 
+### 1.3.4. Simboluri internaționale de avertizare. 
 
-#### I.3.4.1. SUBSTANȚĂ INFLAMABILĂ
+#### 1.3.4.1. SUBSTANȚĂ INFLAMABILĂ
 
 #### Simbol: 
 
@@ -396,7 +396,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 ****
 
-#### I.3.4.2. SUBSTANȚĂ EXPLOZIVĂ
+#### 1.3.4.2. SUBSTANȚĂ EXPLOZIVĂ
 
 #### Simbol: 
 
@@ -407,7 +407,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 ****
 
-#### I.3.4.3. SUBSTANȚĂ OTRĂVITOARE
+#### 1.3.4.3. SUBSTANȚĂ OTRĂVITOARE
 
 #### Simbol: 
 
@@ -419,7 +419,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 ****
 
-#### I.3.4.4. SUBSTANȚĂ GRAV IRITANTĂ 
+#### 1.3.4.4. SUBSTANȚĂ GRAV IRITANTĂ 
 
 #### Simbol: 
 
@@ -431,7 +431,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 ****
 
-#### I.3.4.5. SUBSTANȚĂ UŞOR IRITANTĂ 
+#### 1.3.4.5. SUBSTANȚĂ UŞOR IRITANTĂ 
 
 #### Simbol: 
 
@@ -444,7 +444,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 ****
 
-#### I.3.4.6. SUBSTANȚĂ COROZIVĂ 
+#### 1.3.4.6. SUBSTANȚĂ COROZIVĂ 
 
 #### Simbol: 
 
@@ -457,7 +457,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 ****
 
-#### I.3.4.7. SUBSTANȚĂ OXIDANTĂ 
+#### 1.3.4.7. SUBSTANȚĂ OXIDANTĂ 
 
 #### Simbol: 
 
@@ -470,7 +470,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 
 
-### I.3.5. Aplică ce ai învăţat în legătură cu normele de protecția muncii în laborator.
+### 1.3.5. Aplică ce ai învăţat în legătură cu normele de protecția muncii în laborator.
 
 :::caution Temă
 
@@ -485,48 +485,48 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 :::
 
-#### I.3.5.1. ..................................................... 
+#### 1.3.5.1. ..................................................... 
 
 <Img src="chimie/clasa7/capitolul1/1_35_1_Incalzirea-corecta-a-eprubetei.jpg" />
 
 ****
 
-#### I.3.5.2. .....................................................
+#### 1.3.5.2. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_2_Dezordine-masa.jpg" />
 
 
 ****
 
-#### I.3.5.3. .....................................................
+#### 1.3.5.3. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_3_Aprinderea-incorecta-a-spirtierei.jpg" />
 
 
 ****
 
-#### I.3.5.4. .....................................................
+#### 1.3.5.4. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_4_Maneci-largi-2.jpg" />
 
 
 ****
 
-#### I.3.5.5. .....................................................
+#### 1.3.5.5. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_5_Mirosirea-incorecta.jpg" />
 
 
 ****
 
-#### I.3.5.6. .....................................................
+#### 1.3.5.6. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_6_Par-desfacut.jpg" />
 
 
 ****
 
-#### I.3.5.7. .....................................................
+#### 1.3.5.7. .....................................................
 
 <Img src="chimie/clasa7/capitolul1/1_35_7_Incalzirea-incorecta-a-paharului.jpg" />
 
@@ -541,9 +541,9 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 
 
-## I.4. Materie. Corp. Substanță.
+## 1.4. Materie. Corp. Substanță.
 
-### I.4.1. Materie.
+### 1.4.1. Materie.
 
 :::important Definiţie
 
@@ -563,7 +563,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 - **electromagnetic** (generării reciproce a câmpului electric și al celui magnetic).
 
 
-### I.4.2. Corp.
+### 1.4.2. Corp.
 
 :::important Definiţie
 
@@ -581,7 +581,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 - Compoziție (alcătuire) omogenă în toată masa sa numite **substanțe** (ex.metale, apa, oxigenul, dioxidul de carbon, diamant, sare de bucătarie,piatra vânătă, azotul, etc).
 - Compoziție  eterogenă (care nu este la fel) numite **materiale**. De exemplu: lemn (conține celuloză, lignină, apă), hârtie(celuloză), ciment, beton, porțelan, granit, materiale plastice, sticlă, etc.).
 
-### I.4.3. Substanță.
+### 1.4.3. Substanță.
 
 :::important Definiţie
 
@@ -596,7 +596,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 - **Artificiale (sintetice)**: cauciuc sintetic, mase plastice, medicamente, fire sintetice, detergenți, insecticide, îngrășăminte artificiale, sticlă, porțelan.
 
-### I.4.4. Aplică ce ai învăţat în legătură cu Materie-Corp-Substanţă.
+### 1.4.4. Aplică ce ai învăţat în legătură cu Materie-Corp-Substanţă.
 
 
 
@@ -607,78 +607,78 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 :::
 
 
-#### I.4.4.1. Cuiul : cuiul este un corp fiindcă are formă proprie și volum propriu.
+#### 1.4.4.1. Cuiul : cuiul este un corp fiindcă are formă proprie și volum propriu.
 
 <Img src="chimie/clasa7/capitolul1/1_44_1_Cuiul.jpg" />
 
 ****
 
-#### I.4.4.2. Fierul: fierul este o substanță fiindcă nu are formă proprie și poate lua mai multe forme: de cui, clanță, masă, scaun, dulap, etc.
+#### 1.4.4.2. Fierul: fierul este o substanță fiindcă nu are formă proprie și poate lua mai multe forme: de cui, clanță, masă, scaun, dulap, etc.
 
 <Img src="chimie/clasa7/capitolul1/1_44_2_Fierul.jpg" />
 
 
 ****
 
-#### I.4.4.3. Apa dintr-un pahar: .......................
+#### 1.4.4.3. Apa dintr-un pahar: .......................
 
 <Img src="chimie/clasa7/capitolul1/1_44_3_ApaDinPahar.jpg" />
 
 
 ****
 
-#### I.4.4.4. Aerul dintr-un balon: .....................
+#### 1.4.4.4. Aerul dintr-un balon: .....................
 
 <Img src="chimie/clasa7/capitolul1/1_44_4_AerulDinBalon.jpg" />
 
 
 ****
 
-#### I.4.4.5. Apa râului: ................................
+#### 1.4.4.5. Apa râului: ................................
 
 <Img src="chimie/clasa7/capitolul1/1_44_5_ApaUnuiRau.jpg" />
 
 
 ****
 
-#### I.4.4.6. Lemnul: ....................................
+#### 1.4.4.6. Lemnul: ....................................
 
 <Img src="chimie/clasa7/capitolul1/1_44_6_Lemn.jpg" />
 
 
 ****
 
-#### I.4.4.7. Ochelari: ...................................
+#### 1.4.4.7. Ochelari: ...................................
 
 <Img src="chimie/clasa7/capitolul1/1_44_7_Ochelari.jpg" />
 
 
 ****
 
-#### I.4.4.8. Cuburi de gheaţă: ............................
+#### 1.4.4.8. Cuburi de gheaţă: ............................
 
 <Img src="chimie/clasa7/capitolul1/1_44_8_CuburiDeGheata.jpg" />
 
 
 ****
 
-#### I.4.4.9. Sarea de bucătărie: ..........................
+#### 1.4.4.9. Sarea de bucătărie: ..........................
 
 <Img src="chimie/clasa7/capitolul1/1_44_9_SareaDeBucatarie.jpg" />
 
 
 ****
 
-#### I.4.4.10. Sarea din solniţă: ...........................
+#### 1.4.4.10. Sarea din solniţă: ...........................
 
 <Img src="chimie/clasa7/capitolul1/1_44_10_SolnitaSare.jpg" />
 
 
 
 
-## I.5. Fenomene fizice și chimice.
+## 1.5. Fenomene fizice și chimice.
 
-### I.5.1. Fenomene fizice.
+### 1.5.1. Fenomene fizice.
 
 :::important Definiţie
 
@@ -712,7 +712,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 
 
-### I.5.2. Fenomene chimice.
+### 1.5.2. Fenomene chimice.
 
 :::important Definiţie
 
@@ -737,7 +737,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 
 
-### I.5.3. Aplică ce ai învăţat în legătură cu Fenomene fizice şi chimice.
+### 1.5.3. Aplică ce ai învăţat în legătură cu Fenomene fizice şi chimice.
 
 
 
@@ -748,7 +748,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 :::
 
 
-#### I.5.3.1. ............................................... 
+#### 1.5.3.1. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_1_PaharApaCuGheata_vers2.jpg" />
@@ -756,7 +756,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.2. ............................................... 
+#### 1.5.3.2. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_2_Curcubeu.jpg" />
@@ -764,7 +764,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.3. ............................................... 
+#### 1.5.3.3. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_3_Pahar-berzelius-pe-o-spirtiera.jpg" />
@@ -773,7 +773,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.4. ............................................... 
+#### 1.5.3.4. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_4_Rugina.jpg" />
@@ -782,7 +782,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.5. ............................................... 
+#### 1.5.3.5. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_5_PutrezireaLemnului_vers2.jpg" />
@@ -791,7 +791,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.6. ............................................... 
+#### 1.5.3.6. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_6_FierbereaApei.jpg" />
@@ -800,7 +800,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.7. ............................................... 
+#### 1.5.3.7. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_7_ArdereaLemnului.jpg" />
@@ -808,7 +808,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.8. ............................................... 
+#### 1.5.3.8. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_8_Capilaritatea-si-difuzia-la-lichide-Partea2.jpg" />
@@ -817,7 +817,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.9. ............................................... 
+#### 1.5.3.9. ............................................... 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_9_ResortIntins.jpg" />
@@ -826,7 +826,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-#### I.5.3.10. .............................................. 
+#### 1.5.3.10. .............................................. 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_10_Coclirea-cuprului.jpg" />
@@ -834,7 +834,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.11. .............................................. 
+#### 1.5.3.11. .............................................. 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_11_OameniInMiscare.jpg" />
@@ -842,7 +842,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 ****
 
-#### I.5.3.12. .............................................. 
+#### 1.5.3.12. .............................................. 
 
 
 <Img src="chimie/clasa7/capitolul1/1_53_12_EliberareOxigenDeCatrePlante_Fotosinteza.jpg" />
@@ -851,7 +851,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 ****
 
 
-## I.6. Proprietăți fizice și chimice.
+## 1.6. Proprietăți fizice și chimice.
 
 :::important Definiţie
 Însușirile caracteristice, cu ajutorul cărora se recunoaște o substanță se numesc **proprietăți**.
@@ -860,7 +860,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 **Proprietăţile** pot fi fizice și chimice.
 
-### I.6.1. Proprietăţi fizice.
+### 1.6.1. Proprietăţi fizice.
 
 :::important Definiţie
 
@@ -872,7 +872,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 **Proprietăţile fizice** se pot clasifica în:
 
 
-#### I.6.1.1. **Observabile** cu ajutorul organelor de simț: 
+#### 1.6.1.1. **Observabile** cu ajutorul organelor de simț: 
 
 
 - **Prin văz**: 
@@ -890,7 +890,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
   - moale (duritate);
   - tare (duritate).
 
-#### I.6.1.2. **Măsurabile** cu ajutorul unor aparate: 
+#### 1.6.1.2. **Măsurabile** cu ajutorul unor aparate: 
 
 - **Constante fizice**: 
   - **Temperatura de topire** (temperatura la care începe să se topească o substanță solidă=Tt);
@@ -903,7 +903,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 
 
-### I.6.2. Proprietăţi chimice.
+### 1.6.2. Proprietăţi chimice.
 
 :::important Definiţie
 
@@ -923,7 +923,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### •	Proprietatea lemnului de a putrezi (putregaiul are altă compoziție decât lemnul).
 
 
-### I.6.3. Observarea proprietăților fizice și chimice ale unor substanțe.
+### 1.6.3. Observarea proprietăților fizice și chimice ale unor substanțe.
 
 :::tip Experiment
 
@@ -1162,7 +1162,7 @@ Atenţie să nu te arzi! !  Nu uita să ai părul strâns la spate și fără m�
 
 
 
-### I.6.3. Aplică ce ai învăţat în legătură cu Proprietăţi fizice şi chimice.
+### 1.6.3. Aplică ce ai învăţat în legătură cu Proprietăţi fizice şi chimice.
 
 
 
@@ -1175,14 +1175,14 @@ Atenţie să nu te arzi! !  Nu uita să ai părul strâns la spate și fără m�
 
 
 
-#### I.6.3.1. Piatra vânătă este solubilă în apă.
-#### I.6.3.2. Lemnul are proprietatea de a putrezi.
-#### I.6.3.3. Hârtia are proprietatea de a arde.
-#### I.6.3.4. Fierul are proprietatea de a fi atras de magnet.
-#### I.6.3.5. Dioxidul de carbon este un gaz incolor.
-#### I.6.3.6. Cuprul are proprietatea de a cocli.
-#### I.6.3.7. Sulful este izolator termic și electric.
-#### I.6.3.8. Mercurul este lichid.
-#### I.6.3.9. Ceața se formează prin condensarea vaporilor de apă din aer la suprafața pământului.
-#### I.6.3.10. Gheața se topește în palmele copilului.
+#### 1.6.3.1. Piatra vânătă este solubilă în apă.
+#### 1.6.3.2. Lemnul are proprietatea de a putrezi.
+#### 1.6.3.3. Hârtia are proprietatea de a arde.
+#### 1.6.3.4. Fierul are proprietatea de a fi atras de magnet.
+#### 1.6.3.5. Dioxidul de carbon este un gaz incolor.
+#### 1.6.3.6. Cuprul are proprietatea de a cocli.
+#### 1.6.3.7. Sulful este izolator termic și electric.
+#### 1.6.3.8. Mercurul este lichid.
+#### 1.6.3.9. Ceața se formează prin condensarea vaporilor de apă din aer la suprafața pământului.
+#### 1.6.3.10. Gheața se topește în palmele copilului.
 
