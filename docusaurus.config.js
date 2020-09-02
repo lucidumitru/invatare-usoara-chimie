@@ -2,6 +2,7 @@ module.exports = {
     plugins: [
      require.resolve('@cmfcmf/docusaurus-search-local')
     ],
+    onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a chimiei',
     tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
