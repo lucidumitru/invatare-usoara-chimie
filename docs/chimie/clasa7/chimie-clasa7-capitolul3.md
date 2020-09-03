@@ -137,6 +137,13 @@ Pentru orice atom se defineşte **numărul de masă, A**, care reprezintă numă
 
 
 
+<br></br>
+<br></br>
+
+
+
+
+
 ## 3.2. Element chimic
 
 
@@ -417,3 +424,593 @@ Izotopii anumitor elemente, mai ales ai elementelor cu nr. de masă mare, au nuc
 
 
 :::
+
+
+
+<br></br>
+<br></br>
+
+
+
+## 3.3. Masa atomică. Mol de atomi.
+
+Atomul de oxigen este alcătuit din 8 protoni, 8 neutroni și 8 electroni. Pentru a calcula masa acestuia însumăm masele particulelor componente.
+
+m<sub>O</sub> = 8 ∙ ( 1,67 ∙ 10<sup>-27</sup> + 1,67 ∙ 10<sup>-27</sup> + 9,1∙ 10<sup>-31</sup>) ~ 26,72 ∙ 10<sup>-27</sup> kg
+
+Observăm că masele reale ale atomilor sunt foarte mici și dificil de utilizat în calculele chimice. În locul lor se utilizează masele atomice relative, adică masele atomice raportate la unitatea atomică de masă (u.a.m.).
+
+
+
+
+:::important Definiţie
+
+Unitatea atomică de masă (u.a.m.) reprezintă a 12-a parte din masa izotopului de carbon, 
+
+<svg class="svg-responsive" xmlns="http://www.w3.org/2000/svg" viewBox="0 -860.6798547996855 1579.177848998413 1228.029658785475">
+<g stroke="#000000" fill="#000000" stroke-width="0" transform="matrix(1 0 0 -1 0 0)">
+<g transform="translate(0,351)">
+<path stroke-width="10" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<path stroke-width="10" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z" transform="scale(0.7071067811865476) translate(0,-444)"/>
+<path stroke-width="10" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z" transform="translate(814,0)"/>
+</g>
+</svg>
+
+
+
+
+:::
+
+
+
+
+
+:::important Definiţie
+
+**Masa atomică relativă (A)** este numărul care arată de câte ori masa unui atom este mai mare decât unitatea atomică de masă.
+
+:::
+
+:::note Observaţie
+
+Masa atomică relativă medie este valoarea trecută în tabelul periodic în dreptul simbolului fiecărui element, şi este, de obicei, un număr raţional (a nu se confunda cu numărul de masă A care este un număr întreg).
+ 
+În cazul unui element chimic care se găseşte în natură sub forma a mai mulţi izotopi stabili, masa atomică relativă medie este dependentă de:
+
+- masa atomică relativă a fiecărui izotop;
+- procentul sau abundenţa izotopului în compoziţia elementului în natură .
+
+
+:::
+
+
+
+
+
+
+:::caution Exemplu – Calculul masei atomice în cazul elementului clor 
+
+**1.** Completați pe caiet tabelul după modelul carbonului:
+
+Masa atomică relativă medie a elementului clor este ACl = 35,45.
+ 
+Clorul se găseşte în natură sub forma a doi izotopi stabili: izotopul
+
+<svg class="svg-responsive" xmlns="http://www.w3.org/2000/svg" viewBox="0 -876.2362039857894 1882.177848998413 1250.6570757834445">
+<g stroke="#000000" fill="#000000" stroke-width="0" transform="matrix(1 0 0 -1 0 0)">
+<g transform="translate(0,367)">
+<path stroke-width="10" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<g transform="translate(0,-321)">
+<path stroke-width="10" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<path stroke-width="10" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z" transform="translate(814,0)"/>
+<path stroke-width="10" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z" transform="translate(1579,0)"/>
+</g>
+</svg>
+
+
+are în nucleu 17 p<sup>+</sup> şi 18 neutroni, iar în învelişul electronic are 17 ē, având o pondere de 75,4% 
+
+și izotopul 
+
+
+<svg class="svg-responsive" xmlns="http://www.w3.org/2000/svg" viewBox="0 -883.3072717976548 1882.177848998413 1257.7281435953098">
+<g stroke="#000000" fill="#000000" stroke-width="0" transform="matrix(1 0 0 -1 0 0)">
+<g transform="translate(0,367)">
+<path stroke-width="10" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<g transform="translate(0,-321)">
+<path stroke-width="10" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<path stroke-width="10" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z" transform="translate(814,0)"/>
+<path stroke-width="10" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z" transform="translate(1579,0)"/>
+</g>
+</svg>
+
+
+
+  
+are în nucleu 17 p<sup>+</sup> şi 20 neutroni, iar în învelişul electronic are 17 ē , având o pondere de 24,6%.
+
+
+Astfel, masa atomică relativă medie a clorului va fi:
+
+
+<Img src="chimie/clasa7/capitolul3/3_3_Poza4_MasaAtomicaRelativaAClorului.jpg" />
+
+
+:::
+
+
+
+
+
+:::important Definiţie
+
+Un **mol de atomi** reprezintă cantitatea, în grame, dintr-o substanţă simplă care conţine 6,022 ∙ 10<sup>23</sup> de atomi. Se mai numeşte şi atom gram. Se notează cu litera grecească ”niu”= υ.
+
+<Img src="chimie/clasa7/capitolul3/3_3_Poza5_FormulaCalculAtomGram.jpg" />
+
+:::
+
+
+:::important Definiţie
+
+**Numărul lui Avogadro**, notat cu NA, este egal cu 6,022 ∙10<sup>23</sup> atomi şi reprezintă numărul de atomi conţinuţi într-un mol de atomi din orice element chimic.
+
+:::
+
+
+
+
+
+:::caution Problemă model
+
+**1.** Cât este masa ce conține 4 moli de atomi de neon ( A = 20 g/mol) ?
+
+
+#### Rezolvare:
+
+Putem afla masa ori cu regula de trei simplă, ori cu formula numărului de moli: 
+
+
+<Img src="chimie/clasa7/capitolul3/3_3_Poza6_Rezolvare_ProblemaModel1.jpg" />
+
+
+:::
+
+
+:::caution Problemă model
+
+**2.** Câți moli de atomi sunt cuprinși în 11,2 g de Fe (AFe =56 g/mol ) ?
+
+
+#### Rezolvare:
+ 
+<Img src="chimie/clasa7/capitolul3/3_3_Poza7_Rezolvare_ProblemaModel2.jpg" />
+
+
+:::
+
+
+
+:::caution Problemă model
+
+**3.** Ce masă au 2moli de Cu (ACu =64) ?
+
+
+#### Rezolvare:
+
+m = υ ∙  A= 2 ∙ 64 = 128 g Cu 
+
+
+:::
+
+
+
+:::caution Problemă model
+
+**4.** Câți atomi se găsesc în 16g S(AS =32) ?
+
+
+#### Rezolvare:
+
+- Întâi aflăm nr. de moli cuprinși în 16g S : 
+
+
+<Img src="chimie/clasa7/capitolul3/3_3_Poza8_Rezolvare_ProblemaModel4_Partea1.jpg" />
+
+
+- Transformăm nr. de moli în nr de atomi, cu regula de trei simplă:
+
+<Img src="chimie/clasa7/capitolul3/3_3_Poza9_Rezolvare_ProblemaModel4_Partea2.jpg" />
+
+:::
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## 3.4. Învelișul de electroni.
+
+
+Modelul “planetar” al atomului (modelul lui Ruther) folosește asemănarea dintre Soare și nucleul atomului și planetele care se rotesc în jurul Soarelui cu electronii din învelișul electronic. 
+
+
+<Img src="chimie/clasa7/capitolul3/3_4_Poza1_SistemulPlanetar.jpg" />
+
+<br></br>
+
+<Img src="chimie/clasa7/capitolul3/3_4_Poza2_ModelulPlanetarAlAtomului.jpg" />
+
+
+
+
+:::important Definiţie
+
+**Învelișul electronic** reprezintă totalitatea  electronilor care orbitează în jurul nucleului atomic.
+
+:::
+
+
+:::note Observaţie
+
+Electronii realizează două tipuri de rotații:
+
+-	în jurul nucleului
+
+-	în jurul propriilor axe.
+
+
+:::
+
+
+
+
+:::important
+
+Învelișul electronic are o structură stratificată, fiind format din șapte straturi (nivele) concentrice nucleului și numerotate de la nucleu către exterior cu 1, 2, 3, 4, 5, 6 şi 7 sau cu litere începând de la litera K (K, L, M, N, O, P și Q).
+
+:::
+
+
+
+:::note Observaţie
+
+Într-un atom, electronii tind să ocupe pozițiile cele mai stabile , caracterizate de energia cea mai mică. Energia straturilor crește de la primul strat din jurul nucleului spre exterior. Aceasta este și ordinea de repartizare a electronilor pe straturi. 
+
+
+:::
+
+<Img src="chimie/clasa7/capitolul3/3_4_Poza3_StructuraAtomului.jpg" />
+
+
+
+:::note Observaţie
+
+**Toți electronii sunt identici** pentru că au  aceeași masă (9,1 ∙ 10<sup>-31</sup> kg), aceleași dimensiuni,  aceeași sarcina electrică ( q = - 1,6 ∙ 10<sup>-19</sup> C ).
+
+**Forțele de atracție electrostatică** dintre nucleul încărcat pozitiv și electronii încărcați negativ, explică mișcarea acestora în jurul nucleului.
+
+
+**Caracteristicile învelișului electronic:**
+
+- volum mare, în comparație cu volumul nucleului.
+
+- masă mică, electronii având masă neglijabilă.
+
+- încărcat cu sarcini negative.
+ 
+
+
+:::
+
+
+
+:::important Definiţie
+
+Repartiția pe straturi a celor Z electroni ai unui atom reprezintă **structura electronică a atomului.**
+
+:::
+
+
+:::important
+
+Ocuparea straturilor cu electroni respectă anumite reguli:
+
+- electronii ocupă straturile în ordine, începând de la cel mai apropiat de nucleu;
+
+- fiecare strat conține un număr limitat de electroni;
+
+- **numărul maxim de electroni de pe un nivel energetic este dat de formula:**
+
+**nr max ē = 2n<sup>2</sup>**,
+ 
+unde n = nr. stratului
+
+
+:::
+
+
+:::caution Exemplu
+
+a) pentru stratul K, n=1, nr max ē = 2n<sup>2</sup> = 2 ∙ 1<sup>2</sup> = 2 electroni
+       
+b) pentru stratul L, n=2, nr max ē = 2n<sup>2</sup> = 2 ∙ 2<sup>2</sup> = 8 electroni
+ 
+c) pentru stratul M, n=3, nr max ē = 2n<sup>2</sup> = 2 ∙ 3<sup>2</sup> = 18 electroni
+
+
+
+:::
+
+
+
+
+
+:::note Observaţie
+
+Cel mai folosit model de structură a învelișului electronic este modelul Bohr, în care straturile sunt cercuri concentrice cu nucleul la mijloc.
+
+
+:::
+
+
+
+
+:::caution Problemă Model
+
+**5.** Reprezintă structura atomului de 
+
+<svg class="svg-responsive" xmlns="http://www.w3.org/2000/svg" viewBox="0 -876.2362039857894 1882.177848998413 1250.6570757834445">
+<g stroke="#000000" fill="#000000" stroke-width="0" transform="matrix(1 0 0 -1 0 0)">
+<g transform="translate(0,367)">
+<path stroke-width="10" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<g transform="translate(0,-321)">
+<path stroke-width="10" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<path stroke-width="10" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z" transform="translate(814,0)"/>
+<path stroke-width="10" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z" transform="translate(1579,0)"/>
+</g>
+</svg>
+
+
+
+
+
+
+#### Rezolvare:
+
+- În mijloc reprezentăm nucleul cu protoni ( Z = 17 = nr. p<sup>+</sup>) și neutroni ( N = A -  Z = 35- 17 = 18 = nr. n<sup>0</sup>)
+- În jurul nucleului reprezentămŞ
+ 
+  - stratul 1 = K, cu maxim 2ē
+  - stratul 2 = L, cu max 8ē
+  - stratul 3 = L, cu 7ē. 
+  
+- În total trebuie să avem 17 ē, întrucât Z = 17 = nr. electroni din învelișul electronic. 
+
+- Straturile neocupate cu electroni nu se mai desenează.
+
+
+<Img src="chimie/clasa7/capitolul3/3_4_Poza4_StructuraAtomuluiDeClor.jpg" />
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/kqBPeCJWetw" />
+
+<br></br>
+
+
+:::caution Problemă Model
+
+**6.** Reprezintă structura atomului de 
+
+
+<svg class="svg-responsive" xmlns="http://www.w3.org/2000/svg" viewBox="0 -883.3072717976548 1872.177848998413 1250.6570757834443">
+<g stroke="#000000" fill="#000000" stroke-width="0" transform="matrix(1 0 0 -1 0 0)">
+<g transform="translate(0,367)">
+<path stroke-width="10" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<g transform="translate(0,-314)">
+<path stroke-width="10" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="scale(0.7071067811865476)"/>
+<path stroke-width="10" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z" transform="scale(0.7071067811865476) translate(505,0)"/>
+</g>
+<path stroke-width="10" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z" transform="translate(814,0)"/>
+<path stroke-width="10" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z" transform="translate(1569,0)"/>
+</g>
+</svg>
+
+
+
+
+
+
+
+#### Rezolvare:
+
+- În mijloc reprezentăm nucleul cu protoni ( Z = 13 = nr. p<sup>+</sup>) și neutroni ( N = A -  Z = 27 - 13 = 14 = nr. n<sup>0</sup>)
+
+- În jurul nucleului reprezentăm:
+ 
+  - stratul 1 = K, cu maxim 2ē
+  - stratul 2 = L, cu max 8ē
+  - stratul 3 = L, cu 3ē. 
+  
+- În total trebuie să avem 13 ē, întrucât Z = 13 = nr. electroni din învelișul electronic. 
+
+- Straturile neocupate cu electroni nu se mai desenează.
+
+
+<Img src="chimie/clasa7/capitolul3/3_4_Poza5_StructuraAtomuluiDeAluminiu.jpg" />
+
+:::
+
+
+
+
+:::important Definiţie
+
+Doi electroni pe primul strat, K, este o **configurație stabilă, numită dublet.**	
+
+:::
+
+
+
+:::important Definiţie
+
+Opt electroni pe celelalte straturi, L-Q, este o **configurație stabilă, numită octet.**	
+
+:::
+
+
+:::important Definiţie
+
+Elementele a căror atomi au structuri stabile pe ultimul strat, de dublet sau octet, se numesc **gaze rare.**	
+
+:::
+
+
+
+
+
+
+:::caution Temă
+
+**I.** Alege varianta corectă: 
+
+**1)** Nr. maxim de electroni de pe stratul L este :
+
+a) 8;
+
+b) 2;
+
+c) 18;
+
+d) 12.
+
+<br></br>
+
+**2)** Are configurație stabilă de dublet:
+
+a) magneziu;
+
+b) sulf;
+
+c) heliu;
+
+d) calciu.
+
+<br></br>
+
+
+**3)**	Atomul căruia îi lipsesc 2 electroni pentru a avea configurația stabilă de octet pe stratul L:
+
+a) Este fosfor;
+
+b) Are Z = 8;
+
+c) Are 6n<sup>0</sup>;
+
+d) Are A = 31.
+
+<br></br>
+
+**4)**	Un element chimic are Z = 5 și A = 11. Este adevărat că:
+
+a) Are structură stabilă;
+
+b) Are 16electroni;
+
+c) Are 11protoni;
+
+d) Are 3 ē pe ultimul strat.
+
+
+<br></br>
+
+**5)**	Energia straturilor electronice:
+
+a)	Crește de la nucleu spre exterior;
+
+b) Crește de la exterior spre nucleu ;
+     
+c) Este aceeași pt fiecare strat; 
+
+d) Crește cu sarcina nucleară.
+
+<br></br>
+
+:::
+
+
+:::caution Temă
+
+**II.** Un element X (necunoscut) are pe stratul M 5 ē.Care este nr atomic al acestui element? 
+
+:::
+
+
+
+:::caution Temă
+
+**III.** Elementul cu nr. de masă 27 are 3 ē pe stratul M. Determină nr. atomic și nr. neutronilor. 
+
+:::
+
+
+:::caution Temă
+
+**IV.** Ce sarcină nucleară are atomul elementului căruia îi lipsesc 2 ē pentru a avea structura electronică a gazului rar Ar cu Z = 18? 
+
+:::
+
+
+
+:::caution Temă
+
+**V.** Urzica conține o mare cantitate de fier(100mg fier la 100g plantă). Dacă necesarul zilnic de fier pt un adult este de 10mg, ce cantitate de urzici trebuie consumată pt a asigura necesarul zilnic de fier? Câți moli de atomi și câți atomi se găsesc în 10mg de fier? 
+
+:::
+
+
+
+
+:::caution Temă
+
+**VI.** Câți electroni se găsesc în 3g C cu A<sub>C</sub> = 12 ? 
+
+:::
+
+
+
+:::caution Temă
+
+**VII.** Completează spațiile libere din tabel: 
+
+
+<Img src="chimie/clasa7/capitolul3/3_4_Poza6_CompleteazaSpatiileLibereDinTabel.jpg" />
+
+
+:::
+
+
+
+
