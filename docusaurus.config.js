@@ -2,7 +2,7 @@ module.exports = {
     plugins: [
      require.resolve('@cmfcmf/docusaurus-search-local')
     ],
-    onBrokenLinks: 'ignore',
+//    onBrokenLinks: 'ignore',
     title: 'Invăţarea uşoară a chimiei',
     tagline: 'Invăţăm prin experimente',
     url: 'https://lucidumitru.github.io',
@@ -20,8 +20,8 @@ module.exports = {
                 alt: 'My Site Logo',
                 src: 'img/logo.svg',
             },
-            links: [{
-                    to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1',
+            items: [{
+                    to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1',
                     activeBasePath: 'docs',
                     label: 'Documentaţii',
                     position: 'left',
@@ -35,11 +35,11 @@ module.exports = {
                     title: 'Documentaţii',
                     items: [{
                             label: 'Invăţarea uşoară a chimiei',
-                            to: 'docs/chimie/clasa7/chimie-clasa7-capitolul1',
+                            to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1',
                         },
                         {
                             label: 'Ghidul de chimie versus accidentele',
-                            to: 'docs/ghidul-de-chimie-versus-accidentari',
+                            to: '/docs/ghidul-de-chimie-versus-accidentari',
                         },
                     ],
                 },
@@ -73,7 +73,7 @@ module.exports = {
             {
                 docs: {
                     // It is recommended to set document id as docs home page (`docs/` path).
-                    homePageId: 'doc1',
+//                    homePageId: 'doc1',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',

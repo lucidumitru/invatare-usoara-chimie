@@ -68,7 +68,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/chimie/clasa7/chimie-clasa7-capitolul1')}>
+              to={useBaseUrl('/docs/chimie/clasa7/chimie-clasa7-capitolul1')}>
               Apasă aici ca să începi să înveţi
             </Link>
           </div>
