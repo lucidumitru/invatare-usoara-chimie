@@ -959,7 +959,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 - Se ține cu cleștele o sârmă de cupru în vârful flăcării unei spirtiere și se observă că sârma de cupru arde cu o flacără verzuie și se înnegrește după ardere (se formează  oxidul de cupru). 
 
-- Presară în facăra unei spirtiere pilitură de fier. Pilitura de fier arde cu scântei strălucitoare și se transformă într-o pulbere neagră (oxid de fier).
+- Presară în flacăra unei spirtiere pilitură de fier. Pilitura de fier arde cu scântei strălucitoare și se transformă într-o pulbere neagră (oxid de fier).
 
 
 
