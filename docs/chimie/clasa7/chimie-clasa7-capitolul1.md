@@ -951,20 +951,35 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 :::
 
-**Materiale necesare:** magneziu, spirtieră, clește metalic, chibrit.
+**Materiale necesare:** magneziu panglică, pilitură de fier, sârmă de cupru, spirtieră, clește metalic, chibrit.
 
 **Descrierea experimentului:** 
 
-•	Se ține cu cleștele o panglică de magneziu în vârful flăcării une spirtiere și se observă că după un timp, magneziu se aprinde și arde cu o flacără orbitoare și se transformă într-un praf alb.
+- Se ține cu cleștele o panglică de magneziu în vârful flăcării unei spirtiere și se observă că după un timp, magneziu se aprinde și arde cu o flacără orbitoare și se transformă într-un praf alb.
+
+- Se ține cu cleștele o sârmă de cupru în vârful flăcării unei spirtiere și se observă că sârma de cupru arde cu o flacără verzuie și se înnegrește după ardere (se formează  oxidul de cupru). 
+
+- Presară în facăra unei spirtiere pilitură de fier. Pilitura de fier arde cu scântei strălucitoare și se transformă într-o pulbere neagră (oxid de fier).
+
 
 
 <Video src="https://www.youtube.com/embed/01ATTRJp7Bo" />
 
 <br></br>
 
+<Video src="https://www.youtube.com/embed/dXYjuTGyfG8" />
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/4_CRNTq3wks" />
+
+<br></br>
+
 :::warning Atenţie
 
 A nu se privi flacăra orbitoare de la arderea magneziului întrucât aceasta produce leziuni ale ochilor!
+
+Atenție când lucrezi cu surse de încălzire ! Pilitura de fier este inflamabilă ! Ai grijă să nu te arzi de la așchiile incandescente !
 
 :::
 
