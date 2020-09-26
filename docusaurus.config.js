@@ -14,6 +14,11 @@ module.exports = {
         googleAnalytics: {
             trackingID: 'UA-175175454-2',
         },
+        algolia: {
+            apiKey: 'f8d16728584ca1992d941c87a8971d22',
+            indexName: 'lucidumitru_invatare-usoara-chimie',
+            searchParameters: {}, // Optional (if provided by Algolia)
+        },
         navbar: {
             title: 'Invăţarea uşoară a chimiei',
             logo: {
