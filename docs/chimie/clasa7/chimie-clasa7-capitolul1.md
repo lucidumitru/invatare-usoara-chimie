@@ -915,11 +915,11 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 
 #### •	Proprietatea de a arde (după arderea hârtiei, nu mai avem hârtie, avem cenușă);
-#### •	Proprietatea de grăsimilor de a râncezi (râncezeala este o altă substanță decât uleiul nerâncezit);
+#### •	Proprietatea grăsimilor de a râncezi (râncezeala este o altă substanță decât uleiul nerâncezit);
 #### •	Proprietatea vinului de a se oțeti (oțetul este altă substanță decât vinul);
-#### •	Proprietatea  laptelui de a se acri (laptele acru are altă compoziție și alte proprietăți decât laptele dulce);
+#### •	Proprietatea laptelui de a se acri (laptele acru are altă compoziție și alte proprietăți decât laptele dulce);
 #### •	Proprietatea fierului de a rugini (rugina este altă substanță decât fierul);
-#### •	Proprietatea cuprului de cocli (cocleala este o substanță diferită de cupru ;
+#### •	Proprietatea cuprului de a cocli (cocleala este o substanță diferită de cupru ;
 #### •	Proprietatea lemnului de a putrezi (putregaiul are altă compoziție decât lemnul).
 
 

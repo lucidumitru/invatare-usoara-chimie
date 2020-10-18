@@ -7,7 +7,7 @@ module.exports = {
                 },
                 {
 
-                    'Clasa 8' : ['chimie/clasa8/chimie-clasa8-capitolul1','chimie/clasa8/chimie-clasa8-capitolul2','chimie/clasa8/chimie-clasa8-capitolul3'],
+                    'Clasa 8' : ['chimie/clasa8/chimie-clasa8-capitolul1','chimie/clasa8/chimie-clasa8-capitolul2','chimie/clasa8/chimie-clasa8-capitolul3','chimie/clasa8/chimie-clasa8-capitolul4','chimie/clasa8/chimie-clasa8-capitolul5','chimie/clasa8/chimie-clasa8-capitolul6','chimie/clasa8/chimie-clasa8-capitolul7'],
 
                 },
 
