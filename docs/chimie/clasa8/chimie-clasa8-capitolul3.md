@@ -1268,6 +1268,9 @@ b) Ce volum de amoniac este necesar pentru a reacționa cu acidul clorhidric ?
 
 #### Rezolvare:
 
+<Video src="https://www.youtube.com/embed/3S2_pp8ASlI" />
+
+
 - Scriem reacția chimică și apoi o egalăm (scriem ecuația chimică):
 
   - HCl + NH3 = NH4Cl
@@ -1318,6 +1321,10 @@ b) Ce cantitate de apă rămâne în vas după descompunerea completă a apei ox
 
 #### Rezolvare:
 
+
+<Video src="https://www.youtube.com/embed/E218Nd3cmCc" />
+
+
 - Scriem reacția chimică și apoi o egalăm (scriem ecuația chimică):
 
   - 2H<sub>2</sub>O<sub>2</sub> = 2H<sub>2</sub>O + O<sub>2</sub> ↑
@@ -1351,6 +1358,147 @@ b) Ce cantitate de apă rămâne în vas după descompunerea completă a apei ox
 
 9066,67 g soluție H<sub>2</sub>O<sub>2</sub>  – 272 g H<sub>2</sub>O<sub>2</sub> = 8794,67 g H<sub>2</sub>O din soluția inițială
 
-z' = 8794,67 g H<sub>2</sub>O din soluția inițială + 144 g H<sub>2</sub>O rezultată în urma reacției de descompunere = 8.794,67 g H<sub>2</sub>O
+z' = 8794,67 g H<sub>2</sub>O din soluția inițială + 144 g H<sub>2</sub>O rezultată în urma reacției de descompunere = 8.938,67 g H<sub>2</sub>O
 
 <Img src="chimie/clasa8/capitolul3/3_7_2_Poza9_ApaOxigenata.jpg" />
+
+
+:::
+
+
+
+<br></br>
+
+
+### III.7.3. Calcule stoechiometrice cu exces de substanță.
+
+
+
+
+
+:::caution Problemă model
+
+1)	20 L clor reacționează cu 11,2 L hidrogen. 
+
+Se cere:
+
+a)	Ce reactant este în exces și care este excesul de volum al acestuia ?
+
+b)	Masa acidului clorhidric obținut.
+
+
+#### Rezolvare:
+
+
+<Video src="https://www.youtube.com/embed/T8yMJ5j6mnE" />
+
+
+- Scriem reacția chimică și apoi o egalăm (scriem ecuația chimică):
+
+  - Cl<sub>2</sub> + H<sub>2</sub> = 2HCl ↑
+  
+  - Aceasta se citește astfel: 1 mol de clor reacționează cu 1 mol de hidrogen și rezultă 2 moli de acid clorhidric .
+
+
+- Citim datele problemei și subliniem substanțele care se dau și cele care se cer și le trecem sub substanțe :
+
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza1_Rezolvare_Partea1_ProblemaModel1.jpg" />
+
+
+- Calculăm masa molară a HCl  :
+
+  - μ HCl  = 1 ∙ A<sub>H</sub> + 1 ∙ A<sub>Cl</sub> = 1 ∙ 1 + 1 ∙ 35,5 = 36,5 g/mol
+
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza2_Rezolvare_Partea2_ProblemaModel1.jpg" />
+
+- Deoarece 1 mol de clor reacționează cu 1 mol de hidrogen, înseamnă că clorul este în exces. Clorul trebuie să aibă același volum cu cel al hidrogenului.
+
+  - V<sub>exces</sub> = 20 L – 11,2 L = 8,8 L exces Cl<sub>2</sub>
+
+- Din proporțiile astfel obținute se calculează necunoscutele:
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza3_Rezolvare_Partea3_ProblemaModel1.jpg" />
+
+
+
+
+
+
+
+:::
+
+
+
+
+
+
+
+:::caution Problemă model
+
+2)	168 g fier reacționează cu 112 L clor. 
+
+Se cere:
+
+a)	Ce reactant este în exces și care este excesul de volum al acestuia ?
+
+b)	Excesul de masă al reactantului.
+
+
+#### Rezolvare:
+
+
+<Video src="https://www.youtube.com/embed/pj77NM0YcmY" />
+
+
+- Scriem reacția chimică și apoi o egalăm (scriem ecuația chimică):
+
+  - 2Fe + 3Cl<sub>2</sub>  = 2FeCl<sub>3</sub>
+   
+  - Aceasta se citește astfel: 2 moli de fier reacționează cu 3 moli de clor și rezultă 2 moli de clorură de fier III .
+
+- Citim datele problemei și subliniem substanțele care se dau și cele care se cer și le trecem sub substanțe:
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza4_Rezolvare_Partea1_ProblemaModel2.jpg" />
+
+
+- Calculăm masa molară a Cl<sub>2</sub> :
+
+  - μ Cl<sub>2</sub>  = 2 ∙ A<sub>Cl</sub> = 2 ∙ 35,5= 71 g/mol
+
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza5_Rezolvare_Partea2_ProblemaModel2.jpg" />
+
+
+- Calculăm raportul molar  al reactanților conform ecuației chimice :
+
+  - nFe : nCl<sub>2</sub> = 2 : 3
+
+- Calculăm numărul de moli al fiecărui reactant din datele problemei:
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza6_Rezolvare_Partea3_ProblemaModel2.jpg" />
+
+
+- Calculăm volumul de clor din ecuația chimică care trebuie să reacționeze cu 168 g Fe:
+
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza7_Rezolvare_Partea4_ProblemaModel2.jpg" />
+
+- Calculăm volumul de clor în exces:
+
+  - V<sub>exces</sub> = 112 L – 100,8 L = 11,2 L exces Cl<sub>2</sub>
+
+- Calculăm excesul de moli de clor:
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza8_Rezolvare_Partea5_ProblemaModel2.jpg" />
+
+- Calculăm masa de clor în exces din formula nr. de moli :
+
+<Img src="chimie/clasa8/capitolul3/3_7_3_Poza9_Rezolvare_Partea6_ProblemaModel2.jpg" />
+
+
+
+
+
+:::
