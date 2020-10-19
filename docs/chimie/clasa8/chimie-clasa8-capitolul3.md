@@ -1239,7 +1239,7 @@ Aparatul  de făcut sifon acasă are o butelie cu CO<sub>2</sub>, care cu apa pu
 <br></br>
 
 
-### III.7.2. Calcule stoechiometrice cu puritatea unei substanțe.
+### III.7.2. Calcule stoechiometrice cu concentrații procentuale de masă și cu volum molar.
 
 
 :::important Definiție
