@@ -36,7 +36,7 @@ AgCl  =  Ag ↓ + Cl<sub>2</sub> ↑
 
 :::important
 
-**Schema reacției de descompunere: A = B + C**
+<Img src="chimie/clasa8/capitolul4/4_1_Poza0_SchemaReactieiDeDescompunere.jpg" />
 
 - Reactantul (A ) este întotdeauna o substanță compusă.
 - Produșii reacției (B și C) pot fi atât substanțe simple, cât și substanțe compuse.
@@ -524,7 +524,7 @@ Este o reacție de descompunere, întrucât avem un singur reactant:
 
 :::important
 
-**Schema reacției de descompunere: A = B + C**
+<Img src="chimie/clasa8/capitolul4/4_1_Poza0_SchemaReactieiDeDescompunere.jpg" />
 
 - Reactantul (A ) este întotdeauna o substanță compusă.
 - Produșii reacției (B și C) pot fi atât substanțe simple, cât și substanțe compuse.

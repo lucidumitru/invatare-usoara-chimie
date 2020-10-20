@@ -47,9 +47,8 @@ CuS + HCl  = CuCl<sub>2</sub> + H<sub>2</sub>S ↑
 :::important 
 
 
-**Schema reacției de schimb:**
 
-<Img src="chimie/clasa8/capitolul6/6_7_Poza1_Retine.jpg" />
+<Img src="chimie/clasa8/capitolul6/6_1_Poza1_SchemaReactieiDeSchimb.jpg" />
 
 
 
@@ -880,11 +879,6 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 
 :::important 
-
-
-
-**Schema reacției de schimb:**
-
 
 
 <Img src="chimie/clasa8/capitolul6/6_7_Poza1_Retine.jpg" />

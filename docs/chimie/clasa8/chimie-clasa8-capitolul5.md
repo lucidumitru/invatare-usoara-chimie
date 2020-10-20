@@ -38,9 +38,9 @@ Zn + PbCl<sub>2</sub>  =  ZnCl<sub>2</sub> + Pb ↓
 
 :::important
 
-**Schema reacției de substituție:** 
 
-<Img src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeDescompunere.jpg" />
+
+<Img src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
 
 
 - Ca reactanți avem o substanță simplă (A) și o substanță compusă (BC).
@@ -574,10 +574,7 @@ Oxidul de cupru  II – CuO, reacționează la cald cu carbonul, cu formare de c
 
 :::important
 
-**Schema reacției de substituție:** 
-
-<Img src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeDescompunere.jpg" />
-
+<Img src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
 
 - Ca reactanți avem o substanță simplă (A) și o substanță compusă (BC).
 - Ca produși avem o substanță simplă (B) și o substanță compusă (AC). 

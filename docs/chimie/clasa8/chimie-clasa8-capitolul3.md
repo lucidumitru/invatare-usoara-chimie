@@ -38,7 +38,9 @@ S + O<sub>2</sub>  = SO<sub>2</sub> ↑
 
 :::important
 
-**Schema reacției de combinare : A + B = C**
+
+<Img src="chimie/clasa8/capitolul3/3_1_Poza1_SchemaReactieiDeCombinare.jpg" />
+
 
 - Reactanții (A și B) pot fi atât substanțe simple (metale/ nemetale), cât și substanțe compuse.
 
@@ -1080,7 +1082,8 @@ Aparatul  de făcut sifon acasă are o butelie cu CO<sub>2</sub>, care cu apa pu
 
 :::important
 
-**Schema reacției de combinare : A + B = C**
+<Img src="chimie/clasa8/capitolul3/3_1_Poza1_SchemaReactieiDeCombinare.jpg" />
+
 
 - Reactanții (A și B) pot fi atât substanțe simple (metale/ nemetale), cât și substanțe compuse.
 
