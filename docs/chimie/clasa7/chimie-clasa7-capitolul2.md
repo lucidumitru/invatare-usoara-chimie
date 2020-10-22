@@ -64,7 +64,7 @@ Sarea fină este o substanță pură, iar sarea grunjoasă este impură, adică 
 :::
 
 
-:::caution Temă
+:::caution Problemă model
 
 **1.** Din 800g sare grunjoasă se obține 700g sare pură. Calculați puritatea zăcământului și procentul impurităților. 
 
@@ -73,6 +73,7 @@ Sarea fină este o substanță pură, iar sarea grunjoasă este impură, adică 
 
 
 800g sare impură..................700g sare pură
+
 100 g sare impură..................x g sare pură
 
 
