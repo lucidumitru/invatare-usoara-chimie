@@ -196,6 +196,10 @@ Pentru oxizii metalici cu valență variabilă, se indică valența metalului.
 - **Hepta**oxid de **di**iod: I<sub>2</sub>O<sub>7</sub>
 
 
+
+
+
+
 :::
 
 
@@ -204,7 +208,12 @@ Pentru oxizii metalici cu valență variabilă, se indică valența metalului.
 
 
 
+<Video src="https://www.youtube.com/embed/hMFjdC3orus" />
 
+
+
+
+<br></br>
 
 
 
@@ -283,7 +292,17 @@ d)	CuO
 
 
 
+
+
+
 :::
+
+
+<Video src="https://www.youtube.com/embed/bSHkNOpq-bE" />
+
+
+
+<br></br>
 
 
 
@@ -376,10 +395,19 @@ Denumirea lor se realizează astfel:
   - Acid sulfuros: H<sub>2</sub>SO<sub>3</sub>
   
   - Acid fosforos: H<sub>3</sub>PO<sub>3</sub>
+
+
+
+
+
   
 :::
 
 
+<Video src="https://www.youtube.com/embed/0nlcO7_iiMw" />
+
+
+<br></br>
 
 :::caution Temă
 
@@ -463,11 +491,15 @@ Denumirea lor „denumire nemetal**-at** de denumire metal”
 
 - Fosf**at** de zinc: Zn<sub>3</sub>(PO<sub>4</sub>)
 
-
-
-
 :::
 
+
+
+
+<Video src="https://www.youtube.com/embed/l4TMt19t2PE" />
+
+
+<br></br>
 
 :::caution Temă
 
