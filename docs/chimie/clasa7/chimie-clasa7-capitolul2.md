@@ -185,7 +185,7 @@ C)	Fiecare substanță componentă își păstrează proprietățile fizice și 
 
 a)	Amestecarea componenților în stare gazoasă are loc de la sine prin fenomenul de difuzie, datorat mișcării dezordonate și continue  a particulelor componente.
 
-b)	Amestecarea unui lichid cu : 
+b)	Amestecarea unui lichid cu: 
   - un gaz prin barbotarea (suflarea) gazului în lichid;
   - alt lichid, tot de la sine prin difuzie;
   - un solid, prin amestecare și dizolvare.
@@ -306,6 +306,15 @@ Apa se evaporă și se obțin în capsulă cristale de bicromat de potasiu.
 
 Prin cristalizare am separat o substanță solidă sub formă de cristale dintr-un amestec omogen lichid (soluție), prin evaporarea apei.
 
+
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/zCoSVEfaJL8" />
+
+
+<br></br>
 
 
 :::caution Aplicaţiile cristalizării
