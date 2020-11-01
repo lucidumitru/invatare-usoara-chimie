@@ -77,7 +77,7 @@ Sarea fină este o substanță pură, iar sarea grunjoasă este impură, adică 
 100 g sare impură..................x g sare pură
 
 
-<Img src="chimie/clasa7/capitolul2/2_1_Poza1_CalculeTema1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_1_Poza1_CalculeTema1.jpg" />
 
 
 
@@ -214,7 +214,7 @@ c)	Amestecarea componenților în stare solidă  cu ajutorul mojarului cu pistil
 - aer pur;
 - spirt.
 
-<Img src="chimie/clasa7/capitolul2/2_1_Poza2_ExempluAmestecuriOmogene.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_1_Poza2_ExempluAmestecuriOmogene_Spirt.jpg" />
 
 
 
@@ -226,7 +226,7 @@ c)	Amestecarea componenților în stare solidă  cu ajutorul mojarului cu pistil
 - solul;
 - roci. 
 
-<Img src="chimie/clasa7/capitolul2/2_1_Poza3_ExempluAmestecuriEterogene.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_1_Poza3_ExempluAmestecuriEterogene_Roci.jpg" />
 
 
 
@@ -234,19 +234,23 @@ c)	Amestecarea componenților în stare solidă  cu ajutorul mojarului cu pistil
 
 **1.** Dă câte 3 exemple de substanțe pure, amestecuri omogene și eterogene.
 
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_1_Poza4_TabelProblemaModel1.jpg" />
+
 :::
 
 
-<Img src="chimie/clasa7/capitolul2/2_1_Poza4_TabelProblemaModel1.jpg" />
+
 
 
 :::caution Problemă model
 
 **2.** Identifică tipul amestecului din tabel.
 
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_1_Poza5_TabelProblemaModel2.jpg" />
+
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_1_Poza5_TabelProblemaModel2.jpg" />
+
 
 
 
@@ -347,14 +351,9 @@ Prin cristalizare am separat o substanță solidă sub formă de cristale dintr-
 
 În timpul distilării au loc două  fenomene fizice: **vaporizarea**, urmată de **condensare**.
 
-:::
 
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_1_2_Poza1_PozaProcesDistilare.jpg" />
 
-
-<Img src="chimie/clasa7/capitolul2/2_2_1_2_Poza1_PozaProcesDistilare.jpg" />
-
-
-:::important
 
 Dacă în balon există un amestec de apă cu alcool, prin încălzire, temperatura va crește, iar când ajunge la 78°C, alcoolul începe să fiarbă. 
 
@@ -370,27 +369,38 @@ Când temperatura începe să crească depășind 78°C, alcoolul s-a separat de
 
 **1)**	Obținerea apei distilate (pură din punct de vedere chimic), folosită în laboratoare, industrie, farmacie.
 
-:::
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_1_2_Poza1bis_PozaApaDistilata.jpg" />
 
 
-:::caution Aplicaţiile distilării
+
+<br></br>
+<br></br>
+
 
 **2)** Obținerea băuturilor alcoolice în instalații industriale cu alambic.
 
-:::
 
 
-<Img src="chimie/clasa7/capitolul2/2_2_1_2_Poza2_PozaAlambic.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_1_2_Poza2_PozaAlambic.jpg" />
 
 
-:::caution Aplicaţiile distilării
+<br></br>
+<br></br>
+
+
+
 
 **3)** Prin distilarea fracționată a petrolului,  în rafinăriile petrochimice se obțin propan, butan, benzine, petrol lampant, motorină, păcură. Aceste produse ale distilării petrolului se folosesc drept combustibili, la obținerea maselor plastice, medicamentelor, cauciucului artificial, fibrelor artificiale, detergenți, insecticite, pesticide, etc.
 
+
+
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_1_2_Poza3_PozaRafinarie.jpg" />
+
+
 :::
 
-
-<Img src="chimie/clasa7/capitolul2/2_2_1_2_Poza3_PozaRafinarie.jpg" />
 
 
 <br></br>
@@ -464,25 +474,27 @@ Prin decantare am separat componentelor unui amestec eterogen solid – lichid s
 
 **1.** Obținerea apei potabile în bazine decantoare de mari dimensiuni, în care   impuritățile solide se depun pe fundul decantorului și apa se limpezește și se epurează(curăță) mecanic .
 
-:::
-
-<Img src="chimie/clasa7/capitolul2/2_2_2_1_Poza1_PozaDecantorApa.jpg" />
 
 
-
-:::caution Aplicaţiile decantării
-
-**2.** Separarea celor 2 componente ale varului stins : apa de var și laptele de var.
-
-
-:::
-
-<Img src="chimie/clasa7/capitolul2/2_2_2_1_Poza2_PozaPaharVarStins.jpg" />
-
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_1_Poza1_PozaDecantorApa.jpg" />
 
 
 <br></br>
 <br></br>
+
+
+
+**2.** Separarea celor 2 componente ale varului stins: apa de var și laptele de var.
+
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_1_Poza2_PozaPaharVarStins.jpg" />
+
+
+:::
+
+<br></br>
+<br></br>
+
 
 
 
@@ -546,43 +558,43 @@ Prin filtrarea am separat o substanță solidă dintr-un amestec eterogen solid-
 
 **1.** Filtru pentru apă potabilă (bună de băut)
 
-:::
 
-<Img src="chimie/clasa7/capitolul2/2_2_2_2_Poza1_PozaFiltruApaPotabila.jpg" />
 
-:::caution Aplicaţiile filtrării:
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_2_Poza1_PozaFiltruApaPotabila.jpg" />
+
+
+<br></br>
+<br></br>
 
 **2.** Filtru pentru aer (automobile, aer condiționat, aspiratoare, industriale pentru reținerea gazelor poluante, etc)
 
-:::
 
 
 <Img src="chimie/clasa7/capitolul2/2_2_2_2_Poza2_PozaFiltruPentruAer.jpg" />
 
 
 
-:::caution Aplicaţiile filtrării:
+<br></br>
+<br></br>
 
 **3.** Filtru de ulei la automobile.
 
-:::
-
-
-<Img src="chimie/clasa7/capitolul2/2_2_2_2_Poza3_PozaFiltruDeUleiMasina.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_2_Poza3_PozaFiltruDeUleiMasina.jpg" />
 
 
 
-:::caution Aplicaţiile filtrării:
+<br></br>
+<br></br>
 
 **4.** Filtru de cafea.
 
+
+
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_2_Poza4_PozaFiltruCafea.jpg" />
+
+
 :::
-
-
-<Img src="chimie/clasa7/capitolul2/2_2_2_2_Poza4_PozaFiltruCafea.jpg" />
-
-
-
 
 
 
@@ -593,10 +605,12 @@ Prin filtrarea am separat o substanță solidă dintr-un amestec eterogen solid-
 Ce echipament este necesar pentru a extrage fiecare substanță enumerată în coloana 2? Scrie răspunsurile în tabel.
 
 
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_2_Poza5_PozaTabelProblemaModel1.jpg" />
+
 :::
 
 
-<Img src="chimie/clasa7/capitolul2/2_2_2_2_Poza5_PozaTabelProblemaModel1.jpg" />
+
 
 
 
@@ -626,7 +640,7 @@ A  reușit Lucian să separe amestecul inițial în trei substanțe solide când
 
 Ea folosește următoarea instalație:
 
-<Img src="chimie/clasa7/capitolul2/2_2_2_3_Poza1_PozaInstalatieFiltrareTema2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_2_3_Poza1_PozaInstalatieFiltrareTema2.jpg" />
 
 
 
@@ -661,7 +675,7 @@ c)	Ce lichid a curs în pahar după deschiderea  robinetului ? Explică răspuns
 
 #### Structura solului: 
 
-<Img src="chimie/clasa7/capitolul2/2_3_Poza1_PozaIStructuraSolului.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_3_Poza1_PozaIStructuraSolului.jpg" />
 
 :::
 
@@ -675,7 +689,7 @@ c)	Ce lichid a curs în pahar după deschiderea  robinetului ? Explică răspuns
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_3_Poza2_PozaISolNisipos.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_3_Poza2_PozaISolNisipos.jpg" />
 
 
 
@@ -695,7 +709,7 @@ Umeziţi pământul şi frecaţi o bucată între degete. Dacă pământul se sc
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_3_Poza3_PozaISolArgilos.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_3_Poza3_PozaISolArgilos.jpg" />
 
 
 
@@ -716,7 +730,7 @@ Umeziţi pământul şi frecaţi o bucată între degete. Dacă pământul se sc
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_3_Poza4_PozaISolCalcaros.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_3_Poza4_PozaISolCalcaros.jpg" />
 
 
 
@@ -775,7 +789,7 @@ Pentru a asigura solurilor substanțele nutritive necesare, se folosesc îngră�
 
 
 
-<Img src="chimie/clasa7/capitolul2/2_4_Poza0_CompozitiaAtmosferei.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_4_Poza0_CompozitiaAtmosferei.jpg" />
 
 
 
@@ -785,7 +799,7 @@ Pentru a asigura solurilor substanțele nutritive necesare, se folosesc îngră�
 
 
 
-<Img src="chimie/clasa7/capitolul2/2_4_Poza1_StructuraAtmosferei.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_4_Poza1_StructuraAtmosferei.jpg" />
 
 
 
@@ -844,12 +858,12 @@ Substanțele care poluează aerul  și schimbă compoziția acestuia se numesc *
 1)	Poluarea aerului are **efecte dăunătoare asupra sănătăţii oamenilor:** bronşite acute şi cronice, crize de astm, boli cardiovasculare, alergii la polen, cancere pulmonare şi ale căilor respiratorii şi afecţiuni ale aparatului reproducător.
 
 
-<Img src="chimie/clasa7/capitolul2/2_4_Poza3_Poluare1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_4_Poza3_Poluare1.jpg" />
 
 
 2) Majoritatea poluanților sunt „spălați” de către ploaie, zăpadă sau ceață și sunt transformați în acizi care se combină cu ploaia. Această **ploaie acidă** cade peste lacuri și păduri, unde poate duce la moartea peștilor sau plantelor și  poate să afecteze întregi ecosisteme. Ploile acide pot să afecteze și sănătatea umană și obiecte create de oameni. Ele dizolvă încet statui istorice din piatră și fațadele  monumentelor  istorice.
 
-<Img src="chimie/clasa7/capitolul2/2_4_Poza4_Poluare2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_4_Poza4_Poluare2.jpg" />
 
 3)	Una din cele mai mari probleme cauzate de poluarea aerului este **încălzirea globală**, o creștere a temperaturii Pământului . Ea este cauzată de acumularea unor gaze atmosferice, cum ar fi dioxidul de carbon și alte gaze, cunoscute sub denumirea de gaze de seră, care reduc căldura disipată de Pământ, dar nu blochează radiațiile Soarelui. Din cauza efectului de seră se așteaptă ca, temperatura globală să crească cu multe consecințe dezastroase:
 
@@ -861,7 +875,7 @@ Substanțele care poluează aerul  și schimbă compoziția acestuia se numesc *
 
 - creșterea nivelul mării.
 
-<Img src="chimie/clasa7/capitolul2/2_4_Poza5_Poluare3.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_4_Poza5_Poluare3.jpg" />
 
 
 
@@ -882,7 +896,7 @@ Substanțele care poluează aerul  și schimbă compoziția acestuia se numesc *
 
 
 
-<Img src="chimie/clasa7/capitolul2/2_5_Poza1_IzvorLaMunte.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_5_Poza1_IzvorLaMunte.jpg" />
 
 
 Din toată apa existentă pe Pământ numai 3% este apă dulce, provenită din ghețari, ape subterane și alte surse (lacuri, atmosferă, sol).
@@ -1091,21 +1105,21 @@ Masa soluției este egală cu suma maselor dizolvatului și a dizolvantului.
 
 #### Exemple de cele mai cunoscute soluții:
 
-<Img src="chimie/clasa7/capitolul2/2_6_Poza1_TabelCuCeleMaiCunoscuteSolutii.jpg" />
+<Img className="img-responsive4"  src="chimie/clasa7/capitolul2/2_6_Poza1_TabelCuCeleMaiCunoscuteSolutii.jpg" />
 
 
 #### Zeama bordeleză 
 
 Este un pesticid cu acțiune fungicidă și algicidă. Se folosește pentru protejarea unor pomi fructiferi, printre care piersicii, caișii, prunii sau merii, dar și a viței de vie, a căpșunilor, cât și a unor legume – cartofi și roșii, de pildă. Pentru a prepara 100 de litri de zeamă bordeleză, cantitate suficientă pentru un hectar de vie pe rod, ai nevoie de: 1 kilogram de piatră vânătă, 1 kilogram de var stins,  100 de litri de apă.
 
-<Img src="chimie/clasa7/capitolul2/2_6_Poza2_PozaZeamaBordeleza.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_6_Poza2_PozaZeamaBordeleza.jpg" />
 
 
 #### Apa oxigenată
   
 Este folosită ca cicatrizant, decolorant, antiseptic, hemostatic local.
 
-<Img src="chimie/clasa7/capitolul2/2_6_Poza3_PozaApaOxigenata.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_6_Poza3_PozaApaOxigenata.jpg" />
 
 
 #### Tincturile 
@@ -1120,9 +1134,12 @@ Sunt soluții în care solventul este alcoolul (ex tinctură de iod, tinctură d
 
 Este acid acetic diluat în apă (3–9%), cu gust acru, produs prin fermentarea naturală acetică a vinului sau a sucului de mere.
 
-<Img src="chimie/clasa7/capitolul2/2_6_Poza5_PozaOtet.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_6_Poza5_PozaOtet.jpg" />
 
 
+
+<br></br>
+<br></br>
 
 
 
@@ -1204,7 +1221,7 @@ Dizolvarea are loc mai repede dacă se agită componenții amestecului.
 
 **1.** Patru pahare identice conțin fiecare câte 100 mL de apă. Se adaugă 10 g de zahăr în fiecare pahar.Tabelul prezintă informații despre fiecare pahar. 
 
-<Img src="chimie/clasa7/capitolul2/2_6_Poza6_TabelTema1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_6_Poza6_TabelTema1.jpg" />
 
 Aranjează paharele în funcție de viteza de dizolvare a zahărului , de la cel mai rapid la cel mai lent. Explică răspunsul!
 
@@ -1358,13 +1375,13 @@ Cum putem afla cum este o soluție ?  Simplu, îi aflăm concentrația procentua
 Dacă m<sub>d</sub> = c și m<sub>s</sub> = 100, atunci obținem următoarea formulă de calcul a concentrației:
 
  
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza1_Formula1_ConcentratiaProcentualaDeMasa.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza1_Formula1_ConcentratiaProcentualaDeMasa.jpg" />
 
 
 
 și ca să rămână c singur într-o parte a egalității, îl ducem pe 100 în dreapta.
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza2_Formula2_ConcentratiaProcentualaDeMasa.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza2_Formula2_ConcentratiaProcentualaDeMasa.jpg" />
 
 
 unde m<sub>d</sub> = masa dizolvatului, m<sub>s</sub> = masa soluției
@@ -1400,7 +1417,7 @@ c)** O soluție se poate dilua prin:**
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza3_CalculeTema1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza3_CalculeTema1.jpg" />
 
 
 <br></br>
@@ -1422,7 +1439,7 @@ m<sub>apă</sub> = ?
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza4_RezolvareProblemaModel1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza4_RezolvareProblemaModel1.jpg" />
 
 
 <br></br>
@@ -1446,7 +1463,7 @@ m<sub>apă</sub> = ?
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza5_RezolvareProblemaModel2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza5_RezolvareProblemaModel2.jpg" />
 
 
 <br></br>
@@ -1469,7 +1486,7 @@ m <sub>apă evaporată</sub> =?
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza6_RezolvareProblemaModel3.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza6_RezolvareProblemaModel3.jpg" />
 
 
 <br></br>
@@ -1492,7 +1509,7 @@ c = ?%
 
 :::
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza7_RezolvareProblemaModel4.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza7_RezolvareProblemaModel4.jpg" />
 
 
 <br></br>
@@ -1517,7 +1534,7 @@ m<sub>apă adăugată</sub> = ?
 
 
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza8_RezolvareProblemaModel5.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza8_RezolvareProblemaModel5.jpg" />
 
 
 
@@ -1539,7 +1556,7 @@ La m<sub>apă</sub> = 100 g apă avem m<sub>d</sub> = s
 m<sub>s</sub> = m<sub>d</sub> + m<sub>apă</sub> = s + 100
 
 
-<Img src="chimie/clasa7/capitolul2/2_7_2_Poza9_RezolvareProblemaModel6.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza9_RezolvareProblemaModel6.jpg" />
 
 
 
