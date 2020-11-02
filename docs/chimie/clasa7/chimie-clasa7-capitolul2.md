@@ -1415,10 +1415,18 @@ c)** O soluție se poate dilua prin:**
 
 **1.** Să calculăm concentrațiile soluțiilor de la experimentul 10.
 
-:::
+
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza3_CalculeTema1.jpg" />
 
+
+
+Deci, toate soluțiile de piatră vânătă care au concentrații mai mari de 17,14% sunt soluții suprasaturate, la temperatura camerei de 20°C.
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza3bis_CalculePartea2Tema1.jpg" />
+
+
+:::
 
 <br></br>
 
@@ -1437,9 +1445,11 @@ m<sub>d</sub> = ?
 
 m<sub>apă</sub> = ?
 
-:::
+
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza4_RezolvareProblemaModel1.jpg" />
+
+:::
 
 
 <br></br>
@@ -1461,9 +1471,12 @@ m<sub>apă</sub> = ?
 
 
 
-:::
+
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza5_RezolvareProblemaModel2.jpg" />
+
+
+:::
 
 
 <br></br>
@@ -1484,9 +1497,20 @@ m <sub>apă evaporată</sub> =?
 
 
 
-:::
+
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza6_RezolvareProblemaModel3.jpg" />
+
+
+**Deci, prima soluție este concentrată, întrucât conține o cantitate mai mică decât solubilitatea ei.**
+
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza6bis_RezolvareProblemaModel3.jpg" />
+
+
+**Deci, a doua soluție este suprasaturată, întrucât conține o cantitate mai mare decât solubilitatea ei.**
+
+:::
 
 
 <br></br>
@@ -1507,10 +1531,11 @@ c<sub>2</sub> = 30%
 c = ?%
 
 
-:::
+
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza7_RezolvareProblemaModel4.jpg" />
 
+:::
 
 <br></br>
 
@@ -1530,13 +1555,13 @@ m<sub>apă adăugată</sub> = ?
 
 
 
-:::
+
 
 
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza8_RezolvareProblemaModel5.jpg" />
 
-
+:::
 
 
 <br></br>
@@ -1548,7 +1573,7 @@ m<sub>apă adăugată</sub> = ?
 6) Determină relația de legătură între solubilitatea (s) a unei substanțe și concentrația (c) a soluției saturate a acesteia. 
 
 
-:::
+
 
 
 La m<sub>apă</sub> = 100 g apă avem m<sub>d</sub> = s
@@ -1559,5 +1584,5 @@ m<sub>s</sub> = m<sub>d</sub> + m<sub>apă</sub> = s + 100
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza9_RezolvareProblemaModel6.jpg" />
 
 
-
+:::
 
