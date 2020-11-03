@@ -97,7 +97,7 @@ Reacția de schimb  este importantă, fiind folosită în industrie și în labo
 
 :::tip Experiment
 
-**1.** Clorura de cupru – un verde smarald 
+**1.** Reacția dintre oxidul cupric și acidul clorhidric
 
 :::
 
@@ -145,7 +145,7 @@ Oxidul cupric – CuO reacționează cu acidul clorhidric - HCl și se transform
 
 :::tip Experiment
 
-**2.** Cum reacționează oxidul de cupru cu acidul sulfuric  
+**2.** Reacția dintre oxidul cupric și acidul sulfuric  
 
 :::
 
@@ -193,7 +193,7 @@ Oxidul cupric – CuO reacționează cu acidul sulfuric - H<sub>2</sub>SO<sub>4<
 
 :::tip Experiment
 
-**3.** Tulburarea apei de var 
+**3.** Reacția dintre dioxidul de carbon și hidroxidul de calciu (tulburarea apei de var) 
 
 :::
 
@@ -243,7 +243,7 @@ Dioxidul  de carbon –, reacționează cu hidroxidul de calciu – Ca(OH)<sub>2
 
 :::tip Experiment
 
-**4.** Ce este reacția de neutralizare ? 
+**4.** Reacția de neutralizare dintre hidroxidul de sodiu și acidul sulfuric 
 
 :::
 
@@ -301,7 +301,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe compuse,
 
 :::tip Experiment
 
-**5.** Un precipitat brun 
+**5.** Reacția dintre clorura de fier III și hidroxidul de sodiu
 
 :::
 
@@ -351,7 +351,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**6.** Hidroxidul de plumb - precipitat alb 
+**6.** Reacția dintre acetatul de plumb și hidroxidul de sodiu
 
 :::
 
@@ -399,7 +399,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**7.** Ce culoare are hidroxidul de fier II ? 
+**7.** Reacția dintre sulfatul de fier II și hidroxidul de sodiu 
 
 :::
 
@@ -449,7 +449,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**8.** Ce culoare are hidroxidul de zinc ? 
+**8.** Reacția dintre sulfatul de zinc și hidroxidul de sodiu
 
 :::
 
@@ -497,7 +497,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**9.** Ce culoare are hidroxidul de cupru II ? 
+**9.** Reacția dintre sulfatul de cupru II și hidroxidul de sodiu 
 
 :::
 
@@ -543,7 +543,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**10.** Cum obținem hidroxid de argint ? 
+**10.** Reacția dintre azotatul de argint și hidroxidul de sodiu 
 
 :::
 
@@ -604,7 +604,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**11.** Cum reacționează sulfatul de cupru cu acidul clorhidric ? 
+**11.** Reacția dintre sulfatul cupric și acidul clorhidric
 
 :::
 
@@ -651,7 +651,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**12.** Cum recunoaștem acidul sulfuric și sulfații? 
+**12.** Reacția dintre clorura de bariu și acidul sulfuric (reacție de recunoaștere) 
 
 :::
 
@@ -699,7 +699,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**13.** Cum recunoaștem carbonații ? 
+**13.** Reacția carbonatului de sodiu cu acidul clorhidric (reacție de recunoaștere)
 
 :::
 
@@ -748,7 +748,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**14.** Ce se întâmplă cu un ou ținut în oțet ? 
+**14.** Reacția carbonatului de calciu cu acidul acetic
 
 :::
 
@@ -818,7 +818,7 @@ Este o reacție de schimb, deoarece avem ca reactanți două substanțe  compuse
 
 :::tip Experiment
 
-**15.** Cum recunoaștem clorurile ? 
+**15.** Reacția dintre clorura de sodiu și azotatul de argint (reacție de recunoaștere)
 
 :::
 
@@ -966,7 +966,7 @@ Avem ca reactanți două substanțe compuse, ca la reacția de schimb, însă re
 
 :::tip Experiment
 
-**16.** Cum reacționează cuprul cu acidul azotic ? 
+**16.** Reacția cuprului cu acidul azotic 
 
 :::
 
@@ -1025,7 +1025,7 @@ Observă faptul că, cuprul nu scoate hidrogenul din acizi, deoarece se află du
 
 :::tip Experiment
 
-**17.** Cum reacționează cuprul cu acidul sulfuric ? 
+**17.** Reacția cuprului cu acidul sulfuric
 
 :::
 

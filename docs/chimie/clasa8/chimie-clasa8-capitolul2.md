@@ -47,7 +47,7 @@ Reactanții și produșii de reacție pot fi substanțe simple sau substanțe co
 
 :::tip Experiment
 
-**1.** Arde sulful ?
+**1.** Arderea sulfului
 
 :::
 
@@ -95,7 +95,7 @@ S + O<sub>2</sub> = SO<sub>2</sub> (Dioxid de sulf)
 
 :::tip Experiment
 
-**2.** Cât căntăresc produșii față de reactanți?
+**2.** Legea conservării masei într-o reacție chimică
 
 :::
 

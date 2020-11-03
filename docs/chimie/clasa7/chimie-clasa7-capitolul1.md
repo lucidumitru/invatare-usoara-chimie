@@ -927,7 +927,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 :::tip Experiment
 
-**1.** Proprietatea fierului de a rugini.
+**1.** Proprietatea fierului de a rugini
 
 :::
 
@@ -947,7 +947,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 :::tip Experiment
 
-**2.** Proprietatea unor substanțe de a arde.
+**2.** Proprietatea unor substanțe de a arde
 
 :::
 
@@ -996,7 +996,7 @@ Atenție când lucrezi cu surse de încălzire ! Pilitura de fier este inflamabi
 
 :::
 
-**Materiale necesare:**: un cui de fier, un pahar Berzelius, soluție de piatră vânătă.
+**Materiale necesare:** un cui de fier, un pahar Berzelius, soluție de piatră vânătă.
 
 **Descrierea experimentului:** Se introduce cuiul în paharul cu soluție de piatră vânătă,  asfel încât o parte a sa să rămână în aer. După puțin timp se observă că partea cuiului din soluție s-a acoperit cu o substanță arămie(cupru).
 
@@ -1014,11 +1014,11 @@ Atenție când lucrezi cu surse de încălzire ! Pilitura de fier este inflamabi
 
 :::tip Experiment
 
-**4.** Conductibilitatea electrică a unor substanțe.
+**4.** Conductibilitatea electrică a unor substanțe
 
 :::
 
-**Materiale necesare:**: circuit format dintr-o baterie, fire de legătură, bec, sârme metalice, mină de grafit, lemn, sticlă, gumă de cauciuc.
+**Materiale necesare:** circuit format dintr-o baterie, fire de legătură, bec, sârme metalice, mină de grafit, lemn, sticlă, gumă de cauciuc.
 
 **Descrierea experimentului:** Leagă becul la baterie și la capetele două capete libere ale circuitului se intercalează diferite substanțe (fier, cupru, aur, argint, zinc, plumb, aluminiu, grafit, sticlă, lemn, cauciuc) și observă la care substanțe becul se aprinde.
 
@@ -1035,11 +1035,11 @@ Atenție când lucrezi cu surse de încălzire ! Pilitura de fier este inflamabi
 
 :::tip Experiment
 
-**5.** Conductibilitatea termică a unor metale.
+**5.** Conductibilitatea termică a unor metale
 
 :::
 
-**Materiale necesare:**: lumânare, spirtieră, clește metalic, eprubetă, apă, sârmă de cupru, chibrit.
+**Materiale necesare:** lumânare, spirtieră, clește metalic, eprubetă, apă, sârmă de cupru, chibrit.
 
 
 **Descrierea experimentului:** 
@@ -1065,11 +1065,11 @@ Atenţie să nu te arzi!  Nu uita să ai părul strâns la spate și fără mân
 
 :::tip Experiment
 
-**6.** Conductibilitatea  termică a lichidelor.
+**6.** Conductibilitatea termică a lichidelor
 
 :::
 
-**Materiale necesare:**: lumânare, spirtieră, clește metalic, eprubetă, apă, chibrit.
+**Materiale necesare:** lumânare, spirtieră, clește metalic, eprubetă, apă, chibrit.
 
 
 **Descrierea experimentului:** 
@@ -1101,11 +1101,11 @@ Atenţie să nu te arzi!
 
 :::tip Experiment
 
-**7.** Conductibilitatea  termică a gazelor.
+**7.** Conductibilitatea  termică a gazelor
 
 :::
 
-**Materiale necesare:**: lumânare, spirtieră, clește metalic, eprubetă, chibrit.
+**Materiale necesare:** lumânare, spirtieră, clește metalic, eprubetă, chibrit.
 
 
 **Descrierea experimentului:** 
@@ -1135,7 +1135,7 @@ Atenţie să nu te arzi!
 
 :::tip Experiment
 
-**8.** Apa are proprietatea de a fierbe la 100°C.
+**8.** Apa are proprietatea de a fierbe la 100°C
 
 :::
 

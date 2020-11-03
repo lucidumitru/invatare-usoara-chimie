@@ -97,7 +97,7 @@ Zilnic folosești amestecuri sub diferite forme : preparate culinare, medicament
 
 :::tip Experiment
 
-**2.** Sulful cu fierul amestecate în mojar formează un amestec, dar sulful cu mercurul suferă un fenomen chimic. 
+**2.** Ce este un amestec de substanțe ?
 
 :::
 

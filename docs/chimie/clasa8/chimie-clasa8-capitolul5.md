@@ -115,7 +115,7 @@ Seria activității chimice a metalelor nu trebuie memorată. Când dorim să cu
 
 :::tip Experiment
 
-**1.** Sodiul reacționează violent cu apa
+**1.** Reacția sodiului cu apa
 
 :::
 
@@ -166,7 +166,7 @@ Sodiul reacționează la rece și extrem de violent cu apa, cu formare de hidrox
 
 :::tip Experiment
 
-**2.** Magneziul reacționează cu apa la cald
+**2.** Reacția magneziului cu apa
 
 :::
 
@@ -216,7 +216,7 @@ Magneziul  reacționează la cald cu apa, cu formare de hidroxid de magneziu –
 
 :::tip Experiment
 
-**3.** O granulă de zinc în acid clorhidric
+**3.** Reacția zincului cu acidul clorhidric
 
 :::
 
@@ -270,7 +270,7 @@ Reacția zincului cu acid clorhidric - HCl decurge cu formare de clorură de zin
 
 :::tip Experiment
 
-**4.** Șarpele de argint.
+**4.** Reacția cuprului cu azotatul de argint
 
 :::
 
@@ -320,7 +320,7 @@ Este o reacție de substituție, deoarece avem ca reactanți o substanță simpl
 
 :::tip Experiment
 
-**5.** Un cui de plumb ?!
+**5.** Reacția zincului cu azotatul de plumb
 
 :::
 
@@ -364,7 +364,7 @@ Reacția zincului cu azotatul de plumb -  Pb(NO<sub>3</sub>)<sub>2</sub>,  decur
 
 :::tip Experiment
 
-**6.** Amalgamul de argint sub formă de ace. 
+**6.** Amalgamul de argint sub formă de ace
 
 :::
 
@@ -410,7 +410,7 @@ Hg + 2AgNO<sub>3</sub>  =  Hg(NO<sub>3</sub>)<sub>2</sub> + 2Ag ↓
 
 :::tip Experiment
 
-**7.** Obținerea mercurului.
+**7.** Reacția aluminiului cu clorura de mercur
 
 :::
 
@@ -461,7 +461,7 @@ Reacția aluminiului cu clorura de mercur - HgCl<sub>2</sub>,  decurge cu formar
 
 :::tip Experiment
 
-**8.** Transformarea fierului în cupru 
+**8.** Reacția dintre fier și sulfatul de cupru 
 
 :::
 
@@ -514,7 +514,7 @@ Fe +  CuSO<sub>4</sub> =   FeSO<sub>4</sub> + Cu ↓
 
 :::tip Experiment
 
-**9.** Obținerea cuprului.
+**9.** Reacția dintre carbon și oxid cupric
 
 :::
 

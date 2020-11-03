@@ -83,7 +83,7 @@ Reacția de combinare este importantă întrucât se obțin substanțe chimice c
 
 :::tip Experiment
 
-**1.** Cum  arde cuprul ?
+**1.** Arderea cuprului
 
 :::
 
@@ -128,7 +128,7 @@ Cuprul se combină cu oxigenul din aer, la cald și formează oxid de cupru II (
 
 :::tip Experiment
 
-**2.** O flacără orbitoare !
+**2.** Arderea magneziului
 
 :::
 
@@ -176,7 +176,7 @@ Magneziul arde cu oxigenul din aer cu o flacără orbitoare, formând oxid de ma
 
 :::tip Experiment
 
-**3.** Cum arde fierul ?
+**3.** Arderea fierului
 
 :::
 
@@ -223,7 +223,7 @@ Fierul se combină cu oxigenul din aer, la cald și formează magnetita (oxid fe
 
 :::tip Experiment
 
-**4.** Reacția de ardere a zincului 
+**4.** Arderea zincului 
 
 :::
 
@@ -273,7 +273,7 @@ Zincul se combină cu oxigenul din aer, la cald și formează oxid de zinc . Ace
 
 :::tip Experiment
 
-**5.** Să facem un jar! 
+**5.** Arderea carbonului
 
 :::
 
@@ -320,7 +320,7 @@ C + O<sub>2</sub> = CO<sub>2</sub> (Dioxid de carbon) ↑ ( reacția de ardere c
 
 :::tip Experiment
 
-**6.** Arde sulful ?
+**6.** Arderea sulfului
 
 :::
 
@@ -372,7 +372,7 @@ S + O<sub>2</sub> = SO<sub>2</sub> (Dioxid de sulf)
 
 :::tip Experiment
 
-**7.** O reacție exotermă.
+**7.** O reacție exotermă
 
 :::
 
@@ -423,7 +423,7 @@ Fe + S = FeS (Sulfură de fier II)
 
 :::tip Experiment
 
-**8.** Mercurul se combină cu sulful la temperatura camerei
+**8.** Reacția dintre sulf și mercur
 
 :::
 
@@ -906,7 +906,7 @@ SO<sub>2</sub> + H<sub>2</sub>O = H<sub>2</sub>SO<sub>3</sub> (Acid sulfuros)
 
 :::tip Experiment
 
-**15.** Fumul fără foc !
+**15.** Reacția amoniacului cu acidul clorhidric
 
 :::
 
@@ -952,7 +952,7 @@ HCl + NH<sub>3</sub> = NH<sub>4</sub>Cl ↑ (Clorura de amoniu)
 
 :::tip Experiment
 
-**16.** Stingerea varului
+**16.** Reacția oxidului de calciu cu apa (stingerea varului)
 
 :::
 
@@ -993,7 +993,7 @@ CaO (Var) + H<sub>2</sub>O = Ca(OH)<sub>2</sub> (Hidroxid de calciu sau var stin
 
 :::tip Experiment
 
-**17.** Obținerea sifonului
+**17.** Reacția dintre dioxidul de carbon și apă (obținerea sifonului)
 
 :::
 

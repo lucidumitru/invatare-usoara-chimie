@@ -60,7 +60,7 @@ AgCl  =  Ag ↓ + Cl<sub>2</sub> ↑
 
 :::tip Experiment
 
-**1.** Cum se descompune acidul carbonic (sifonul) ?
+**1.** Descompunerea acidului carbonic (sifonului) 
 
 :::
 
@@ -124,7 +124,7 @@ Calcarul (piatra de var ) - CaCO<sub>3</sub> se descompune în cuptoare speciale
 
 :::tip Experiment
 
-**2.** Cum se descompune carbonatul de cupru ?
+**2.** Descompunerea carbonatului de cupru
 
 :::
 
@@ -173,7 +173,7 @@ Carbonatul de cupru se descompune termic cu formare de oxid de cupru II – CuO 
 
 :::tip Experiment
 
-**3.** Cum se descompune hidroxidul de cupru ?
+**3.** Descompunerea hidroxidului de cupru
 
 :::
 
@@ -284,7 +284,7 @@ Este  o reacție de descompunere, întrucât avem un singur reactant:
 
 :::tip Experiment
 
-**5.** Cum se descompune cloratul de potasiu ?
+**5.** Descompunerea cloratului de potasiu
 
 :::
 
@@ -345,7 +345,7 @@ Este  o reacție de descompunere, întrucât avem un singur reactant.
 
 :::tip Experiment
 
-**6.** Putem  descompune apa în hidrogen și oxigen ?
+**6.** Descompunerea apei în hidrogen și oxigen
 
 :::
 
@@ -397,7 +397,7 @@ La anod s-a degajat oxigen, care aprinde așchia de brad cu puncte incandescente
 
 :::tip Experiment
 
-**7.** De ce apa oxigenată dezinfectează și decolorează ?
+**7.** Descompunerea apei oxigenate
 
 :::
 
@@ -455,7 +455,7 @@ Este o reacție de descompunere, întrucât avem un singur reactant :
 
 :::tip Experiment
 
-**8.** Ce sunt substanțele fotosensibile ?
+**8.** Descompunerea halogenurilor
 
 :::
 

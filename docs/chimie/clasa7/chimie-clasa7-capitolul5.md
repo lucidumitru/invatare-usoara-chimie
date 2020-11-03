@@ -223,7 +223,7 @@ c) Clorura de aluminiu : AlCl<sub>3</sub>
 
 :::tip Experiment
 
-**1.** Culorile curcubeului pe o mină de grafit
+**1.** Identificarea cationilor
 
 :::
 
