@@ -426,7 +426,7 @@ Când temperatura începe să crească depășind 78°C, alcoolul s-a separat de
 
 a) Pentru componente solid-lichid  având  densități cu mult diferite, se folosește decantarea cu ajutorul baghetei (când solidul stă la fundul lichidului) . 
 
-b) Pentru componentele lichid-lichid cu densități diferite, se folosește pâlnia de separare.
+b) Pentru componentele lichid-lichid cu densități diferite și care sunt nemiscibile (nu se dizolvă unul în altul), se folosește decantarea cu pâlnia de separare.
 
 
 :::
@@ -504,7 +504,7 @@ Prin decantare am separat componentelor unui amestec eterogen solid – lichid s
 
 :::important Definiţie
 
-**Filtrarea** este metoda de separare a unei substanțe solide dintr-un amestec eterogen solid-lichid, cu ajutorul unui material filtrant.  
+**Filtrarea** este metoda de separare a unei substanțe solide dintr-un amestec eterogen solid-lichid care au densități apropiate, cu ajutorul unui material filtrant (hârtie de filtru).  
 
 :::
 
