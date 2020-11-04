@@ -469,7 +469,7 @@ d) H<sub>3</sub>PO<sub>4</sub>
 
 **Clasificarea sărurilor :**
 
-**A)	Săruri provenite de la hidracizi** prin înlocuirea hidrogenului cu un metal.
+**A) Săruri provenite de la hidracizi** prin înlocuirea hidrogenului cu un metal.
 
 Denumirea lor „denumire nemetal**-ură** de denumire metal”
 
@@ -478,7 +478,7 @@ Denumirea lor „denumire nemetal**-ură** de denumire metal”
 - Sulf**ură** de aluminiu : Al<sub>2</sub>S<sub>3</sub>
 
 
-**B)	Săruri provenite de la oxiacizi** prin înlocuirea hidrogenului cu un metal.
+**B) Săruri provenite de la oxiacizi** prin înlocuirea hidrogenului cu un metal.
 
 Denumirea lor „denumire nemetal**-at** de denumire metal”
 
@@ -510,13 +510,25 @@ Denumirea lor „denumire nemetal**-at** de denumire metal”
 
 **A. Săruri neutre (atomul/atomii de hidrogen au fost înlocuiţi integral de atomi ai metalelor)**
 
-Exemple:
+**Exemple:**
 
 Clorura de sodiu (NaCl) =>  provenită prin înlocuirea atomului de hidrogen din acidul clorhidric (HCl)
 
-Sulfatul de sodiu (Na<sub>2</sub>SO<sub>4</sub>) provenit prin înlocuirea celor 2 atomi de hidrogen din acidul sulfuric (H<sub>2</sub>SO<sub>4</sub>)
+Sulfatul de sodiu (Na<sub>2</sub>SO<sub>4</sub>) => provenit prin înlocuirea celor 2 atomi de hidrogen din acidul sulfuric (H<sub>2</sub>SO<sub>4</sub>)
 
 
+**B. Săruri acide (atomul/atomii de hidrogen au fost înlocuiţi doar parţial de atomi ai metalelor)**
+
+- **B1. Săruri acide provenite de la acizii dibazici** (ce conţin 2 atomi de hidrogen) 
+
+  - Exemplu: Bicarbonat de sodiu (numit şi "Carbonat acid de sodiu" sau "Hidrogen carbonat de sodiu"): NaHCO<sub>3</sub> => provenit de la acidul carbonic H<sub>2</sub>CO<sub>3</sub>  
+
+
+- **B2. Săruri acide provenite de la acizii tribazici** (ce conţin 3 atomi de hidrogen)
+
+  - Exemplu: Fosfat biacid de sodiu (numit şi "Dihidrogen fosfat de sodiu"): NaH<sub>2</sub>PO<sub>4</sub> => provenit de la acidul fosforic H<sub>3</sub>PO<sub>4</sub>
+  
+  - Exemplu: Fosfat acid de sodiu (numit şi "Hidrogen fosfat de sodiu"): Na<sub>2</sub>HPO<sub>4</sub> => provenit de la acidul fosforic H<sub>3</sub>PO<sub>4</sub>
 
 
 :::
