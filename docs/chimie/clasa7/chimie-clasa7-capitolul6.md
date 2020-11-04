@@ -487,7 +487,7 @@ Denumirea lor „denumire nemetal**-at** de denumire metal”
 
 - Azot**at** de mercur: Hg(NO<sub>3</sub>)<sub>2</sub>
 
-- Carbon**at** de sodiu: Na<sub>2</sub>SO<sub>4</sub>
+- Carbon**at** de sodiu: Na<sub>2</sub>CO<sub>3</sub>
 
 - Fosf**at** de zinc: Zn<sub>3</sub>(PO<sub>4</sub>)
 
@@ -500,10 +500,39 @@ Denumirea lor „denumire nemetal**-at** de denumire metal”
 
 
 <br></br>
+<br></br>
+
+
+
+:::important
+
+**Clasificarea sărurilor acide (după numărul atomilor de hidrogen înlocuiţi de metal)**
+
+**A. Săruri neutre (atomul/atomii de hidrogen au fost înlocuiţi integral de atomi ai metalelor)**
+
+Exemple:
+
+Clorura de sodiu (NaCl) =>  provenită prin înlocuirea atomului de hidrogen din acidul clorhidric (HCl)
+
+Sulfatul de sodiu (Na<sub>2</sub>SO<sub>4</sub>) provenit prin înlocuirea celor 2 atomi de hidrogen din acidul sulfuric (H<sub>2</sub>SO<sub>4</sub>)
+
+
+
+
+:::
+
+
+<Video src="https://www.youtube.com/embed/-SPp7Knm7YQ" />
+
+
+<br></br>
+<br></br>
+
+
 
 :::caution Temă
 
-1) Scrie formula următoarelor săruri și spune felul lor , adică provenite de la un hidracid/oxiacid:
+1) Scrie formula următoarelor săruri și spune felul lor, adică provenite de la un hidracid/oxiacid:
 
 a) iodură de zinc  
 
