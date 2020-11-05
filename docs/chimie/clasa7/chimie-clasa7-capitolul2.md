@@ -364,6 +364,14 @@ Când temperatura începe să crească depășind 78°C, alcoolul s-a separat de
 :::
 
 
+:::note Observație
+
+În general, părțile componente ale amestecului au puncte de fierbere care nu diferă cu mai mult de 25 °C între ele, în condiții de presiune de o atmosferă. În schimb, dacă diferența dintre punctele de fierbere este mai mare de 25 °C, se poate folosi pentru separarea componenților o distilare simplă.
+
+:::
+
+
+
 
 :::caution Aplicaţiile distilării
 
@@ -397,6 +405,13 @@ Când temperatura începe să crească depășind 78°C, alcoolul s-a separat de
 
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_1_2_Poza3_PozaRafinarie.jpg" />
+
+
+**4)**	Distilarea fracționată a aerului, cu separarea azotului de oxigen. Se consideră un balon de distilare care conține un amestec lichid de oxigen (componentul greu) și azot (componentul ușor). Dacă amestecul lichid este încălzit, acesta va începe să fiarbă, producând vapori care conțin mai mult azot (componentul ușor) decât lichidul inițial. Acești vapori bogați în azot condensează într-un condensator.
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_2_1_2_Poza4_DistilareaFractionataAAerului.jpg" />
+
+
 
 
 :::
@@ -663,6 +678,16 @@ c)	Ce lichid a curs în pahar după deschiderea  robinetului ? Explică răspuns
 
 ## 2.3. Solul - amestec eterogen
 
+
+
+
+
+
+**Litosfera** (din grecescul lithos = piatră și sferă) este partea solidă de la exteriorul unei planete. În cazul Terrei, litosfera include scoarța terestră și partea superioară a mantalei.
+
+
+
+
 :::important Definiţie
 
 **Solul** este stratul situat la suprafața scoarței terestre (partea superioară a litosferei).  
@@ -697,6 +722,9 @@ c)	Ce lichid a curs în pahar după deschiderea  robinetului ? Explică răspuns
 
 **Solul nisipos**, de exemplu, este uşor şi poros, permiţând trecerea apei şi fiind uşor de lucrat, însă nu reţine nutrienţi.
 Umeziţi pământul şi frecaţi o bucată între degete. Dacă pământul se scurge printre degete, este nisipos.
+
+**Este folosit la fabricarea  sticlei.**
+
   
 :::
 
@@ -716,6 +744,15 @@ Umeziţi pământul şi frecaţi o bucată între degete. Dacă pământul se sc
 :::note Observaţie
 
 **Solurile argiloase** se compactează (se bătătoresc) ușor când sunt călcate în timp ce sunt umede și se usucă tare în timpul verii, formând crăpături serioase pe timp de secetă. Are o mare densitate, este greu permeabil, în schimb odată pătruns de apă, o reține multă vreme. 
+
+Ia un pumn de sol umed şi strânge-l cu putere în palmă. Dacă la deschiderea pumnului remarci o formațiune compactă de pământ, ce se lipește de palmă, atunci ai în grădină un sol argilos.
+
+De altfel, solul argilos este simplu de identificat și în absența acestui test. Un astfel de sol se lipește de încălțări și de uneltele de grădină, se grupează în bulgări mari de pământ, greu de sfărâmat.
+
+
+**Este folosit la obținerea vaselor ceramice.**
+
+
   
 :::
 
@@ -736,7 +773,18 @@ Umeziţi pământul şi frecaţi o bucată între degete. Dacă pământul se sc
 
 :::note Observaţie
 
-**Solul calcaros** are un aspect albicios si are o cantitate mare de pietre.
+**Solul calcaros** are un aspect albicios si are o cantitate mare de pietre fiind predispus la uscare, blochează pătrunderea magneziului și a fierului.
+
+Este un tip de sol lipicios și greu de lucrat cu el când este umed, iar vara se usucă foarte repede. 
+
+Deși absoarbe eficient umiditatea, solul calcaros favorizează și înghețul profund. În plus, nu reține în mod corespunzător substanțele nutritive, fapt care poate duce, spre exemplu, la cloroză (îngălbenirea) frunzelor.
+
+Ia o lingură de sol și pune-o într-un vas, adăugând oțet. În cazul în care apar bule albe de dioxid de carbon, înseamnă că solul din grădina ta are un conținut crescut de carbonat de calciu.
+
+**Este folosit la obținerea varului.**
+
+
+
   
 :::
 
@@ -759,6 +807,32 @@ Solul este un _amestec eterogen de materie organică_ (rădăcini de plante, mic
 Plantele nu se dezvoltă normal în solurile sărace în substanțe minerale. 
 
 Pentru a asigura solurilor substanțele nutritive necesare, se folosesc îngrășăminte naturale (mraniță-gunoi de grajd putrezit, compost-amestec de resturi de plante, cenușă, etc) sau îngrășăminte chimice (azotați, fosfați).
+
+
+
+
+
+
+:::caution Importanța solului
+
+- Solul produce hrană și materii prime, 95 % din hrana pe care o consumăm provine direct sau indirect din sol.
+
+- Curăță apa potabilă .
+
+- Găzduiește organisme cu potențial farmaceutic.
+
+- Solul fertil previne eroziunea.
+ 
+- Reține apa și reduce riscurile de inundații .
+
+- Stochează cantități uriașe de carbon.
+
+Anual, în Europa dispar 1 000 km² de sol (suprafață egală cu a unui oraș precum Berlinul) ca urmare a extinderii orașelor și a infrastructurii.
+
+Protejarea acestei resurse fragile neregenerabile este vitală pentru asigurarea unui viitor sănătos. Formarea a 2 cm de sol fertil poate dura până la 500 de ani.
+
+:::
+
 
 
 <br></br>
