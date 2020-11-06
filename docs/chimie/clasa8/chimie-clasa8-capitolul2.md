@@ -21,7 +21,7 @@ import Video from '@site/src/components/Video'
 :::
 
 
-<Img src="chimie/clasa8/capitolul2/2_1_Poza1_SchemaReactieChimica.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul2/2_1_Poza1_SchemaReactieChimica.jpg" />
 
 
 :::note Observaţie
@@ -40,7 +40,7 @@ Reactanții și produșii de reacție pot fi substanțe simple sau substanțe co
 
 #### Exemplu de reacție chimică:
 
-<Img src="chimie/clasa8/capitolul2/2_1_Poza2_ExempluDeReactieChimica.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul2/2_1_Poza2_ExempluDeReactieChimica.jpg" />
 
 
 
@@ -521,32 +521,42 @@ b)	Ce cantitate de sulfat de sodiu se obține ?
 - Scriem reacția chimică și apoi o egalăm (scriem ecuația chimică):
 
 
-CuSO4  +2 NaOH = Na2SO4 + Cu(OH)2 ↓
+  - CuSO<sub>4</sub>  + 2NaOH = Na<sub>2</sub>SO<sub>4</sub> + Cu(OH)<sub>2</sub> ↓
 
-- Aceasta se citește astfel: 1 mol de sulfat de cupru reacționează cu 2 moli de hidroxid de sodiu și formează 1 mol de sulfat de sodiu și 1 mol de hidroxid de cupru.
+Aceasta se citește astfel: 1 mol de sulfat de cupru reacționează cu 2 moli de hidroxid de sodiu și formează 1 mol de sulfat de sodiu și 1 mol de hidroxid de cupru.
 
+<br></br>
 
 - Citim datele problemei și subliniem substanțele care se dau și cele care se cer și le trecem sub substanțe :
 
 
-<Img src="chimie/clasa8/capitolul2/2_4_Poza1_Rezolvare_Partea1_ProblemaModel5.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul2/2_4_Poza1_Rezolvare_Partea1_ProblemaModel5.jpg" />
 
+
+<br></br>
+<br></br>
 
 
 - Numai pentru substanțele subliniate, deasupra lor se notează masele molare înmulțite cu coeficienții respectivi din fața substanței, iar pentru cele care se dau sau se cer în moli se trece numărul de moli, astfel încât să avem aceeași unitate de măsură și sub substanță și deasupra ei.
 
+<br></br>
+
 - Calculăm masele molare ale sulfatului de cupru și sulfatului de sodiu :
 
-μCuSO4 = 1∙ ACu + 1 ∙ AS + 4 ∙ AO = 64 + 32 + 3 ∙ 16 = 96 + 48 = 144 g/mol
+  - μCuSO<sub>4</sub> = 1∙ A<sub>Cu</sub> + 1 ∙ A<sub>S</sub> + 4 ∙ A<sub>O</sub> = 64 + 32 + 3 ∙ 16 = 96 + 48 = 144 g/mol
 
-μNa2SO4 = 2∙ ANa + 1 ∙ AS + 4 ∙ AO = 2 ∙ 23 + 32 + 3 ∙ 16 = 46 + 32 + 48 = =126g/mol
+  - μNa<sub>2</sub>SO<sub>4</sub> = 2 ∙ A<sub>Na</sub> + 1 ∙ A<sub>S</sub> + 4 ∙ A<sub>O</sub> = 2 ∙ 23 + 32 + 3 ∙ 16 = 46 + 32 + 48 = 126g/mol
 
 
-<Img src="chimie/clasa8/capitolul2/2_4_Poza2_Rezolvare_Partea2_ProblemaModel5.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul2/2_4_Poza2_Rezolvare_Partea2_ProblemaModel5.jpg" />
+
+
+<br></br>
+<br></br>
 
 - Din proporțiile astfel obținute se calculează necunoscutele :
 
-<Img src="chimie/clasa8/capitolul2/2_4_Poza3_Rezolvare_Partea3_ProblemaModel5.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul2/2_4_Poza3_Rezolvare_Partea3_ProblemaModel5.jpg" />
 
 
 

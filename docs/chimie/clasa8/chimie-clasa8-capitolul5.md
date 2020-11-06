@@ -40,7 +40,7 @@ Zn + PbCl<sub>2</sub>  =  ZnCl<sub>2</sub> + Pb ↓
 
 
 
-<Img src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
 
 
 - Ca reactanți avem o substanță simplă (A) și o substanță compusă (BC).
@@ -88,7 +88,7 @@ Reacția de substituție  este importantă, întrucât se obțin substanțe chim
 **Cu cât metalul este așezat mai la începutul seriei de activitate, cu atât el cedează mai ușor electronii de valență, trecând la ionul corespunzător și, deci este mai reactiv din punct de vedere chimic.**
 
 
-<Img src="chimie/clasa8/capitolul5/5_1_Poza2_SeriaActivitatiiChimiceAMetalelor.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza2_SeriaActivitatiiChimiceAMetalelor.jpg" />
 
 
 
@@ -574,7 +574,7 @@ Oxidul de cupru  II – CuO, reacționează la cald cu carbonul, cu formare de c
 
 :::important
 
-<Img src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
 
 - Ca reactanți avem o substanță simplă (A) și o substanță compusă (BC).
 - Ca produși avem o substanță simplă (B) și o substanță compusă (AC). 
@@ -627,9 +627,75 @@ H<sub>2</sub> + CuO = H<sub>2</sub>O + Cu ↓
 
 
 
-## V.6. Calcule stoechiometrice cu concentrații procentuale de masă.
+## V.6. Calcule stoechiometrice 
 
-**În curând**
+### V.6.1. Calcule stoechiometrice cu exces de substanță.
+
+
+:::caution Problemă model
+
+1)	x g fier reacționează cu o soluție de acid clorhidric, obținându-se 381 g clorură de fier II. Știind că s-a lucrat cu un exces de Fe de 20% , determină masa x de Fe introdusă în reacție.
+
+
+#### Rezolvare:
+
+- Scriem reacția chimică și apoi o egalăm (scriem ecuația chimică):
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza3_EcuatiaChimica_ProblemaModel1.jpg" />
+
+Aceasta se citește astfel: 1 mol de fier reacționează cu 2 moli de acid clorhidric și rezultă 1 mol de clorură de fier II și 1 mol de hidrogen.
+
+
+<br></br>
+
+
+- Citim datele problemei și subliniem substanțele care se dau și cele care se cer și le trecem sub substanțe:
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza4_EcuatiaChimica2_ProblemaModel1.jpg" />
+
+
+<br></br>
+<br></br>
+
+- Calculăm masa molară a FeCl<sub>2</sub>:
+
+
+μ FeCl<sub>2</sub> = 1 ∙ A<sub>Fe</sub> + 2 ∙ A<sub>Cl</sub> = 56 + 2 ∙ 35,5= 56 + 71 = 127 g/mol
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza5_CalculMasaMolara_ProblemaModel1.jpg" />
+
+
+<br></br>
+<br></br>
+
+- Calculăm masa de fier în exces :
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza6_CalculMasaDeFierInExces_ProblemaModel1.jpg" />
+
+
+<br></br>
+<br></br>
+
+- Calculăm masa x de Fe introdusă în reacție :
+
+x = 168 g + 33,6 g = 201,6 g Fe introdus în reacție
+
+
+
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/ZeSbeuy4tz8" />
+
+
+
+
+:::
+
+
+
 
 
 

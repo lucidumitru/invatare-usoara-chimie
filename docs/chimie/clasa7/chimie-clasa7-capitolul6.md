@@ -49,17 +49,24 @@ Formula chimică are o dublă  semnificație:
 3)	Valența unui element se trece ca indice la celălalt element cu cifre arabe, astfel încât produsul dintre valența și indicele unui atom trebuie să fie egal cu produsul dintre valența și indicele celuilalt atom. Indicele egal cu 1 nu se trece.
 
 
-<Img src="chimie/clasa7/capitolul6/6_1_Poza1_DeterminareaValentei.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul6/6_1_Poza1_DeterminareaValentei.jpg" />
 
+
+<br></br>
+<br></br>
 
 
 **II.  Pentru compuși ternari (3 elemente diferite):** formați dintr-un ion metalic și ioni poliatomici :
 
-<Img src="chimie/clasa7/capitolul6/6_1_Poza2_TabelCompusiTernari.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul6/6_1_Poza2_TabelCompusiTernari.jpg" />
+
+
+<br></br>
+<br></br>
 
 Formula se scrie urmând aceleași reguli, numai că în locul nemetalului se scrie formula anionului , se trec valențele și apoi se inversează, scriindu-le ca indici cu cifre arabe. Cationul amoniu se scrie în locul metalului.
 
-<Img src="chimie/clasa7/capitolul6/6_1_Poza3_Ecuatii.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul6/6_1_Poza3_Ecuatii.jpg" />
 
 
 
@@ -112,6 +119,12 @@ Substanțele sunt de două feluri:
  
 - Nemetale.
 
+
+<Video src="https://www.youtube.com/embed/TmLzFI722-A" />
+
+
+<br></br>
+<br></br>
 
 **II. Substanțe compuse(compuși chimici) care sunt:** 
 
