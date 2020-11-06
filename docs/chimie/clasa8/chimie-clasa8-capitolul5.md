@@ -695,12 +695,50 @@ x = 168 g + 33,6 g = 201,6 g Fe introdus în reacție
 :::
 
 
+<br></br>
+<br></br>
+
+
+
+### V.6.2. Calcule stoechiometrice cu randament.
+
+
+:::caution Problemă model
+
+2)	Cel mai răspândit minereu al fierului este hematitul (oxid feric).
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza7_Hematit.jpg" />
+
+
+La scară industrială, fierul se obține pornind de la hematit (Fe2O3) printr-o reacţie de reducere directă cu carbon, la temperaturi de cca. 2000°C, în furnale (cuptoare înalte). În partea superioară a furnalului se introduce minereul de fier și carbonul sub formă de cocs . 
+
+Știind că din 1000 kg hematit s-a obținut 630 kg fier, calculează randamentul acestei reacții.
 
 
 
 
+#### Rezolvare:
 
 
+
+
+- Calculăm masa molară a  Fe2O3 :
+
+μ Fe<sub>2</sub>O<sub>3</sub> = 2 ∙ A<sub>Fe</sub> + 3 ∙ A<sub>O</sub> = 2 ∙ 56 + 3 ∙ 16= 112 + 48 = 160 g/mol
+
+- Scriem datele problemei pe ecuația chimică  și calculăm masa teoretică a fierului obținută :
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza8_Rezolvarea_Partea1_ProblemaModel2.jpg" />
+
+
+- Aplicăm formula randamentului unei reacții chimice și calculăm randamentul , știind că mp = masa practică = 630 kg Fe :
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza9_Rezolvarea_Partea2_ProblemaModel2.jpg" />
+
+
+:::
 
 
 
