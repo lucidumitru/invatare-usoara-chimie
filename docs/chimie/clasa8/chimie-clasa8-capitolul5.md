@@ -723,7 +723,7 @@ La scară industrială, fierul se obține pornind de la hematit (Fe2O3) printr-o
 
 
 
-- Calculăm masa molară a  Fe2O3 :
+- Calculăm masa molară a  Fe<sub>2</sub>O<sub>3</sub> :
 
 μ Fe<sub>2</sub>O<sub>3</sub> = 2 ∙ A<sub>Fe</sub> + 3 ∙ A<sub>O</sub> = 2 ∙ 56 + 3 ∙ 16= 112 + 48 = 160 g/mol
 

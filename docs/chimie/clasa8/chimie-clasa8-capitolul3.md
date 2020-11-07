@@ -1102,11 +1102,12 @@ Aparatul  de făcut sifon acasă are o butelie cu CO<sub>2</sub>, care cu apa pu
 
   - 4Al + 3O<sub>2</sub> = 2Al<sub>2</sub>O<sub>3</sub>
 
+  - 3Fe + 2O<sub>2</sub> = Fe<sub>3</sub>O<sub>4</sub>
+
 - Un nemetal cu oxigen = oxid nemetalic
 
   - S + O<sub>2</sub> = SO<sub>2</sub>
 
-  - 3Fe + 2O<sub>2</sub> = Fe<sub>3</sub>O<sub>4</sub> 
 
 - Un metal cu un nemetal = sare 
 

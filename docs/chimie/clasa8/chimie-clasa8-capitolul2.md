@@ -503,11 +503,11 @@ CuSO<sub>4</sub>  + 2NaOH = Na<sub>2</sub>SO<sub>4</sub> + Cu(OH)<sub>2</sub> �
 
 :::caution Problemă model
 
-5)	20g de sulfat de cupru reacționează cu hidroxidul de sodiu.
+1)	20g de sulfat de cupru reacționează cu hidroxidul de sodiu.
 
 Se cere :
 
-a)	Câți moli de hidroxid de sodiu reacționează cu 20 g de sulfat de cipru ?
+a)	Câți moli de hidroxid de sodiu reacționează cu 20 g de sulfat de cupru ?
 
 b)	Ce cantitate de sulfat de sodiu se obține ?
 
