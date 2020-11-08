@@ -1930,7 +1930,7 @@ Observație :
 
 - Îndepărtarea prin evaporare a unei mase de apă din soluție.
 
-- Adăugarea unei soulții de același tip, dar cu concentrație mai mare.
+- Adăugarea unei soluții de același tip, dar cu concentrație mai mare.
 
 
 **c) O soluție se poate dilua prin:**

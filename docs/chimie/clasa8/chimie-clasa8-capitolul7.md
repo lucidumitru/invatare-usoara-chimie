@@ -515,3 +515,48 @@ Instalarea aragazurilor, a centralelor termice și a sobelor trebuie făcută nu
 
 
 :::
+
+
+<br></br>
+<br></br>
+
+## VII.3. Impactul produșilor de ardere asupra mediului și asupra organismului uman.
+
+Termocentralele transformă căldura degajată prin arderea unui combustibil (cărbune, gaze naturale) în energie electrică. Prin încălzirea apei dintr-un cazan se produce abur sub presiune care pune în mișcare roata turbinei . În cadrul generatorului, mișcarea unei bobine într-un câmp magnetic, produce curent electric. 
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza1_TermocentralaTurceni.jpg" />
+
+
+La arderea cărbunilor, o parte dintre elementele componente ale acestora (sulf, azot) eliberează în mediul înconjurător compuși care afectează mediul înconjurător. În mod similar, gazele de eșapament de la autoturisme, camioane și autobuze eliberează dioxidul de sulf și oxidul de azot în aer.
+
+- Sulful prin ardere (reacția cu oxigenul) se transformă în dioxid de sulf, care reacționează cu apa din atmosferă formând acid sulfuros :
+
+S + O<sub>2</sub> = SO<sub>2</sub> ↑
+
+SO<sub>2</sub> + H<sub>2</sub>O = H<sub>2</sub>SO<sub>3</sub>
+
+
+- Azotul din cărbuni se transformă în dioxid de azot, care reacționează cu apă formând acid azotic :
+
+N + O<sub>2</sub> = NO<sub>2</sub> ↑
+
+4NO<sub>2</sub> + 2H<sub>2</sub>O + O<sub>2</sub> = 4HNO<sub>3</sub>
+
+
+:::important Definiție
+
+Ploile acide sunt precipitațiile care au un pH mai mic decât 5,6, având un caracter acid pronunțat.
+
+:::
+
+
+
+Ploaia nepoluată este slab acidă cu un pH mai mic de 7, dar nu mai mic de 5,6.
+
+
+
+
+
+
+
+
