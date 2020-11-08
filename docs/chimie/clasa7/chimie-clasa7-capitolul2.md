@@ -1558,10 +1558,10 @@ m<sub>apă</sub> = ?
 
 :::caution Problemă model cu concentrația procentuală de masă
 
-3) Calculează masa de apă care trebuie evaporată din 30g soluție de piatră vânătă de concentrație 10% pentru a ajunge la o concentrație de 30%. Știind că solubilitatea sării de bucătărie (clorură de sodiu)  este de 36 g la 100g apă,  precizează tipul celor două soluții, a celei inițiale și a celei finale. 
+3) Calculează masa de apă care trebuie evaporată din 30g soluție de sare de concentrație 10% pentru a ajunge la o concentrație de 30%. Știind că solubilitatea sării de bucătărie (clorură de sodiu)  este de 36 g la 100g apă,  precizează tipul celor două soluții, a celei inițiale și a celei finale. 
 
 
-m<sub>s1</sub> = 30 g sol. piatră vânătă
+m<sub>s1</sub> = 30 g sol. sare
 
 c<sub>1</sub> = 10%
 
