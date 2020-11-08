@@ -1523,6 +1523,17 @@ m<sub>apă</sub> = ?
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza4_RezolvareProblemaModel1.jpg" />
 
+
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/OgqlJ9zaf_M" />
+
+
+
+
+
 :::
 
 
@@ -1584,6 +1595,15 @@ m <sub>apă evaporată</sub> =?
 
 **Deci, a doua soluție este suprasaturată, întrucât conține o cantitate mai mare decât solubilitatea ei.**
 
+
+
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/DpSBYIznTQw" />
+
+
 :::
 
 
@@ -1608,6 +1628,12 @@ c = ?%
 
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza7_RezolvareProblemaModel4.jpg" />
+
+
+<br></br>
+
+<Video src="https://www.youtube.com/embed/Kv4dKXVSzqc" />
+
 
 :::
 
