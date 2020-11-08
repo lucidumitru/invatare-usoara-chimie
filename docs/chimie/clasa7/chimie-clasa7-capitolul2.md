@@ -1574,10 +1574,10 @@ m <sub>apă evaporată</sub> =?
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza6_RezolvareProblemaModel3.jpg" />
 
 
+
+**Deci, prima soluție este diluată, întrucât conține o cantitate mult mai mică decât solubilitatea ei.**
+
 <br></br>
-
-**Deci, prima soluție este concentrată, întrucât conține o cantitate mai mică decât solubilitatea ei.**
-
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_7_2_Poza6bis_RezolvareProblemaModel3.jpg" />
 
