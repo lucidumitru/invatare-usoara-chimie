@@ -557,22 +557,19 @@ Oxidul de cupru  II – CuO, reacționează la cald cu carbonul, cu formare de c
 
 
 <br></br>
+<br></br>
 
 
 
 
-#### Reține!
+## V.6. Sinteză recapitulativă - Reacția de substituție.
 
 
 
-:::important Definiţie
+:::important 
 
 **Reacția de substituție (simplă înlocuire)**  este reacția în care un element chimic înlocuiește un alt element chimic din substanța compusă. 
 
-:::
-
-
-:::important
 
 <Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza1_SchemaReactieiDeSubstitutie.jpg" />
 
@@ -580,11 +577,10 @@ Oxidul de cupru  II – CuO, reacționează la cald cu carbonul, cu formare de c
 - Ca produși avem o substanță simplă (B) și o substanță compusă (AC). 
 - **Substanța simplă ia locul primului element din substanță compusă  și de aceea se mai numește și reacție de simplă înlocuire.**
  
-:::
+
+<br></br>
 
 
-
-:::important
 
 Ca tipuri de reacții de substituție avem:
 
@@ -627,9 +623,9 @@ H<sub>2</sub> + CuO = H<sub>2</sub>O + Cu ↓
 
 
 
-## V.6. Calcule stoechiometrice 
+## V.7. Calcule stoechiometrice 
 
-### V.6.1. Calcule stoechiometrice cu exces de substanță.
+### V.7.1. Calcule stoechiometrice cu exces de substanță.
 
 
 :::caution Problemă model
@@ -679,7 +675,7 @@ Aceasta se citește astfel: 1 mol de fier reacționează cu 2 moli de acid clorh
 
 - Calculăm masa x de Fe introdusă în reacție :
 
-x = 168 g + 33,6 g = 201,6 g Fe introdus în reacție
+  - x = 168 g + 33,6 g = 201,6 g Fe introdus în reacție
 
 
 
@@ -700,12 +696,12 @@ x = 168 g + 33,6 g = 201,6 g Fe introdus în reacție
 
 
 
-### V.6.2. Calcule stoechiometrice cu randament.
+### V.7.2. Calcule stoechiometrice cu randament.
 
 
 :::caution Problemă model
 
-2)	Cel mai răspândit minereu al fierului este hematitul (oxid feric).
+1)	Cel mai răspândit minereu al fierului este hematitul (oxid feric).
 
 
 <Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza7_Hematit.jpg" />
@@ -736,6 +732,18 @@ La scară industrială, fierul se obține pornind de la hematit (Fe2O3) printr-o
 - Aplicăm formula randamentului unei reacții chimice și calculăm randamentul , știind că mp = masa practică = 630 kg Fe :
 
 <Img className="img-responsive4" src="chimie/clasa8/capitolul5/5_1_Poza9_Rezolvarea_Partea2_ProblemaModel2.jpg" />
+
+
+
+
+
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/LQA_DtTYPg8" />
+
+
 
 
 :::
