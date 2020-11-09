@@ -19,74 +19,6 @@ este o poveste despre atomi, molecule și interacțiunea dintre ele.
 
 :::
 
-### 1.1.1. Scurt istoric al chimiei.				
-Încă din cele mai vechi timpuri, oamenii au început să studieze proprietățile fizice și chimice ale corpurilor din 
-natură. Utilizarea focului a stat la baza apariției primelor noțiuni ale practicii chimice. Pregătirea hranei, olăritul,
-prelucrarea minereurilor și a metalelor rezultate, toate acestea l-au făcut pe om să observe cum substanțele se 
-transformă rezultând altele noi, cu alte proprietăți. 
-
-
-Meșteșugarii egipteni erau renumiți nu numai în modul de îmbălsămare a morților, ci și în extragerea metalelor din 
-minereuri, obținerea de aliaje precum bronzul, fabricarea sticlei, în realizarea diverselor combinații chimice și 
-pigmenți pentru cosmetice și picturi, fermentarea berii și a vinului și leacuri pentru diverse boli. 
-
-
-În construcții, pe lângă cărămizile din argilă arse la soare, s-a utilizat, pentru prima dată în istorie, bitumul ca 
-liant pentru fixarea acestora între ele. De asemenea, utilizarea ceramicii smălțuite multicolore dovedește măiestria 
-atinsă în tehnica construcțiilor mesopotamiene. 
-
-Meșteșugarii chinezi preparau bronzul încă din secolul al X-lea î.Hr. și au început să extragă zincul încă din secolul I
-î.Hr. Chinezii practicau metalurgia fierului din secolul al IV-lea î.Hr., iar din secolul al X-lea î.Hr., olarii 
-prelucrau argila albă, preparând pentru prima dată porțelanul. Chinezii introduc procedeul de fabricare a hârtiei din 
-mătase (încă din timpul dinastiei Shang deci acum circa 15 secole) și apoi din scoarța unor arbori, material textil, 
-cânepă.
-
-
-În antichitate concepția atomistă era reprezentată inițial de **Leucip** și de discipolul acestuia, **Democrit**. Acesta 
-considera atomii ca niște particule necreate, indestructibile și imuabile, care se mișcă continuu în vid.
-
-
-Apărută încă din antichitate, alchimia cunoaște o dezvoltare deosebită în Evul Mediu, când tot mai mulți credeau că este
-posibilă transformarea metalelor uzuale în aur, cu condiția utilizării unei substanțe cu puteri magice.
-În celebra lucrare _The Sceptical Chemist ("Chimistul sceptic")_ apărută în 1661, chimistul și filozoful englez **Robert 
-Boyle** (1627 - 1691) delimitează net chimia de alchimie și marchează începutul chimiei clasice. **Boyle** definește pentru 
-prima dată conceptul de element chimic, ca fiind orice substanță care nu poate fi descompusă prin mijloace chimice 
-obișnuite.
-
-
-Evoluției chimiei începe cu momentul enunțării legii conservării masei,în 1774, chimistul francez **Antoine Lavoisier** 
-(1743 - 1794) confirmă experimental această lege. Aceasta fusese formulată încă din 1748 de către enciclopedistul rus 
-**Mihail Lomonosov** (1711 - 1765). **Lomonosov** contrazice teoria flogisticului subliniind că metalele sunt elemente 
-chimice și nu substanțe compuse.
-
-
-Chimiștii din jurul anului 1800, în frunte cu englezul **John Dalton** (1766 - 1844) și **Claude Louis Berthollet** 
-(1748 - 1822) susțineau că între particulele care reacționează chimic între ele s-ar exercita o atracție.Tot în această 
-perioadă au fost descoperite și alte legi fundamentale ale chimiei, ca: legea proporțiilor definite, descoperită de 
-**Joseph Proust** în 1797, legea proporțiilor multiple, descoperită de **John Dalton** în 1803 și legea volumelor 
-constante descoperită de **Joseph Louis Gay-Lussac** în 1808. 
-
-
-Lucrarea lui **Luigi Galvani** (1737 - 1798) apărută în 1791 poate fi considerată actul de naștere al electrochimiei. 
-Inventarea pilei electrice, în 1800, de către **Alessandro Volta** (1745 - 1827) a dovedit că electricitatea poate fi 
-creată și pe cale chimică. **Sir Humphry Davy** (1778 - 1829) explică mecanismul generării acesteia sugerând faptul că 
-metalele au activitate chimică diferită. În 1800, **William Nicholson** (1753 - 1815) și 
-**Johann Wilhelm Ritter** (1776 - 1810) obțin hidrogenul și oxigenul prin electroliză. Experimentele lui 
-**Michael Faraday** (1791 - 1867) din 1832 au condus la elaborarea legilor electrolizei, care ulterior îi vor purta 
-numele. 
-
-În 1869, chimistul rus **Dimitri Mendeleev** (1834 - 1907)  a făcut prima clasificare științifică a elementelor chimice, 
-cunoscută sub numele de _tabelul periodic al elementelor_.
-
-Secolul al XIX-lea a fost secolul unor mari descoperiri din chimia modernă, având ca fondatori pe **Jacobs Berzelius** și 
-**John Dalton**. Marele chimist suedez **Jöns Jakob Berzelius** (1779 - 1848) a descoperit unele elemente chimice 
-(printre care:siliciu, zirconiu, titan, seleniu), a elaborat numeroase metode de analiză și a folosit pentru prima dată
-simbolurile elementelor chimice. Lucrarea sa, _Manual de chimie_ (apărută în opt volume în perioada 1808 - 1830) poate 
-fi considerată primul tratat de chimie organică din lume. 
-
-Începutul secolului  al XX—lea a marcat perioada chimiei contemporane, numită și era atomică.  Numeroși chimiști au 
-studiat structura substanțelor, s-au descoperit particulele elementare și au apărut noi domenii ale chimiei aplicate 
-în alte domenii, ca biochimie, chimia-fizică, geochimia, etc.
 
 
 ## 1.2. Laboratorul de chimie
@@ -95,177 +27,172 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 **Eprubete**
 
-<Img src="chimie/clasa7/capitolul1/1_1_Eprubete_test-glass-157103_1280.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_1_Eprubete_test-glass-157103_1280.jpg" />
 
 ****
 
 **Pahare Erlenmeyer**
 
-<Img src="chimie/clasa7/capitolul1/1_2_PaharErlenmeyerGL-S_OK.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_2_PaharErlenmeyerGL-S.jpg" />
 
 ****
 **Pahar Berzelius**
 
-<Img src="chimie/clasa7/capitolul1/1_3_PaharBerzelius_gl-r400.jpg" />
+<Img className="img-responsive4" className="img-responsive4" src="chimie/clasa7/capitolul1/1_3_PaharBerzelius_gl-r400.jpg" />
 
 ****
 **Balon cu fund rotund**
 
-<Img src="chimie/clasa7/capitolul1/1_4_BalonCuFundRotund_gw-100_vers1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_4_BalonCuFundRotund_gw-100_vers1.jpg" />
 
 ****
 **Balon cu fund plat**
 
-<Img src="chimie/clasa7/capitolul1/1_4bis_BalonCuFundPlat_gw-100_vers2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_4bis_BalonCuFundPlat_gw-100_vers2.jpg" />
 
 ****
 **Cristalizator**
 
-<Img src="chimie/clasa7/capitolul1/1_5_cristalizator-.jpg" />
+<Img className="img-responsive4" className="img-responsive4" src="chimie/clasa7/capitolul1/1_5_cristalizator-.jpg" />
 
 ****
 **Pâlnie**
 
-<Img src="chimie/clasa7/capitolul1/1_6_Palnie_GL-H100.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_6_Palnie_GL-H100.jpg" />
 
-
-****
-**Clopot de sticlă**
-
-<Img src="chimie/clasa7/capitolul1/1_7_poze-clopot-de-sticla.jpg" />
 
 
 ****
 **Balon Würtz**
 
-<Img src="chimie/clasa7/capitolul1/1_8_Balon-Wurtz--www.tplaboratorioquimico.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_8_Balon-Wurtz--www.tplaboratorioquimico.jpg" />
 
 
 ****
 **Refrigerent**
 
-<Img src="chimie/clasa7/capitolul1/1_9_refrigerent-liebig-1213.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_9_refrigerent-liebig-1213.jpg" />
 
 
 ****
 **Pipetă**
 
-<Img src="chimie/clasa7/capitolul1/1_10_Pipeta.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_10_Pipeta_a41224670abd05aeb70e036284f0d29acf92d078_original.jpg" />
 
 
 ****
 **Pâlnie de separare**
 
-<Img src="chimie/clasa7/capitolul1/1_11_PalnieDeSeparare_1543.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_11_PalnieDeSeparare_1543.jpg" />
 
 
 ****
 **Baghetă**
 
-<Img src="chimie/clasa7/capitolul1/1_12_Bagheta-sticla--www.materialedidactice.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_12_Bagheta-sticla--www.materialedidactice.jpg" />
 
 
 ****
 **Sticlă pentru reactivi**
 
-<Img src="chimie/clasa7/capitolul1/1_14_SticlaPentruReactivi_gl-f250.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_14_SticlaPentruReactivi_gl-f250.jpg" />
 
 
 ****
 **Cilindru gradat**
 
-<Img src="chimie/clasa7/capitolul1/1_15_CilindruGradat_gl-t25_3_vers3.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_15_CilindruGradat_gl-t25_3_vers3.jpg" />
 
 
 ****
 **Sticlă de ceas**
 
-<Img src="chimie/clasa7/capitolul1/1_16_SticlaCeas_MW-X_vers1.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_16_SticlaCeas_MW-X_vers1.jpg" />
 
 
 ****
 **Mojar cu pistil**
 
-<Img src="chimie/clasa7/capitolul1/1_17_mojar-cu-pistil-din-portelan_vers2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_17_mojar-cu-pistil-din-portelan_vers2.jpg" />
 
 
 ****
 **Creuzet**
 
-<Img src="chimie/clasa7/capitolul1/1_18_creuzete-portelan.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_18_creuzete-portelan.jpg" />
 
 
 ****
 **Spatule**
 
-<Img src="chimie/clasa7/capitolul1/1_19_Spatule--commons.wikimedia.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_19_Spatule--commons.wikimedia.jpg" />
 
 
 ****
 **Capsulă**
 
-<Img src="chimie/clasa7/capitolul1/1_20_capsula-de-evaporare-sticla-simax-15-ml_8333485.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_20_capsula-de-evaporare-sticla-simax-15-ml_8333485.jpg" />
 
 
 ****
 **Suport şi clemă**
 
-<Img src="chimie/clasa7/capitolul1/1_21_SuportSiClema_chimie-ustensile24.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_21_SuportSiClema_chimie-ustensile24.jpg" />
 
 
 
 ****
 **Bec de gaz**
 
-<Img src="chimie/clasa7/capitolul1/1_22_BecDeGaz_97-5301_3.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_22_BecDeGaz_97-5301_3.jpg" />
 
 
 ****
 **Spirtieră**
 
-<Img src="chimie/clasa7/capitolul1/1_23_spirtiera-din-sticla_vers2_OK.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_23_spirtiera-din-sticla_vers2_OK.jpg" />
 
 
 ****
 **Trepied**
 
-<Img src="chimie/clasa7/capitolul1/1_24_TREPIED_suport-circular-din-otel-inoxidabil.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_24_TREPIED_suport-circular-din-otel-inoxidabil.jpg" />
 
 
 ****
 **Sită metalică**
 
-<Img src="chimie/clasa7/capitolul1/1_25_sita-metalica-cu-insertie-ceramica.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_25_sita-metalica-cu-insertie-ceramica.jpg" />
 
 
 ****
 **Lingură de ars**
 
-<Img src="chimie/clasa7/capitolul1/1_26_LiguraDeArs_MW-30.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_26_LiguraDeArs_MW-30.jpg" />
 
 
 
 ****
 **Stativ pentru eprubete**
 
-<Img src="chimie/clasa7/capitolul1/1_27_StativEprubeteMetalic_97-4606_0.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_27_StativEprubeteMetalic_97-4606_0.jpg" />
 
 
 ****
 **Cleşte de lemn**
 
-<Img src="chimie/clasa7/capitolul1/1_28_cleste-lemn.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_28_cleste-lemn.jpg" />
 
 
 ****
 **Cleşte metalic**
 
-<Img src="chimie/clasa7/capitolul1/1_29_cleste-laborator_vers2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_29_cleste-laborator_vers2.jpg" />
 
 ****
 **Balanţă de laborator**
 
-<Img src="chimie/clasa7/capitolul1/1_30_BalantaDeLaborator_70701_2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_30_BalantaDeLaborator_70701_2.jpg" />
 
 
 
@@ -389,7 +316,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_1_SubstantaInflamabila.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_1_SubstantaInflamabila.jpg" />
 
 #### •	Se produce foarte uşor aprinderea în contact cu o sursă de energie (flacără, scânteie).
 #### •	Se va păstra departe de flăcări, scântei sau de orice sursă de căldură.  
@@ -400,7 +327,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_2_SubstantaExploziva.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_2_SubstantaExploziva.jpg" />
 
 #### •	Prezintă un pericol de explozie (gaz butan, propan, materiale explozive, artificii etc.).
 #### •	Se vor evita căldura, şocurile, frecarea şi scânteile.  
@@ -411,7 +338,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_3_SubstantaOtravitoare.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_3_SubstantaOtravitoare.jpg" />
 
 #### •	Poate provoca leziuni grave sau chiar moartea prin inhalare, ingestie sau penetrare cutanată (insecticide, îngrăşaminte, ierbicide etc.).
 #### •	Se va evita orice contact cu corpul.  
@@ -423,7 +350,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_4_SubstantaIritanta.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_4_SubstantaIritanta.jpg" />
 
 
 #### •	Poate fi mortal în caz de înghiţire sau de pătrundere in căile respiratorii. Poate provoca leziuni ale organelor (terbentină, benzină, petrol lampant etc.). În caz de inhalare: dacă respiraţia este dificilă, transportaţi victima la aer liber şi menţineţi-o în stare de repaus, într-o poziţie confortabilă pentru respiraţie.
@@ -435,7 +362,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_5_SubstantaUsorIritanta.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_5_SubstantaUsorIritanta.jpg" />
 
 
 #### •	Poate provoca iritarea pielii, a ochilor sau a căilor respiratorii. Absorbţia lor poate duce la leziuni uşoare (praf de curăţat vesela, clor etc.).
@@ -448,7 +375,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_6_SubstantaCoroziva.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_6_SubstantaCoroziva.jpg" />
 
 
 #### •	Produs care prin simplul contact sau prin ingurgitare poate arde sau distruge ţesuturile (pielea sau mucoasa) - clor concentrat, sodă caustică, acizi etc.
@@ -461,7 +388,7 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### Simbol: 
 
-<Img src="chimie/clasa7/capitolul1/1_34_7_SubstantaOxidanta.png" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_34_7_SubstantaOxidanta.jpg" />
 
 
 #### •	Produs care favorizează aprinderea materiilor combustibile, întreţinerea combustiei  (pastile de clor efervescente, O2).
@@ -487,48 +414,48 @@ studiat structura substanțelor, s-au descoperit particulele elementare și au a
 
 #### 1.3.5.1. ..................................................... 
 
-<Img src="chimie/clasa7/capitolul1/1_35_1_Incalzirea-corecta-a-eprubetei.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_1_IncalzireaIncorectaAEprubetei.jpg" />
 
 ****
 
 #### 1.3.5.2. .....................................................
 
-<Img src="chimie/clasa7/capitolul1/1_35_2_Dezordine-masa.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_2_Dezordine-masa.jpg" />
 
 
 ****
 
 #### 1.3.5.3. .....................................................
 
-<Img src="chimie/clasa7/capitolul1/1_35_3_Aprinderea-incorecta-a-spirtierei.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_3_Aprinderea-incorecta-a-spirtierei.jpg" />
 
 
 ****
 
 #### 1.3.5.4. .....................................................
 
-<Img src="chimie/clasa7/capitolul1/1_35_4_Maneci-largi-2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_4_Maneci-largi-2.jpg" />
 
 
 ****
 
 #### 1.3.5.5. .....................................................
 
-<Img src="chimie/clasa7/capitolul1/1_35_5_Mirosirea-incorecta.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_5_Mirosirea-incorecta.jpg" />
 
 
 ****
 
 #### 1.3.5.6. .....................................................
 
-<Img src="chimie/clasa7/capitolul1/1_35_6_Par-desfacut.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_6_Par-desfacut.jpg" />
 
 
 ****
 
 #### 1.3.5.7. .....................................................
 
-<Img src="chimie/clasa7/capitolul1/1_35_7_Incalzirea-incorecta-a-paharului.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_7_Incalzirea-incorecta-a-paharului.jpg" />
 
 
 
@@ -609,69 +536,69 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 
 #### 1.4.4.1. Cuiul : cuiul este un corp fiindcă are formă proprie și volum propriu.
 
-<Img src="chimie/clasa7/capitolul1/1_44_1_Cuiul.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_1_Cuiul.jpg" />
 
 ****
 
 #### 1.4.4.2. Fierul: fierul este o substanță fiindcă nu are formă proprie și poate lua mai multe forme: de cui, clanță, masă, scaun, dulap, etc.
 
-<Img src="chimie/clasa7/capitolul1/1_44_2_Fierul.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_2_Fierul.jpg" />
 
 
 ****
 
 #### 1.4.4.3. Apa dintr-un pahar: .......................
 
-<Img src="chimie/clasa7/capitolul1/1_44_3_ApaDinPahar.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_3_ApaDinPahar.jpg" />
 
 
 ****
 
 #### 1.4.4.4. Aerul dintr-un balon: .....................
 
-<Img src="chimie/clasa7/capitolul1/1_44_4_AerulDinBalon.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_4_AerulDinBalon.jpg" />
 
 
 ****
 
 #### 1.4.4.5. Apa râului: ................................
 
-<Img src="chimie/clasa7/capitolul1/1_44_5_ApaUnuiRau.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_5_ApaUnuiRau.jpg" />
 
 
 ****
 
 #### 1.4.4.6. Lemnul: ....................................
 
-<Img src="chimie/clasa7/capitolul1/1_44_6_Lemn.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_6_Lemn.jpg" />
 
 
 ****
 
 #### 1.4.4.7. Ochelari: ...................................
 
-<Img src="chimie/clasa7/capitolul1/1_44_7_Ochelari.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_7_Ochelari.jpg" />
 
 
 ****
 
 #### 1.4.4.8. Cuburi de gheaţă: ............................
 
-<Img src="chimie/clasa7/capitolul1/1_44_8_CuburiDeGheata.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_8_CuburiDeGheata.jpg" />
 
 
 ****
 
 #### 1.4.4.9. Sarea de bucătărie: ..........................
 
-<Img src="chimie/clasa7/capitolul1/1_44_9_SareaDeBucatarie.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_9_SareaDeBucatarie.jpg" />
 
 
 ****
 
 #### 1.4.4.10. Sarea din solniţă: ...........................
 
-<Img src="chimie/clasa7/capitolul1/1_44_10_SolnitaSare.jpg" />
+<Img className="img-responsive4" className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_10_SolnitaSare.jpg" />
 
 
 
@@ -751,7 +678,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### 1.5.3.1. ............................................... 
 
 
-<Img src="chimie/clasa7/capitolul1/1_53_1_PaharApaCuGheata_vers2.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_53_1_PaharApaCuGheata.jpg" />
 
 
 ****
@@ -759,7 +686,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### 1.5.3.2. ............................................... 
 
 
-<Img src="chimie/clasa7/capitolul1/1_53_2_Curcubeu.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_53_2_Curcubeu.jpg" />
 
 
 ****
@@ -767,7 +694,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### 1.5.3.3. ............................................... 
 
 
-<Img src="chimie/clasa7/capitolul1/1_53_3_Pahar-berzelius-pe-o-spirtiera.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_53_3_Pahar-berzelius-pe-o-spirtiera.jpg" />
 
 
 ****
@@ -776,7 +703,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### 1.5.3.4. ............................................... 
 
 
-<Img src="chimie/clasa7/capitolul1/1_53_4_Rugina.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_53_4_Rugina.jpg" />
 
 
 ****
@@ -820,7 +747,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### 1.5.3.9. ............................................... 
 
 
-<Img src="chimie/clasa7/capitolul1/1_53_9_ResortIntins.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_53_9_ResortIntins.jpg" />
 
 
 ****
@@ -829,7 +756,7 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 #### 1.5.3.10. .............................................. 
 
 
-<Img src="chimie/clasa7/capitolul1/1_53_10_Coclirea-cuprului.jpg" />
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_53_10_Coclirea-cuprului.jpg" />
 
 
 ****
@@ -895,8 +822,8 @@ Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
 - **Constante fizice**: 
   - **Temperatura de topire** (temperatura la care începe să se topească o substanță solidă=Tt);
   - **Temperatura de fierbere** (temperatura la care începe să fiarbă un lichid = Tv);
-  - **Densitatea**           <Img src="chimie/clasa7/capitolul1/1_61_2_Densitatea_equation_vme_23072020_131833.svg" />
-  - **Indicele de refracție**    <Img src="chimie/clasa7/capitolul1/1_61_2_IndiceRefractie_equation_vme_23072020_182920.svg" />
+  - **Densitatea**           <Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_61_2_FormulaDensitatii.jpg" />
+  - **Indicele de refracție**    <Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_61_2_FormulaIndiceluiDeRefractie.jpg" />
   - **Solubilitatea**;
   - **Duritatea** (se măsoară după o scară de duritate de la 1 la 10, numită „Scala lui Mohs”, în care talcul are 1 și diamantul cea mai mare duritate 10);
   - **Conductibilitatea electrică și termică** (trecerea curentului electric, respectiv a căldurii, fără deplasare de substanță).
@@ -1201,3 +1128,252 @@ Atenţie să nu te arzi! !  Nu uita să ai părul strâns la spate și fără m�
 #### 1.6.3.9. Ceața se formează prin condensarea vaporilor de apă din aer la suprafața pământului.
 #### 1.6.3.10. Gheața se topește în palmele copilului.
 
+
+
+
+
+## 1.7. Sinteză recapitulativă - Ce este chimia?
+
+
+
+
+
+1) Urmărește imaginile următoare și găsește ce reguli au fost încălcate și care ne-ar pune  în pericol viața:
+
+
+#### ..................................................... 
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_1_IncalzireaIncorectaAEprubetei.jpg" />
+
+
+****
+
+
+#### .....................................................
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_4_Maneci-largi-2.jpg" />
+
+
+****
+
+#### .....................................................
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_5_Mirosirea-incorecta.jpg" />
+
+
+****
+
+#### .....................................................
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_6_Par-desfacut.jpg" />
+
+
+****
+
+#### .....................................................
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_35_7_Incalzirea-incorecta-a-paharului.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+:::important
+
+
+
+**Materie. Corp. Substanță.**
+
+
+**Materia** reprezintă tot ceea ce ne înconjoară.
+
+
+#### Ea are două  forme de existență:
+
+#### •	Substanță sau material.
+
+#### •	Câmp: 
+- **gravitațional** (în jurul unei particule care are masă sau în jurul Pământului);
+- **electostatic** (în jurul unui corp electrizat);
+- **electric** (în jurul unui circuit electric );
+- **magnetic** (în jurul unui magnet sau unui circuit electric);
+- **electromagnetic** (generării reciproce a câmpului electric și al celui magnetic).
+
+
+
+**Corpul** reprezintă porțiunea de materie cu formă proprie și volum propriu (bine determinat).
+
+ 
+Exemple de corpuri: corpul omenesc, masa, scaun, casă, pahar cu lapte, etc.
+
+#### Corpurile sunt alcătuite din materie cu:
+
+- Compoziție (alcătuire) omogenă în toată masa sa numite **substanțe** (ex.metale, apa, oxigenul, dioxidul de carbon, diamant, sare de bucătarie,piatra vânătă, azotul, etc).
+- Compoziție  eterogenă (care nu este la fel) numite **materiale**. De exemplu: lemn (conține celuloză, lignină, apă), hârtie(celuloză), ciment, beton, porțelan, granit, materiale plastice, sticlă, etc.).
+
+
+
+
+
+Alege din următoarele enunțuri ce reprezintă fiecare: corp / substanță / material, după următorul model:
+
+
+
+#### Cuiul : cuiul este un corp fiindcă are formă proprie și volum propriu.
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_1_Cuiul2.jpg" />
+
+****
+
+#### Fierul: fierul este o substanță fiindcă nu are formă proprie și poate lua mai multe forme: de cui, clanță, masă, scaun, dulap, etc.
+
+<Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_44_2_Fierul.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**Fenomene fizice și chimice**
+
+
+**Fenomenele fizice** sunt transformările unui corp în urma cărora compoziția substanței din care este alcătuit corpul rămâne neschimbată.
+
+
+#### Exemple de fenomene fizice:
+
+#### •	Toate fenomenele care au loc cu schimbarea stării de agregare:
+
+- **Topirea** (trecerea substanței din stare solidă în stare lichidă, prin încălzire);
+- **Solidificarea** (trecerea substanței din stare lichidă în stare solidă, prin răcire);
+- **Vaporizarea** (trecerea substanței din stare lichidă în stare gazoasă, prin încălzire);
+- **Condensarea** (trecerea substanței din stare gazoasă în stare lichidă, prin răcire);
+- **Sublimarea** (trecerea substanței din stare solidă în stare gazoasă, prin încălzire);
+- **Desublimarea** (trecerea substanței din stare gazoasă în stare solidă, prin răcire).
+
+#### •	Deformarea (schimbarea formei);
+#### •	Mișcarea (schimbarea poziției față de reper);
+#### •	Încălzirea / Răcirea (schimbarea temperaturii);
+#### •  Dilatarea / Contractarea (schimbarea temperaturii și volumului);
+#### •	Colorarea (schimbarea culorii); 
+#### •	Sfărâmițarea (schimbarea dimensiunii cristalelor);
+#### •	Trecerea curentului electric printr-un circuit; 
+#### •	Interacțiune magneților sau a corpurilor electrizate (atracția sau respingerea); 
+#### •	Reflexia și Refracția luminii (întoarcerea luminii în primul mediu, respectiv trecerea luminii în al doilea mediu, cu schimbarea direcției de propagare), 
+#### •	Formarea curcubeului(descompunerea luminii albe în culorile curcubeului) etc.
+
+
+<br></br>
+<br></br>
+
+
+**Fenomenele chimice** sunt transformările care schimbă compoziția substanțelor, în urma lor rezultând alte substanțe.
+
+#### Exemple de fenomene chimice:
+
+#### •	Arderea combustibililor (transformarea substanței în prezența oxigenului în dioxid de carbon și apă);
+#### •	Ruginirea fierului (fierul se transformă în rugină, roșiatică);
+#### •	Coclirea cuprului (cupru se transformă în cocleală, verzulie, toxică);
+#### •	Fermentarea mustului (se obține vin);
+#### •	Acrirea vinului (se obține oțet);
+#### •	Fermentarea laptelui (se obține lapte bătut);
+#### •	Putrezirea plantelor (este cauzată de o ciupercă care distruge planta); 
+#### •	Fotosinteza (plantele în prezența luminii transformă dioxidul de carbon în oxigen);
+#### •	Carbonizarea zahărului;
+#### •	Oxidările lente din organism (respirația ființelor,  oxidarea grăsimilor, proteinelor şi a hidraţilor de carbon proveniţi din alimente).
+
+
+
+<br></br>
+<br></br>
+
+**Proprietăți fizice și chimice**
+
+
+Însușirile caracteristice, cu ajutorul cărora se recunoaște o substanță se numesc **proprietăți**.
+
+**Proprietăţile** pot fi fizice și chimice.
+
+**Proprietăţile fizice** sunt acele însușiri care se referă la aspectul sau la transformări care nu schimbă  compoziția substanței.
+
+
+**Proprietăţile fizice** se pot clasifica în:
+
+
+#### 1. **Observabile** cu ajutorul organelor de simț: 
+
+- **Prin văz**: 
+  - starea de agregare (solidă, lichidă,gazoasă);
+   - culoarea (incolor-fără culoare sau colorat);
+   - luciu (strălucirea).
+- **Prin miros**: 
+  - inodor(nu are miros);
+   - plăcut;
+   - iritant;
+   - miros specific (laptele, clorul, oțetul - spunem că au miros specific).
+- **Prin pipăit**: 
+  - plasticitate; 
+  - elasticitate;
+  - moale (duritate);
+  - tare (duritate).
+
+#### 2. **Măsurabile** cu ajutorul unor aparate: 
+
+- **Constante fizice**: 
+  - **Temperatura de topire** (temperatura la care începe să se topească o substanță solidă=Tt);
+  - **Temperatura de fierbere** (temperatura la care începe să fiarbă un lichid = Tv);
+  - **Densitatea**           <Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_61_2_FormulaDensitatii.jpg" />
+  - **Indicele de refracție**    <Img className="img-responsive4" src="chimie/clasa7/capitolul1/1_61_2_FormulaIndiceluiDeRefractie.jpg" />
+  - **Solubilitatea**;
+  - **Duritatea** (se măsoară după o scară de duritate de la 1 la 10, numită „Scala lui Mohs”, în care talcul are 1 și diamantul cea mai mare duritate 10);
+  - **Conductibilitatea electrică și termică** (trecerea curentului electric, respectiv a căldurii, fără deplasare de substanță).
+
+
+<br></br>
+<br></br>
+
+
+**Proprietăţile chimice** sunt acele însușiri care se referă la transformări care schimbă compoziția substanței.
+
+#### Exemple de proprietăţi chimice:
+
+
+#### •	Proprietatea de a arde (după arderea hârtiei, nu mai avem hârtie, avem cenușă);
+#### •	Proprietatea grăsimilor de a râncezi (râncezeala este o altă substanță decât uleiul nerâncezit);
+#### •	Proprietatea vinului de a se oțeti (oțetul este altă substanță decât vinul);
+#### •	Proprietatea laptelui de a se acri (laptele acru are altă compoziție și alte proprietăți decât laptele dulce);
+#### •	Proprietatea fierului de a rugini (rugina este altă substanță decât fierul);
+#### •	Proprietatea cuprului de a cocli (cocleala este o substanță diferită de cupru ;
+#### •	Proprietatea lemnului de a putrezi (putregaiul are altă compoziție decât lemnul).
+
+
+
+:::
+
+
+
+:::caution MODEL TEST Chimia știință a naturii
+
+1)	Ce fel de fenomene ( fizice/chimice) sunt următoarele fenomene ?-1p
+
+2)	Definește fenomenele care au loc cu schimbarea stării de agregare (topire/solidificare, vaporizare/condensare, sublimare/ desublimare) și explică ce fel de fenomene sunt.-1p
+
+3)	Alege pentru următoarele afirmații ce reprezintă, corp/ substanță.-1p
+
+4)	Pentru o anumită substanță, scrie două proprietăți fizice și două proprietăți chimice.-1,5
+
+5)	Desenează anumite ustensile de laborator.-1p
+
+6)	Urmărește imaginile următoare și găsește ce reguli au fost încălcate și care ne-ar pune  în pericol viața -1,5p
+
+7)	Ce riscuri au următoarele substanțe: inflamabile/ explozive, caustice /toxice/ iritante.-1p
+
+Oficiu-2p
+
+
+:::
+
+
+:::
