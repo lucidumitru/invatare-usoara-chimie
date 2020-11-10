@@ -1297,7 +1297,7 @@ Dizolvarea are loc mai repede dacă se agită componenții amestecului.
 
 <Img className="img-responsive4" src="chimie/clasa7/capitolul2/2_6_Poza6_TabelTema1.jpg" />
 
-Aranjează paharele în funcție de viteza de dizolvare a zahărului , de la cel mai rapid la cel mai lent. Explică răspunsul!
+Aranjează paharele în funcție de viteza de dizolvare a zahărului, de la cel mai rapid la cel mai lent. Explică răspunsul!
 
 :::
 
