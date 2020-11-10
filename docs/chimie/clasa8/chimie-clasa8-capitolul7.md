@@ -556,6 +556,163 @@ Ploaia nepoluată este slab acidă cu un pH mai mic de 7, dar nu mai mic de 5,6.
 
 
 
+:::tip Experiment
+
+**3.** Ce este ploaia acidă ?
+
+:::
+
+
+
+
+<Video src="https://www.youtube.com/embed/XSuNLehq9_o" />
+
+
+**Materiale necesare:** pahar Erlenmeyer prevăzut cu dop și tub, pahar Erlenmeyer cu apă, hârtie de pH, o țesătură, calcar, frunză, acid azotic concentrat, granulă de cupru.
+
+
+:::warning Atenţie
+
+Atenție când lucrezi cu surse de foc! Fă experimentul numai în prezenţa unui părinte!
+
+:::
+
+
+**Descrierea experimentului (Partea 1):** 
+
+- Pune acidul azotic și granula de cupru în paharul Erlenmeyer și astupă repede cu dopul prevăzut cu tub.
+
+- Așază tubul în paharul cu apă astfel încât dioxidul de azot rezultat în urma reacției dintre HNO<sub>3</sub> și Cu să intre în apă.
+
+- După terminarea reacției pune în paharul cu apă în care ai barbotat NO<sub>2</sub> hârtia de pH, frunza și bucata de țesătură.
+
+- Ce observi ?
+
+
+
+
+
+
+:::note Observaţie (Partea 1)
+
+Hârtia de pH arată un pH = 5.  
+
+:::
+
+<br></br>
+
+**Concluzia experimentului (Partea 1):**
+
+Dioxidul de azot cu apă și oxigenul din aer formează acid azotic.
+
+4NO<sub>2</sub> + 2H<sub>2</sub>O + O<sub>2</sub> = 4HNO<sub>3</sub>
+
+Ploaia cu dioxidul de azot din aer formează un acid , având un caracter acid pronunțat.
+
+
+
+
+**Descrierea experimentului (Partea 2):**
+
+- Lasă frunza, calcarul și țesătura mai multe zile în apa cu acidul azotic format. 
+
+- Ce observi ?
+
+
+
+:::note Observaţie (Partea 2)
+
+Frunza s-a pătat, țesătura s-a decolorat, iar calcarul a devenit sfărâmicios.  
+
+:::
+
+
+<br></br>
+
+
+**Concluzia experimentului (Partea 2):**
+
+Ploaia acidă este o precipitație cu caracter acid(amestec de acid azotic cu acid sulfuros), având un pH mai mic decât 5,6 și care se formează prin reacția apei de ploaie cu oxizii de azot și de sulf din aerul poluat.  
+
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza2_PloaiaAcida.jpg" />
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+:::caution EFECTELE  PLOILOR  ACIDE
+
+**1) EFECTUL  ASUPRA  ATMOSFEREI**
+
+Constituenții poluarii acide există ca particule în aer și contribuie la formarea ceții (smogului), afectând vizibilitatea. Aceasta face deplasarea dificilă, în special pentru piloți. Ceața acidă împiedică de asemenea cursul luminii solare de la soare la pământ și înapoi. În zona arctică, aceasta afectează creșterea lichenilor, care la rândul ei, afectează renii și alte animale care se hrănesc cu licheni.
+
+
+
+<br></br>
+
+
+
+
+
+
+**2) EFECTUL  ASUPRA  ARHITECTURII**
+
+ Ploile acide sunt un pericol constant şi la adresa clădirilor şi monumentelor istorice ridicate de om. În special statuile sau edificiile din marmură sau calcar, roci care conţin cantităţi mari de carbonat de calciu, sunt afectate de aciditatea crescută a precipitaţiilor. Acizii din picăturile de ploaie reacţionează în timp cu compuşii de calciu din aceste roci, ceea ce duce la apariţia unui strat de gips (sulfat de calciu, care este sfărâmicios). Nici metalele nu sunt cruţate: ploile acide distrug straturile protectoare de vopsea şi corodează metalul. În special fierul, oţelurile, cuprul şi bronzul sunt vulnerabile la acţiunea picăturile acide.
+
+
+
+<br></br>
+
+
+
+
+
+
+
+**3) EFECTUL  ASUPRA  MATERIALELOR**
+ 
+Ploaia acidă distruge și materialele precum țesăturile. De exemplu, steagurile arborate sunt “mâncate” de chimicalele acide din precipitatii. Cărțile si obiectele de artă, vechi de sute de ani, sunt de asemenea afectate. Sistemele de ventilație ale librăriilor și muzeelor, în care sunt ținute acestea, nu previn intrarea particulelor acide în clădiri și astfel ele intră, circulă și deteriorează materialele.
+
+
+
+<br></br>
+
+**4) EFECTUL  ASUPRA  OAMENILOR**
+
+Unele dintre cele mai serioase efecte ale ploii acide asupra oamenilor sunt problemele respiratorii. Emisiile de dioxid de sulf și dioxid de azot dau naștere unor probleme medicale precum tusea, astmul, dureri de cap, iritații ale ochilor, nasului și gâtului. 
+
+
+
+<br></br>
+
+
+
+**5) EFECTUL  ASUPRA  COPACILOR  ȘI  SOLURILOR**
+ 
+Unul dintre cele mai serioase impacte ale precipitațiilor acide este cel asupra pădurilor și solurilor. Pagube majore se produc atunci cand acidul sulfuric cade pe pamant sub forma de ploaie. Substanțele nutritive aflate în soluri sunt îndepartate. Aluminiul, de asemenea prezent în sol este eliberat și acest element toxic poate fi absorbit de rădăcinile copacilor. Astfel, copacii sunt sortiți morții, fiind privați de nutritivi vitali, precum calciul și magneziul. 
+
+<br></br> 
+
+
+**6) EFECTUL  ASUPRA  LACURILOR  ȘI  ECOSISTEMELOR ACVATICE**
+
+Ploaia acidă care cade pe pământ, spală substanțele nutritive din sol și poartă metalele toxice eliberate din sol spre lacuri.
+
+O altă cale prin care acizii ajung în lacuri se petrece primavara, prin topirea zăpezilor, când acizii și chimicalele pătrund în sol, fiind purtate spre râuri și lacuri. Aceasta cauzează o schimbare drastică a pH-ului lacurilor.Multe dintre aceste specii își depun ouăle în apă. La un nivel al pH-ului de 5, majoritatea ouălor de pește nu vor supraviețui, iar la un nivel mai scăzut de pH, peștii adulți pot muri. Peștii, fiind membrii primari ai lanțului trofic, reprezintă hrana pentru multe specii de animale, printre care se numără și omul.
+ 
+
+
+
+
+
+
+:::
 
 
 
