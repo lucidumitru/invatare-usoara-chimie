@@ -1202,7 +1202,494 @@ Sticla era cunoscută în Orient din anul 4000 î.Hr.
 
  
  
+<br></br>
+<br></br>
 
+
+
+## VII.7. Importanța ionilor metalici pentru organismul uman. Ioni metalici toxici pentru om.
+
+
+Organismul uman este alcătuit din aproximativ 25 de elemente chimice. Dintre acestea, oxigenul reprezintă aproximativ 65%, carbonul 18,5%, hidrogenul 9,5% și azotul 3,2%. Urmează un grup de elemente care se găsesc în procente cuprinse între 0,1% și 1,5%, numite oligoelemente.
+
+
+
+**Oligoelementele** sunt elemente chimice care se găsesc și intervin în cantități infime în metabolismul ființelor, îndeplinind, în unele procese biologice, rolul de catalizator, fiind astfel necesar pentru dezvoltarea lor. Dintre acestea, importanță deosebită o au unele metale prezente sub formă ionică în lichidele intra și extracelulare și anume ionii de sodiu, de potasiu, de calciu, de magneziu, de fier și de cobalt, etc.
+
+#### Importanța unor ioni metalici :
+
+**1) Ionul de sodiu(Na<sup>+1</sup>):**
+
+- reglarea distribuției apei în organism;
+
+- contribuie la buna funcționare a sistemelor nervos și muscular;
+
+- contribuie la absorbția ionilor de calciu în sânge;
+
+- mărește rezistența organismului la efort fizic sau nervos.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza1_IonulDeSodiu.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza2_IonulDeSodiu_Sarea.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**2) Ionul de potasiu(K<sup>+1</sup>):**
+
+- are rol important în transmiterea influxului nervos, în contracția musculară;
+
+- alături de calciu şi magneziu, controlează contracţia miocardului.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza3_IonulDePotasiu.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza4_IonulDePotasiu_Banane.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+**3) Ionul de calciu(Ca<sup>+2</sup>):**
+
+- are importanță deosebită în formarea sistemului osos și a danturii;
+
+- contribuie la reglarea bătăilor inimii, reglează tensiunea arterială;
+
+- are rol în coagularea sângelui.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza5_IonulDeCalciu.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza6_IonulDeCalciu_Branzeturi.jpg" />
+
+<br></br>
+<br></br>
+
+**4) Ionul de magneziu(Mg<sup>+2</sup>):**
+
+- contribuie la menținerea unui nivel optim de glucoză în sânge;
+
+- acționează asupra mușchilor;
+
+- contribuie la sănătatea sistemului osos prin rolul pe care îl are în procesul de absorbție a calciului;
+
+- ajută la menținerea unui nivel de energie optim;
+
+- sistem imunitar sănătos.
+
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza7_IonulDeMagneziu.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza8_IonulDeMagneziu_Seminte.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**5) Ionul de fier(Fe<sup>+2</sup>):**
+
+- este necesar pentru formarea hemoglobinei;
+
+- asigură secreția gastrică și respirația celulară;
+
+- are acțiune antioxidantă;
+
+- ajută la creșterea armonioasă. 
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza9_IonulDeFier.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza10_IonulDeFier_Ficatei.jpg" />
+
+
+
+
+
+<br></br>
+<br></br>
+
+**6) Ionul de cobalt(Co<sup>+2</sup>):** se manifestă prin rolul său în vitamina B12, numită şi cobalamină.
+
+- Aceasta are rol în funcţionarea sistemelor hematologic şi nervos, având rol în sinteza hemoglobinei.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza11_IonulDeCobalt.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza12_IonulDeCobalt_SfeclaRosie.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**7) Ionul de zinc(Zn<sup>+2</sup>):**
+
+- sinteza colagenului care contribuie la refacerea pielii, creșterea părului,unghiilor, etc.
+ 
+- mărește imunitatea;
+
+- descompunerea alcoolului.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza13_IonulDeZinc.jpg" />
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza14_IonulDeZinc_Oua.jpg" />
+
+<br></br>
+<br></br>
+
+**8) Ionul de crom (Cr<sup>+2</sup>) :**
+
+- Metabolismul glucozei.
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza15_IonulDeCrom.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza16_IonulDeCrom_Broccolli.jpg" />
+
+<br></br>
+<br></br>
+
+**9) Ionul de cupru (Cu<sup>+2</sup>):**
+
+- funcționarea sistemelor nervoase, imune și circulatorii ale corpului;
+
+- la elasticitatea vaselor de sânge și la funcțiile de formare a colagenului, care este o componentă structurală importantă a pielii și a oaselor.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza17_IonulDeCupru.jpg" />
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza18_IonulDeCupru_Fisitic.jpg" />
+
+<br></br>
+<br></br>
+
+
+**10) Ionul de seleniu(Se<sup>+2</sup>):**
+
+- Componentă în 30-50 proteine de seleniu pentru mărirea imunității.
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza19_IonulDeSeleniu.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza20_IonulDeSeleniu_Carne.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+:::important
+
+În concluzie, alimentația este cea mai importantă pentru o sănătate de fier și o bună vitalitate.
+
+Alimentația omului trebuie să fie diversă, bogată în fructe și legume proaspete, ouă, lactate și carne slabă în grăsimi, pește, semințe, etc.
+
+
+
+:::
+
+<br></br>
+<br></br>
+
+
+
+
+**Ioni metalici toxici pentru om.**
+
+Metalele grele (care au masa atomică mare) sunt considerate ca importanţi poluanţi toxici, care intrând în circuitele biogeochimice se acumulează în ecosisteme naturale şi artificiale. Metalele sunt eliberate continuu în biosferă de erupţii vulcanice, intemperii naturale de roci, dar de asemenea, de numeroase activităţi umane ca mineritul, arderea combustibililor fosili, apă uzată industrială şi urbană şi a practicilor agricole (fertilizatorii din agricultură și a hormonilor de creștere în zootehnie și piscicultură, a fungicidelor și pesticidelor), deșeurile industriale, emisiile auto, au ca efect acumularea de substanțe toxice în organismele vii.
+
+Asimilate de organismele vegetale și de microplancton, metalele grele se acumulează pe traseul lanțurilor trofice, ajungând, adesea, în cantități dăunătoare în organismul uman.
+
+**Toxicitatea compușilor de plumb** depinde de solubilitatea în apă și în acizi dar și în sânge. Carbonatul bazic de plumb fiind foarte solubil în plasmă este cel mai toxic compus al plumbului. În schimb silicații și sulfura de plumb, insolubili, nu sunt toxici.
+
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza21_TeavaPlumb.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza22_BandaPlumb.jpg" />
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza23_SurseDeIntoxicarePlumb.jpg" />
+
+
+
+Plumbul şi compuşii acestuia sunt introduși în corp prin ingestie sau inhalare, pot fi absorbiţi prin contactul cu pielea. Fiind foarte asemănător din punct de vedere chimic cu calciul, odată intrat în organism, este „confundat” de acesta cu calciul. Se acumulează, în special, în ţesuturile organismului unde calciul joacă un rol important, cum ar fi dinţii, oasele, etc.
+
+
+:::warning Atenție
+
+**Intoxicația cu plumb (saturnismul)** poate determina afectare permanentă neurologică şi cognitivă a copiilor. Ȋn cazul adulților, expunerea la plumb indică afecțiuni cronice, cardio-vasculare sau renale.  Expunerea ȋn cazul femeilor gravide interferă cu dezvoltarea normală a sarcinii.
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+**Toxicitatea mercurului** afectează sănătatea oamenilor. Din cauza toxicității sale, în Europa mercurul este în curs de a fi eliminat din produse. 
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza24_TermometruCuMercur.jpg" />
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_7_Poza25_SurseDeIntoxicareCuMercur.jpg" />
+
+
+
+Calea de intrare a mercurului sau compușilor acestuia poate fi cutanată, digestivă sau inhalatorie, cea din urmă fiind forma frecventă de expunere în mediul industrial.
+
+
+
+:::warning Atenție
+
+**Simptomele intoxicatiei cu mercur :**
+
+- iritații cutanate și inflamație la nivelul pielii
+
+- problemele de memorie sau chiar de gândire
+
+- tremurul, problemele de coordonare, probleme cu menținerea echilibrului,  slăbiciunea musculară
+ 
+- din cauza acumularii mercurului la nivel pulmonar pot aparea probleme de respirație serioase
+
+- inhalarea vaporilor de mercur, poate afecta creierul și sistemul nervos, cauzând probleme neurologice precum: dureri de cap, pierderea vederii.
+
+
+:::
+
+
+
+:::note Observație importantă
+
+
+Există și metale ușoare care în anumite circumstanțe pot deveni toxice, unele fiind esențiale, cum sunt: fierul, seleniul, cuprul, cromul, zincul. Mai sunt metale folosite terapeutic în medicină: aluminiul, bismutul, aurul, galiul, litiul și argintul. Oricare dintre aceste elemente pot avea efecte negative dacă sunt administrate în cantități mari sau dacă mecanismele de eliminare ale corpului sunt limitate.
+
+Unele metale grele sunt esenţiale în diferite procese biochimice (exemplu : Zn, Cu, Cr, Fe, Mn și sunt necesare în cantităţi mici pentru organism, dar care devin toxice pentru organism în cantităţi mari.
+
+De exemplu, zincul este un oligoelement esenţial, component al mai multor sisteme enzimatice. Deficitul de zinc determină lipsa poftei de mâncare, tulburări de creştere, căderea părului, întârzierea procesului de vindecare a rănilor,etc. Expunerea acută la oxid de zinc determină iritaţia tractului respirator, tuse, dureri toracice, greață, etc.
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+## VII.8. Îngrășămintele chimice.
+
+
+**Îngrășămintele chimice** sunt substanțe care conțin unul sau mai multe elemente chimice nutritive, în scopul sporirii fertilității solului și al creșterii producției vegetale.
+ 
+Îngrășămintele chimice pot fi naturale sau artificiale.
+ 
+Dintre elementele nutritive, **azotul, fosforul şi potasiul** sunt elemente indispensabile creşterii plantelor. **NPK** înseamnă azot (N), fosfor (P) și potasiu (K). Azotul este necesar plantelor pentru creștere. Fosforul asigură flori, frunze și fructe sănătoase. Potasiul asigură rădăcini puternice.  
+
+Dacă unul din aceste elemente este în cantitate mai mică, planta nu se dezvoltă normal, chiar dacă celelalte două sunt în exces.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza1_NPK.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza2_ActiuneaAzotuluiAsupraPlantelor.jpg" />
+
+Carența în azot se manifestă mai întâi pe frunzele mature. Acestea se îngălbenesc, începând de la vârf și margini, apoi se veștejesc, se necrozează și în cele din urmă, se usucă. Rădăcinile sunt lungi și cu puține ramificații. Tulpinile sunt scurte și subțiri. Înflorirea este slabă, se scurtează perioada de înflorit. Semințele sau fructele sunt puține și mici, de calitate slabă cu conținut scăzut de proteine, în special la cereale.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza3_CarentaInAzot.jpg" />
+
+
+Azotul este asigurat plantelor folosind ca îngrășăminte chimice:
+ 
+- azotatul de amoniu,
+ 
+- azotatul de sodiu,
+ 
+- sulfatul de amoniu,
+ 
+- azotatul de calciu.
+
+
+
+<br></br>
+<br></br>
+
+
+
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza4_ActiuneaPotasiuluiAsupraPlantelor.jpg" />
+
+
+Carența potasiului scade resistența plantelor la secetă, acestea căpătând un aspect de ofilit. Scade rezistența plantelor la cădere și la unele boli. La pomi are loc o înflorire slabă, fructele sunt mici. La vița de vie strugurii sunt puternic atacați de boli, boabele mucegăiesc și putezesc.
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza5_CarentaDePotasiu.jpg" />
+
+
+**Potasiul este asigurat plantelor folosind ca îngrășăminte chimice:** 
+
+- azotatul de potasiu,
+ 
+- clorura de potasiu,
+
+- fosfatul diacid de potasiu,
+ 
+- fosfatul monoacid de potasiu.
+
+
+
+
+<br></br>
+<br></br>
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza6_ActiuneaFosforuluiAsupraPlantelor.jpg" />
+
+
+O cultură ce se confruntă cu o lipsă de fosfor va avea o creștere lentă și o vigoare scăzută. Frunzele bătrâne vor avea o culoare verde închis și o pigmentare purpurie.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_8_Poza7_CarentaDeFosfor.jpg" />
+
+
+**Fosforul este asigurat plantelor folosind ca îngrășăminte chimice:** 
+
+- fosfatul de calciu și oxidul de calciu (făina lui Thomas),
+ 
+- fosfatul monoacid de calciu hidratat (precipitatul).
+
+
+
+:::warning Atenție
+
+Dacă îngrășămintele chimice sunt utilizate timp îndelungat, iar în unele cazuri în exces, apar o serie de fenomene negative, printre care un conţinut ridicat de azotaţi în plante faţă de nivelul normal. Azotaţii se transformă în azotiți în rădăcinile şi frunzele plantelor. Prin intermediul furajelor, azotații și azotiții ajung şi în organismul animalelor și apoi în alimentaţia omului. Apar, astfel, cazuri de îmbolnăviri la animale şi oameni.
+
+
+:::
+
+
+
+<br></br>
+<br></br>
+
+
+
+## VII.9. Deșeurile.
+
+**Deșeurile** sunt resturi materiale rezultate dintr-un proces tehnologic (sau casnic) de realizare a unui anumit produs, care nu mai pot fi valorificate direct în realizarea produsului respectiv. Ele pot fi substanțe, materiale, obiecte, resturi de materii prime provenite din activitatile economice, menajere și de consum. Majoritatea activităților umane reprezintă și surse de producere de deșeuri.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza1_TipuriDeDeseuri.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+:::warning Atenție! Deșeurile periculoase pentru oameni și mediu:
+
+- **Bateriile și acumulatorii** (de la telefon, de la mașini, laptopuri) conțin metale toxice : mercur, plumb, litiu, cadmiu, nichel, etc.
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza2_Baterii.jpg" />
+
+
+- **Becurile fie ele incandescente, LED sau fluorescente** conțin substanțe și gaze toxice care amenință mediul și sănătatea noastră, dintre care principalul este mercurul.
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza3_BecCuMercur.jpg" />
+
+
+- **Medicamentele expirate** (antibioticele, antidepresive, preparatele hormonale) aruncate la gunoi pot fi înghițite accidental de către copii și sunt un adevărat pericol asupra mediului înconjurător.
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza4_MedicamenteExpirate.jpg" />
+
+
+:::
+
+
+Deocamdată, doar o parte dintre deșeurile periculoase sunt colectate separat si reciclate. Este vorba despre uleiul de motor, bateriile auto, bateriile telefoanelor mobile. Restul, cum ar fi medicamentele, ierbicidele, pesticidele, vopselele, nu sunt deocamdată colectate separat. 
+
+
+:::important Ce pot face eu pentru un mediu sănătos ?
+
+- Limitează utilizarea produselor periculoase, înlocuind o parte din ele cu unele mai puțin dăunătoare. Încearcă alternative ecologice la detergenții obișnuiți. Încearcă să eviți folosirea produselor care au pe etichete următoarele simboluri:
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza5_ProdusePericuloase.jpg" />
+
+
+- În loc de baterii obișnuite, cumpără baterii reîncarcabile sau acumulatori. Nu arunca la gunoi bateriile, becurile și aparatele electrocasnice uzate. Folosește becurile LED care nu conțin substanțe periculoase și pot fi ușor reciclate. Du-le la centrele specializate (în școli există astfel de centre).
+
+- Du înapoi la farmacie medicamentele expirate sau care nu îți mai sunt necesare.
+ 
+- Folosește vopsea pe bază de apă, nu de solvenți.
+ 
+- Cumpară produse doar în cantitatea de care ai nevoie.
+ 
+- Nu arde, nu arunca deșeuri direct pe sol sau în cursurile de apă .
+
+- Colectează selectiv deșeurile pe categorii, urmând ca mai apoi să le depui în pubelele amenajate și inscripționate pentru diversele categorii :
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza6_ColecteazaSelectiv.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+- Protejează mediul în care trăiești!
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza7_TomberoaneColorate.jpg" />
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+**Deșeurile reziduale** sunt totalitatea deșeurilor care nu se pot recicla. 
+
+Aceste deșeuri se depoziteaza in **recipientul gri** (sau inscriptionat adecvat), destinat precolectarii deseurilor menajere.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza8_DeseuriPericuloase.jpg" />
+
+
+<br></br>
+<br></br>
+<br></br>
+
+
+**Deșeurile reciclabile** se vor depozita în recipientul galben (sau inscriptionat adecvat) / **sacul galben.**
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza9_DeseuriReciclabile.jpg" />
+
+<br></br>
+<br></br>
+<br></br>
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_9_Poza10_PrivesteInViitor.jpg" />
 
 
 
