@@ -653,6 +653,9 @@ Ploaia acidă este o precipitație cu caracter acid(amestec de acid azotic cu ac
 Constituenții poluarii acide există ca particule în aer și contribuie la formarea ceții (smogului), afectând vizibilitatea. Aceasta face deplasarea dificilă, în special pentru piloți. Ceața acidă împiedică de asemenea cursul luminii solare de la soare la pământ și înapoi. În zona arctică, aceasta afectează creșterea lichenilor, care la rândul ei, afectează renii și alte animale care se hrănesc cu licheni.
 
 
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza3_Ceata.jpg" />
+
+
 
 <br></br>
 
@@ -663,9 +666,10 @@ Constituenții poluarii acide există ca particule în aer și contribuie la for
 
 **2) EFECTUL  ASUPRA  ARHITECTURII**
 
- Ploile acide sunt un pericol constant şi la adresa clădirilor şi monumentelor istorice ridicate de om. În special statuile sau edificiile din marmură sau calcar, roci care conţin cantităţi mari de carbonat de calciu, sunt afectate de aciditatea crescută a precipitaţiilor. Acizii din picăturile de ploaie reacţionează în timp cu compuşii de calciu din aceste roci, ceea ce duce la apariţia unui strat de gips (sulfat de calciu, care este sfărâmicios). Nici metalele nu sunt cruţate: ploile acide distrug straturile protectoare de vopsea şi corodează metalul. În special fierul, oţelurile, cuprul şi bronzul sunt vulnerabile la acţiunea picăturile acide.
+Ploile acide sunt un pericol constant şi la adresa clădirilor şi monumentelor istorice ridicate de om. În special statuile sau edificiile din marmură sau calcar, roci care conţin cantităţi mari de carbonat de calciu, sunt afectate de aciditatea crescută a precipitaţiilor. Acizii din picăturile de ploaie reacţionează în timp cu compuşii de calciu din aceste roci, ceea ce duce la apariţia unui strat de gips (sulfat de calciu, care este sfărâmicios). Nici metalele nu sunt cruţate: ploile acide distrug straturile protectoare de vopsea şi corodează metalul. În special fierul, oţelurile, cuprul şi bronzul sunt vulnerabile la acţiunea picăturile acide.
 
 
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza4_CladiriDeteriorate.jpg" />
 
 <br></br>
 
@@ -679,6 +683,7 @@ Constituenții poluarii acide există ca particule în aer și contribuie la for
  
 Ploaia acidă distruge și materialele precum țesăturile. De exemplu, steagurile arborate sunt “mâncate” de chimicalele acide din precipitatii. Cărțile si obiectele de artă, vechi de sute de ani, sunt de asemenea afectate. Sistemele de ventilație ale librăriilor și muzeelor, în care sunt ținute acestea, nu previn intrarea particulelor acide în clădiri și astfel ele intră, circulă și deteriorează materialele.
 
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza5_SteagDeteriorat.jpg" />
 
 
 <br></br>
@@ -687,7 +692,7 @@ Ploaia acidă distruge și materialele precum țesăturile. De exemplu, steaguri
 
 Unele dintre cele mai serioase efecte ale ploii acide asupra oamenilor sunt problemele respiratorii. Emisiile de dioxid de sulf și dioxid de azot dau naștere unor probleme medicale precum tusea, astmul, dureri de cap, iritații ale ochilor, nasului și gâtului. 
 
-
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza6_PersoanaBolnavaDeAstm.jpg" />
 
 <br></br>
 
@@ -697,6 +702,8 @@ Unele dintre cele mai serioase efecte ale ploii acide asupra oamenilor sunt prob
  
 Unul dintre cele mai serioase impacte ale precipitațiilor acide este cel asupra pădurilor și solurilor. Pagube majore se produc atunci cand acidul sulfuric cade pe pamant sub forma de ploaie. Substanțele nutritive aflate în soluri sunt îndepartate. Aluminiul, de asemenea prezent în sol este eliberat și acest element toxic poate fi absorbit de rădăcinile copacilor. Astfel, copacii sunt sortiți morții, fiind privați de nutritivi vitali, precum calciul și magneziul. 
 
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza7_CopaciDistrusi.jpg" />
+
 <br></br> 
 
 
@@ -704,8 +711,9 @@ Unul dintre cele mai serioase impacte ale precipitațiilor acide este cel asupra
 
 Ploaia acidă care cade pe pământ, spală substanțele nutritive din sol și poartă metalele toxice eliberate din sol spre lacuri.
 
-O altă cale prin care acizii ajung în lacuri se petrece primavara, prin topirea zăpezilor, când acizii și chimicalele pătrund în sol, fiind purtate spre râuri și lacuri. Aceasta cauzează o schimbare drastică a pH-ului lacurilor.Multe dintre aceste specii își depun ouăle în apă. La un nivel al pH-ului de 5, majoritatea ouălor de pește nu vor supraviețui, iar la un nivel mai scăzut de pH, peștii adulți pot muri. Peștii, fiind membrii primari ai lanțului trofic, reprezintă hrana pentru multe specii de animale, printre care se numără și omul.
+O altă cale prin care acizii ajung în lacuri se petrece primavara, prin topirea zăpezilor, când acizii și chimicalele pătrund în sol, fiind purtate spre râuri și lacuri. Aceasta cauzează o schimbare drastică a pH-ului lacurilor. Multe dintre aceste specii își depun ouăle în apă. La un nivel al pH-ului de 5, majoritatea ouălor de pește nu vor supraviețui, iar la un nivel mai scăzut de pH, peștii adulți pot muri. Peștii, fiind membrii primari ai lanțului trofic, reprezintă hrana pentru multe specii de animale, printre care se numără și omul.
  
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza8_PestiMorti.jpg" />
 
 
 
@@ -713,6 +721,487 @@ O altă cale prin care acizii ajung în lacuri se petrece primavara, prin topire
 
 
 :::
+
+
+<br></br>
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza9_SurseDePoluare.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+
+Dintre gazele rezultate în procesele de ardere a combustibililor, dioxidul de carbon contribuie cel mai mult la producerea efectului de seră, dar și freonii, metanul, etanul, oxizii de azot, oxizii de sulf, ozonul,etc. 
+
+Aceste gaze din atmosfera Pământului se comportă ca pereții unei sere - captează și rețin căldura soarelui reflectată de Pământ, astfel încât aceasta nu mai este eliberată înapoi spațiu.
+
+
+:::important Definiție
+
+**Efectul de seră** este procesul de încălzire a planetei din cauza razelor reflectate de gazele de seră din atmosferă înapoi spre suprafața Pământului.
+
+
+:::
+
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_3_Poza10_DesenEfectSera.jpg" />
+
+
+<br></br>
+
+
+Cauza principală a  efectului de seră constă în acea cantitate enormă de dioxid de carbon și altor substanțe cu efect de seră ce se acumulează în stratul aerian formând o „plapumă”. Ele dau posibilitate razelor ultraviolete  și infraroșii de la Soare să treacă foarte ușor, ajungând la suprafața solului. Aceste raze se transformă în energie termică, iar energia termică de la suprafața solului prin acest strat trece mult mai greu în așa fel încât se creează situația – cu cât plapuma este mai groasă cu atât sub ea este mai cald.
+
+<br></br>
+
+
+
+
+ 
+:::tip Experiment
+ 
+ **4.** Efectul de seră
+ 
+:::
+ 
+ 
+ 
+ 
+<Video src="https://www.youtube.com/embed/spoT6Vc907o" />
+ 
+
+<br></br>
+
+**Materiale necesare:** 2 borcane (pahare), termometru, folie de plastic, calorifer.
+ 
+ 
+ 
+ 
+**Descrierea experimentului:** 
+ 
+
+- Măsoară temperatura apei de la robinetul de apă rece.
+
+- Pune aceeași cantitate de apă în fiecare borcan.
+
+- Acoperă unul dintre borcane cu o folie de plastic și așază-le pe un calorifer. Dacă este Soare, așază cele două borcane în bătaia razelor solare.
+
+- Măsoară temperatura apei din cele două borcane după aproximativ o oră. 
+
+- Cum sunt temperaturile apei din cele două borcane ?
+
+
+
+ 
+ 
+ 
+ 
+:::note Observaţie
+ 
+Temperatura apei din borcanul acoperit cu folie este mai mare decât cea a apei din borcanul neacoperit.
+ 
+:::
+ 
+<br></br>
+
+
+**Concluzia experimentului:**
+
+Folia de plastic acționează asemănător cu folia care acoperă o seră. În același mod, gazele cu efect de seră păstrează o parte din căldura provenită de la soare. Borcanul cu apă joacă rolul Pământului care reflectă radiația infraroșie primită de la Soare. Folia de plastic joacă rolul gazelor de seră care întorc (reflectă) radiația reflectată de Pământ, ducând la încălzirea globală a Pământului.  
+
+
+<br></br>
+
+
+Din cauza efectului de seră se așteaptă ca, temperatura globală să crească, fapt care are multe consecințe dezastroase:
+
+- schimbarea tiparul climatic,
+ 
+- afectarea producției agricole,
+ 
+- modificare distribuției animalelor și plantelor,
+ 
+- topirea ghețarilor și creșterea nivelul mării.
+ 
+Astfel, în 2016 a avut loc Acordul de la Paris, o înțelegere între 73 de țări care are ca scop păstrarea creșterii temperaturii globale sub două grade Celsius și scăderea emisiilor de dioxid de carbon provenite din arderea de combustibili fosili.
+
+ 
+ 
+:::caution  Măsuri de prevenire a formării ploilor acide  și a combaterii efectului de seră:
+
+- Tot mai multe termocentrale pe cărbuni folosesc tehnologii de desulfurizare, pentru a "curăţa" gazele emise de sulf. O astfel de staţie de desulfurizare poate elimina circa 95% din conţinutul de sulf al gazelor emise în atmosferă.
+
+- Folosirea mașinilor ecologice, a bicicletelor și trotinetelor electrice.
+
+- Îmbunătățirea calității carburanților.
+
+- Folosirea transportului în comun.
+
+- Reducerea consumului de energie prin achiziționarea de aparate electrocasnice care consumă puțină energie electrică ( clasa A) și oprirea aparatelor și becurilor când nu avem nevoie de ele.
+
+
+
+:::
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+## VII.4. Energia corpului omenesc prin arderea glucozei. 
+
+
+**De unde își ia omul energie? Hrana este principala sursă de energie a tuturor ființelor.** 
+
+În principal alimentele conțin trei mari categorii de substanțe organice:
+- zaharide(zaharuri),
+- lipide (grăsimi) și
+- proteine. 
+
+Toate acestea, prin ardere cu oxigenul din sânge, dau energia necesară omului.
+
+Zaharidele sau glucidele (hidrații de carbon) sunt:
+- glucoza,
+- zaharoza și
+- amidonul.
+
+
+Când lumina Soarelui cade pe frunzele plantelor, clorofila transformă apa și dioxidul de carbon în glucoză (C6H12O6) și oxigen.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_4_Poza1_ReactieLaLuminaSolara.jpg" />
+
+
+
+Glucoza produsă de plante prin fotosinteză este transformată în alți compuși, precum celuloza și amidonul. Tulpinile plantelor, trunchiul copacilor conțin celuloză, iar amidonul se depozitează în rădăcini sau semințe. Amidonul servește drept hrană pentru oameni.
+
+
+Când mâncăm, organismul transformă o parte din alimente în glucoză, pe care o trimite în sânge. Glucoza este folosită imediat pentru asigurarea energiei necesare organismului sau este stocată pentru a fi utilizată mai târziu. Rezerva de glucoză este depozitată în ficat. Când cantitatea de glucoză din sânge este prea mare, omul are diabet.
+
+
+:::important
+
+Reacția de ardere a glucozei este o reacția exotermă, obținându-se dioxid de carbon, apă și energie (Q) care se va trece la produșii de reacție:
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_4_Poza2_ReactieDeArdereAGlucozei.jpg" />
+
+
+
+:::
+
+
+
+:::caution Aplicații
+
+
+Glucoza este prezentă în fructe dulci, legume, în dulciuri și produse alimentare care conțin amidon: cartofi, orez, cereale de orice fel, paste, pâine. Glucoza poate fi obținută de organism din orice aliment și are o importanță deosebită pentru om, fiind principala sursă de energie a acestuia.
+
+Glucoza se folosește la obținerea alcoolului etilic, la obținerea oglinzilor, în alimentație ca înlocuitor al zahărului, în medicină pentru perfuzii, etc. 
+
+
+
+:::
+
+
+<br></br>
+
+
+
+
+:::tip Experiment
+ 
+ **5.** Argintarea eprubetei cu glucoză?
+ 
+:::
+ 
+ 
+ 
+ 
+<Video src="https://www.youtube.com/embed/FdNkgp3I4Lk" />
+ 
+
+<br></br>
+
+**Materiale necesare:** eprubetă foarte curată, azotat de argint, soluție de amoniac, soluție de glucăză, spirtieră, clește de lemn, pahar cu apă caldă, trepied, sită azbest.
+ 
+ 
+ 
+ 
+**Descrierea experimentului:** 
+ 
+
+- Pune cu spatula câteva cristale de azotat de argint în eprubetă și adaugă soluție de amoniac până când precipitatul format se dizolvă.
+
+- Adaugă 2-3 mL de soluție de glucoză.
+
+- Introdu eprubeta într-un pahar cu apă caldă așezat pe sita cu trepied, la flacăra spirtierei. 
+
+- Ce observi ?
+
+ 
+ 
+ 
+ 
+:::note Observaţie
+ 
+Pe pereții eprubetei se depune argint.
+ 
+:::
+ 
+<br></br>
+
+
+**Concluzia experimentului:**
+
+Prin reacția dintre glucoză și azotatul de argint amoniacal se obține o oglindă de argint.  
+
+
+
+:::caution Aplicații
+
+Unitatea de măsură pentru energie este joulul (J).
+ 
+O altă unitate de măsură pentru energie este caloria:  1 cal = 4,18 J
+
+Noi, oamenii, spunem de multe ori că suntem plini de energie și suntem capabili să facem eforturi pentru diferite activități : desenare, alergare, jocuri, învățare și alte activități fizice sau intelectuale. Fiecare tip de activitate este caracterizat de un anumit consum de energie.
+
+**Exemple de costuri energetice pentru o oră pentru un adult:**
+
+- Chiar și când dormim consumăm o energie de 200 kJ ( 45 calorii);
+
+- Cititul sau scrisul consumă 500 kJ;
+
+- Mersul pe jos: 900 kJ;
+
+- Mersul cu bicicleta: 1000 kJ (260 kcal)
+
+- Patinaj pe gheață sau pe role: 2000 kJ ( 480 kcal)
+
+- Alergarea: 2100 kJ;
+
+- Înotul: 2400 kJ
+
+- Fotbal: 2600 kJ ( 620 kcal)
+
+Când suntem obosiți, spunem că nu mai avem energie și capacitatea noastră de a desfășura diferite activități scade foarte mult. 
+
+
+
+:::
+
+
+<br></br>
+<br></br>
+
+
+
+## VII.5. Descompunerea termică a calcarului – proces endoterm.
+
+:::important
+
+Carbonatul de calciu, CaCO<sub>3</sub>, numit și calcar sau piatră de var, prin încălzire la temperatură ridicată, se descompune în oxid de calciu(var stins) și dioxid de carbon, conform reacției :
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_5_Poza1_ReactieDescompunereTermicaCalcar.jpg" />
+
+
+
+:::
+
+
+:::caution Aplicații
+
+Această reacție are aplicații la obținerea varului, folosit în construcții.
+
+:::
+
+
+
+:::important
+
+Reacțiile de descompunere termică sunt reacții endoterme care au loc cu absorbție de căldură. Căldura(Q) apare scrisă la reactanți( în partea stângă a reacției).
+
+:::
+
+
+În cuptorul de var, carbonatul de calciu se transformă în oxid de calciu, denumit var nestins și dioxid de carbon, la o temperatură de 1200°C. Căldura necesară acestui proces se obține prin arderea cărbunelui, care este o reacție exotermă :
+
+**C + O<sub>2</sub> = CO<sub>2</sub> ↑ + Q**
+
+
+**Calcar**
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_5_Poza2_PozaCalcar.jpg" />
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_5_Poza3_CuptorCalcar.jpg" />
+
+
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+
+## VII.6. Materiale de construcție.
+
+
+:::important Definiție
+
+**Materialele de construcție** reprezintă totalitatea materialelor care contribuie la execuția unei construcții.Cele mai importante materiale de construcții sunt cărămida, cimentul, sticla și betonul.
+
+
+:::
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza1_MaterialeDeConstructie.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+
+
+**- Cărămida**
+
+
+Cea mai veche formă de cărămidă a fost realizată din nămol întărit, datează din anul 7500 î.Hr. și a fost descoperită în regiunea văii superioare a fluviului Tigru. Primele cărămizi uscate de soare au fost făcute în Mesopotamia, în jurul anului 4000 î.Hr. Alte exemple de civilizații care au folosit cărămida sunt egiptenii antici, romanii și chinezii.
+
+
+
+:::important Definiție
+
+**Cărămida** este un material de construcție artificial, de formă prismatică, obținut dintr-un amestec de argilă, nisip și apă sau din alte materiale (beton, zgură de furnal etc.), uscat la soare sau ars în cuptor.
+
+Cărămizile nearse poartă denumirea de chirpici.
+
+
+
+:::
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza3_PozaCaramida.jpg" />
+
+
+
+
+:::caution Aplicații
+
+Cărămida este utilizată în domeniul construcțiilor deoarece acest material este rezistent la presiune și umiditate.
+
+
+:::
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza2_ProprietatiCaramida.jpg" />
+
+
+
+
+
+<br></br>
+<br></br>
+
+
+**- Cimentul**
+
+
+
+**Cimentul** este o pulbere gri, care conține oxid de calciu și argilă. Cimentul este folosit în principal pentru producerea de **mortar și beton**.
+
+
+Producția cimentului începe în cariera de calcar, cu excavarea pietrei de calcar și a argilei. Apoi, acestea sunt sfărâmate în bucăți de mărimea unei monede. Aceste materii prime, împreună cu un material care are aport de fier, sunt omogenizate într-o pudră, numită ”făină brută”. Făina brută este încălzită la o temperatură de 1.450 ˚C. Temperatura înaltă transformă făina într-un material nou, numit clincher. 
+
+Clincherul este răcit brusc, fiind apoi măcinat împreună cu gipsul într-o pulbere fină. Acesta este cimentul Portland. Pentru obținerea diferitelor tipuri de ciment se adaugă zgură și/sau cenușă de termocentrală (material ce rezultă din arderea cărbunelui sau a altor materiale de proveniență minerală). 
+
+Primul ciment a fost fabricat de romani.
+
+Cimentul amestecat cu nisip și cu apă formează un amestec care se întărește, numit **mortar**. Acesta se utilizează ca liant, fiind capabil de a lega cărămizile între ele pentru a forma elemente de construcții. 
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza4_Mortar.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**- Betonul**
+
+**Betonul** este o piatră artificială, care, asemenea pietrei naturale, rezistă bine la uzură. Prin amestecul cimentului cu nisip, pietriș, alți aditivi și apă obținem beton – cel mai folosit material de construcții din lume.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza5_Beton.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**-Sticla**
+
+Sticla este un material solid, amorf (fără structură cristalină), de obicei transparent, rezistență mecanică și duritate mare.
+
+Sticla era cunoscută în Orient din anul 4000 î.Hr.
+
+**Sticla de geam** se obține prin topirea unui amestec format din nisip(dioxid de siliciu), sodă, calcar și alți aditivi. Sticla de sodiu are compoziția aproximativă 6SiO<sub>2</sub>•CaO•Na<sub>2</sub>O. Se întrebuințează la fabricarea geamurilor și a ambalajelor de sticlă. Sticla de potasiu are compoziția  6SiO2•CaO•K2O și este rezistentă la variații de temperatură. Se folosește la fabricarea vaselor de laborator.
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza6_Sticla.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**-Cristalul (sticlă de plumb)**
+
+**Cristalul (sticlă de plumb)** este o sticlă în care sodiul și calciul s-au înlocuit cu potasiu și plumb (6SiO<sub>2</sub>•PbO•K<sub>2</sub>O) și se caracterizează prin proprietăți de refracție bune și densitate mare. Flintul și ștrasul conțin un procent de plumb mai mare decât cristalul. Flintul se folosește pentru prisme și lentile optice. 
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza7_SticlaCristal.jpg" />
+
+
+
+<br></br>
+<br></br>
+
+**-Sticla Jena, Pyrex sau Duran**
+
+**Sticla Jena, Pyrex sau Duran**  se obține prin adăugarea unor cantități mici de oxid de aluminiu (Al<sub>2</sub>O<sub>3</sub>) sau trioxid de bor (B<sub>2</sub>O<sub>3</sub>) se obțin sticle rezistente la variații bruște de temperatură care se folosesc la fabricarea vaselor de laborator. Au o rezistență chimică mare și un coeficient de dilatare mic. 
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza8_SticlaJena.jpg" />
+
+
+<br></br>
+<br></br>
+
+
+**-Sticlele colorate**
+
+
+**Sticlele colorate** se obțin dacă se adaugă în topitură unii oxizi metalici (de Fe,Co,Cr,Cu etc.), care formeaza silicatii colorați. În industria sticlei se utilizează drept coloranți un număr foarte mare de substanțe care se încadrează de obicei în trei categorii: coloranții ionici, coloranții moleculari și coloranții coloidali. Sticlele colorate se utilizează, în afara obiectelor de menaj, în numeroase domenii importante. Sticla colorată se folosește în transporturile aeriene, navele, terestre. (semnalizări luminoase), filtre pentru anumite radiații, pentru protejarea ochilor sudorilor, filtre colorate la aparate optice sau de analiză, ca decor, etc. 
+
+
+<Img className="img-responsive4" src="chimie/clasa8/capitolul7/7_6_Poza9_SticlaColorata.jpg" />
+
+
+ 
+ 
 
 
 
