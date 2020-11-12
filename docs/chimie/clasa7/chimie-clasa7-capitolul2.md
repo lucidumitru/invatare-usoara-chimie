@@ -320,6 +320,10 @@ Prin cristalizare am separat o substanță solidă sub formă de cristale dintr-
 
 <br></br>
 
+<Video src="https://www.youtube.com/embed/MxRAzjH6_Qs" />
+
+<br></br>
+
 
 :::caution Aplicaţiile cristalizării
 
