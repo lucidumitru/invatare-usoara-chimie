@@ -10,6 +10,8 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
+
+
 ## 1.1. Ce este chimia ?
 
 :::important Definiţie
