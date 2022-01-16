@@ -212,7 +212,7 @@ este o poveste despre atomi, molecule și interacțiunea dintre ele.
 ### 1.3.2. Sursele de încălzire şi încălzirea corpurilor.
 
 
-#### •	Sursele de încălzire trebuie folosite cu atenţie. 
+**•	Sursele de încălzire trebuie folosite cu atenţie.** 
 
 #### •  Aprinderea spirtierei (umplută numai cu alcool sanitar) se face numai cu băţul de chibrit iar stingerea acesteia se face numai prin acoperirea flăcării cu capacul spirtierei.
 
