@@ -23,7 +23,7 @@ este o poveste despre atomi, molecule și interacțiunea dintre ele.
 
 ## 1.2. Laboratorul de chimie
 
-#### Laboratorul de chimie este dotat cu ustensile și aparate specifice, substanțe chimice(reactivi), mobilier si nișă pentru evacuarea gazelor toxice.
+**Laboratorul de chimie este dotat cu ustensile și aparate specifice, substanțe chimice(reactivi), mobilier si nișă pentru evacuarea gazelor toxice.**
 
 **Eprubete**
 
