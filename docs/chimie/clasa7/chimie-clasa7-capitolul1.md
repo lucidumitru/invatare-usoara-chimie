@@ -207,7 +207,7 @@ este o poveste despre atomi, molecule și interacțiunea dintre ele.
 
 ### 1.3.1. Efectuarea experimentelor.
 
-#### Experimentele se efectuează numai sub îndrumarea profesorului, respectând cu strictețe instrucțiunile acestuia.
+**Experimentele se efectuează numai sub îndrumarea profesorului, respectând cu strictețe instrucțiunile acestuia.**
 
 ### 1.3.2. Sursele de încălzire şi încălzirea corpurilor.
 
