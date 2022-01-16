@@ -10,11 +10,13 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
+
+
 ## 1.1. Ce este chimia ?
 
 :::important Definiţie
 
-**Chimia** este știința naturii care studiază alcătuirea, proprietățiile și transformările substanțelor din natură. Chimia 
+**Chimia** este știința naturii care studiază alcătuirea, proprietățile și transformările substanțelor din natură. Chimia 
 este o poveste despre atomi, molecule și interacțiunea dintre ele.
 
 :::
